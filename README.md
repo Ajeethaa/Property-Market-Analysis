@@ -8,7 +8,7 @@
 
 > To assist the investor, this analysis will examine the historical data on housing prices in Perth city and analyse the surrounding infrastructures which includes restaurants, cafes, and bakeries. The analysis will propose the price range based on property type and location within the city. A recommendation is made to this investor on the choice of properties.
 
-> In this project, there will be two jupyter notebooks; __Notebook__ and __Report__ and two csv files. Notebook has all the code work done necessary for the Report. The Report entails visualisation and write up on the analysis. For more on the project, please click [here.](https://ajeethaa.github.io/Property_Market_Analysis/.html).
+> In this project, there will be two jupyter notebooks; __Notebook__ and __Report__ and two csv files. Notebook has all the code work done necessary for the Report. The Report entails visualisation and write up on the analysis. For more on the project, please click [here.](https://ajeethaa.github.io/Property_Market_Analysis/.html)
 
 ## Tools used in this projects: 
 > - Python; 
