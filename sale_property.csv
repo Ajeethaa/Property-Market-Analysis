@@ -1,0 +1,411 @@
+address,price,dwelling,bathroom,bedroom,carport,size_m2
+"42/43 Wickham Street, EAST PERTH WA 6004",495000,Apartment,2,2,1,509
+"16 Plunkett Street, HIGHGATE WA 6003",899000,House,2,3,1,890
+"2701/237 Adelaide Terrace, PERTH WA 6000",3,Apartment,4,4,2,340
+"41 Cowle Street, WEST PERTH WA 6005",24,House,2,4,1,160
+"4E/1303 Hay Street, WEST PERTH WA 6005",300000,Apartment,1,1,1,161
+"2501/8 Adelaide Terrace, EAST PERTH WA 6004",2,Apartment,3,3,2,271
+"903/11 Barrack Square, PERTH WA 6000",1460000,Apartment,2,2,1,101
+"12 Lane Street, PERTH WA 6000",789000,House,1,3,3,154
+"5/16 Prowse Street, WEST PERTH WA 6005",859000,Apartment,2,3,2,143
+"609/130A Mounts Bay Road, PERTH WA 6000",189000,Apartment,1,1,0,149
+"3/355 NEWCASTLE STREET, NORTHBRIDGE WA 6003",1150000,Unknown,1,1,2,107
+"20/17 Wickham Street, EAST PERTH WA 6004",375000,Off the Plan,2,2,1,182
+"12/17 Wickham Street, EAST PERTH WA 6004",478000,Off the Plan,3,3,1,146
+"G 17/42-52 Terrace Road, EAST PERTH WA 6004",400000,Apartment,2,3,1,197
+"20/118 Royal Street, EAST PERTH WA 6004",600000,Apartment,2,2,2,322
+"23/337 Lord Street, HIGHGATE WA 6003",499000,Apartment,1,2,2,233
+"5D/1303 Hay Street, WEST PERTH WA 6005",439000,Apartment,2,3,1,189
+"18/150 Stirling Street, PERTH WA 6000",299000,Apartment,2,2,1,138
+"42/78 Terrace Road, EAST PERTH WA 6004",799000,Apartment,2,3,2,209
+"43/88 Terrace Road, EAST PERTH WA 6004",1,Apartment,2,3,2,193
+"106/90 Terrace Road, EAST PERTH WA 6004",1499000,Apartment,1,2,3,137
+"14 Hope Street, PERTH WA 6000",800000,House,1,1,2,108
+"189 Fitzgerald Street, WEST PERTH WA 6005",680000,House,2,2,1,217
+"202/189 Adelaide Terrace, EAST PERTH WA 6004",700000,Apartment,1,1,1,141
+PERTH WA 6000,397000,Off the Plan,1,1,0,357
+PERTH WA 6000,528000,Off the Plan,2,2,0,363
+"62/47 Forrest Avenue, EAST PERTH WA 6004",615000,Apartment,2,3,1,120
+"154a Lake Street, PERTH WA 6000",600000,House,1,1,1,359
+"2/128 Mounts Bay Road, PERTH WA 6000",299000,Apartment,1,1,1,273
+"83/369 Hay Street, PERTH WA 6000",339000,Apartment,1,2,1,161
+"9/273 Hay Street, EAST PERTH WA 6004",288000,Apartment,1,1,1,160
+"15/114 Terrace Road, PERTH WA 6000",219000,Villa,1,1,0,258
+"205/(Lot39) 228 James Street, NORTHBRIDGE WA 6003",300,Apartment,2,2,1,126
+"602/63 Adelaide Terrace, EAST PERTH WA 6004",549000,Apartment,2,2,1,173
+"13/2 Douro Place, WEST PERTH WA 6005",469000,Apartment,1,2,1,395
+"27/288 Lord Street, HIGHGATE WA 6003",369000,Apartment,1,1,1,141
+"19/34 Carr Street, WEST PERTH WA 6005",389000,Apartment,1,3,1,255
+"7/28 Oak Lane, WEST PERTH WA 6005",500000,Townhouse,2,2,2,200
+"1401/659 Murray Street, WEST PERTH WA 6005",499000,Apartment,2,3,1,161
+"38/22 St Georges Terrace, PERTH WA 6000",895000,Apartment,2,2,2,617
+"138/181 Adelaide Terrace, EAST PERTH WA 6004",579000,Apartment,1,1,1,119
+"U70/33 Newcastle Street, PERTH WA 6000",299000,Apartment,2,2,1,320
+"72/131 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,2,1,357
+"15/43 Wickham Street, EAST PERTH WA 6004",479000,Apartment,2,3,2,143
+"39/5 Delhi Street, WEST PERTH WA 6005",400,Apartment,1,2,1,206
+"4/273 Lord Street, PERTH WA 6000",390000,Apartment,1,1,1,215
+"1105/63 Adelaide Terrace, EAST PERTH WA 6004",390000,Apartment,2,2,1,147
+"72/189 Adelaide Terrace, EAST PERTH WA 6004",670000,Apartment,2,2,1,589
+"68/131 Harold Street, HIGHGATE WA 6003",499000,Apartment,2,3,2,142
+"3/2A Janet Street, WEST PERTH WA 6005",630000,Townhouse,2,3,1,108
+"118/580 Hay Street, PERTH WA 6000",800000,Apartment,2,2,2,119
+"505/108 Terrace Road, EAST PERTH WA 6004",749000,Apartment,2,3,2,136
+"9 Dangan Street, PERTH WA 6000",799,House,4,4,2,125
+"8 Vanguard Terrace, EAST PERTH WA 6004",2950000,House,3,3,2,381
+"1/47 Forrest Avenue, EAST PERTH WA 6004",1,Apartment,1,1,2,114
+"307/11 Barrack Square, PERTH WA 6000",500,Apartment,2,2,0,122
+"63/22 St Georges Terrace, PERTH WA 6000",550000,Apartment,1,3,1,132
+"150/22 St Georges Terrace, PERTH WA 6000",1600000,Apartment,2,3,3,193
+"1-5/55 Gladstone Street, PERTH WA 6000",1250000,House,4,4,1,317
+"11/269 Hay Street, EAST PERTH WA 6004",480000,Apartment,2,3,1,192
+"B/136 Glendower Street, PERTH WA 6000",899000,House,1,2,2,107
+"29/190 Hay Street, EAST PERTH WA 6004",200,Apartment,2,2,1,314
+"12/82 King Street, PERTH WA 6000",1,Apartment,1,1,1,162
+"9/112-122 GODERICH STREET, EAST PERTH WA 6004",189000,Apartment,1,2,1,690
+"2F Brisbane Place, PERTH WA 6000",625000,Townhouse,1,1,1,278
+"13/118 Terrace Road, PERTH WA 6000",250000,Apartment,1,1,0,161
+"43/131 Harold Street, HIGHGATE WA 6003",339000,Apartment,3,3,1,147
+"51/170 Adelaide Terrace, EAST PERTH WA 6004",439000,Apartment,1,2,1,167
+"8 Plunkett Street, HIGHGATE WA 6003",899000,House,1,2,2,151
+"21/273 Hay Street, EAST PERTH WA 6004",349000,Apartment,2,3,1,107
+"34D Cleaver Street, WEST PERTH WA 6005",779000,Townhouse,1,1,2,102
+"5D/811 Hay Street, PERTH WA 6000",295000,Apartment,2,3,0,784
+"70/155 Adelaide Terrace, EAST PERTH WA 6004",29,Apartment,1,3,2,126
+"17/125 Wellington Street, EAST PERTH WA 6004",399000,Apartment,2,2,1,109
+"45/188 Adelaide Terrace, EAST PERTH WA 6004",399000,Apartment,2,2,1,294
+"13/48 Outram Street, WEST PERTH WA 6005",439000,Apartment,1,3,1,145
+"63/100 TERRACE ROAD, EAST PERTH WA 6004",1200000,Apartment,2,2,2,109
+"28/369 Hay Street, PERTH WA 6000",429000,Apartment,1,2,1,266
+"6/10 Smith Street, PERTH WA 6000",395000,Apartment,1,3,1,224
+"379 Bulwer Street, WEST PERTH WA 6005",799000,House,2,2,1,113
+"71/148 Adelaide Terrace, EAST PERTH WA 6004",549000,Apartment,1,3,2,394
+"7/42-44 Bronte St, EAST PERTH WA 6004",439000,Apartment,2,2,1,779
+"16/580 Hay Street, PERTH WA 6000",479000,Apartment,3,3,1,196
+"2/50 Royal Street, EAST PERTH WA 6004",1000000,Apartment,2,2,2,138
+"410/9 Tully Road, EAST PERTH WA 6004",495000,Apartment,2,3,1,288
+"10/20 Pendal Lane, PERTH WA 6000",390000,Apartment,2,3,1,345
+"3/2 Outram Street, WEST PERTH WA 6005",395000,Apartment,1,3,2,146
+"8/4 Bellevue Terrace, WEST PERTH WA 6005",11,Apartment,1,2,1,216
+"11 Florence Street, WEST PERTH WA 6005",895000,House,1,1,1,589
+"15a/120-122 Lake Street, NORTHBRIDGE WA 6003",389000,Apartment,2,2,1,498
+"37/250 Beaufort Street, PERTH WA 6000",279000,Apartment,1,1,1,257
+"50/22 Nile Street, EAST PERTH WA 6004",349000,Apartment,1,2,1,491
+"4/23 Wellington Street, EAST PERTH WA 6004",299000,Apartment,2,2,1,304
+"4/148 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,3,1,165
+"8/153 Kensington Street, EAST PERTH WA 6004",399000,Apartment,1,2,2,498
+"19/70 Wittenoom Street, EAST PERTH WA 6004",899000,Apartment,2,2,1,285
+"47/175 Hay Street, EAST PERTH WA 6004",389000,House,2,2,1,103
+"104/15 Aberdeen St, PERTH WA 6000",409000,Apartment,2,3,2,203
+"6 Edith Street, PERTH WA 6000",700,Townhouse,2,2,2,123
+"11/8 Outram Street, WEST PERTH WA 6005",600000,Apartment,1,3,2,115
+"25 Tully Road, EAST PERTH WA 6004",1100000,House,1,1,1,143
+"47 Wellington Street, EAST PERTH WA 6004",700000,House,2,3,0,552
+"38 Wade Street, PERTH WA 6000",649000,House,2,3,2,651
+"2402/8 Adelaide Terrace, EAST PERTH WA 6004",1525000,Penthouse,2,2,2,750
+"607/2 Moreau Parade, EAST PERTH WA 6004",830000,Apartment,1,2,1,130
+"206/8 Moreau Parade, EAST PERTH WA 6004",465000,Apartment,1,2,1,114
+"213/8 Moreau Parade, EAST PERTH WA 6004",340000,Studio,1,3,1,125
+"16 Court Street, HIGHGATE WA 6003",575000,House,2,2,1,125
+"8/151 Adelaide Tce, EAST PERTH WA 6004",445000,Apartment,1,2,1,125
+"106/131 Harold Street, HIGHGATE WA 6003",400000,Apartment,2,3,1,125
+"60/6 Campbell Street, WEST PERTH WA 6005",329000,Apartment,2,3,1,125
+"50/580 Hay Street, PERTH WA 6000",800000,Apartment,2,2,1,125
+"1802/63 Adelaide Terrace, EAST PERTH WA 6004",695000,Apartment,2,3,1,125
+"904/251 Hay Street, EAST PERTH WA 6004",390000,Apartment,2,2,1,125
+"116/151 Adelaide Terrace, EAST PERTH WA 6004",580000,Apartment,2,2,2,125
+"57 Forrest Avenue, EAST PERTH WA 6004",750000,Vacant land,1,1,1,125
+"140/996 Hay Street, PERTH WA 6000",650000,Apartment,1,3,0,125
+"4/71 Brewer Street, PERTH WA 6000",399000,Apartment,2,2,1,125
+"23/7 Bronte Street, EAST PERTH WA 6004",469000,Apartment,2,1,2,125
+"3/188 Adelaide Terrace, EAST PERTH WA 6004",4,Apartment,2,2,1,125
+"6 Wittenoom Street, EAST PERTH WA 6004",1,House,1,1,1,125
+"67/18 Wellington Street, EAST PERTH WA 6004",295000,Apartment,1,2,1,125
+"65/1 Carr Street, WEST PERTH WA 6005",399000,Apartment,2,1,2,125
+"43/1324 Hay Street, WEST PERTH WA 6005",519000,Apartment,1,3,2,125
+"23 Phelps Lane, HIGHGATE WA 6003",499000,Townhouse,1,3,2,125
+"8/990 Wellington Street, WEST PERTH WA 6005",329000,Apartment,2,2,1,125
+"29 Cowle Street, WEST PERTH WA 6005",735000,House,2,1,1,125
+"11/5 Delhi Street, WEST PERTH WA 6005",400,Apartment,2,2,1,125
+"58/4 Delhi St, WEST PERTH WA 6005",369000,Apartment,1,1,2,125
+"40/134 Aberdeen Street, NORTHBRIDGE WA 6003",375000,Apartment,3,3,1,125
+"1/8 Prowse Street, WEST PERTH WA 6005",459000,Apartment,2,2,4,125
+PERTH WA 6000,249000,Apartment,2,3,2,125
+"14/156 Lincoln Street, HIGHGATE WA 6003",279000,Apartment,2,2,2,125
+"20/269 James Street, NORTHBRIDGE WA 6003",400000,Apartment,1,1,1,125
+"10/2 Pisconeri Street, PERTH WA 6000",349000,Apartment,1,2,1,125
+"1/1 Erskine Link, EAST PERTH WA 6004",400000,Apartment,1,2,0,125
+"39/120-122 Lake Street, PERTH WA 6000",339000,Apartment,2,2,0,125
+"40/144 Lincoln Street, HIGHGATE WA 6003",189000,Apartment,2,3,0,125
+"2/273 Hay Street, EAST PERTH WA 6004",259000,Apartment,3,1,2,125
+"66-70 Wright Street, HIGHGATE WA 6003",430000,Apartment,1,1,2,125
+"51/189 Adelaide Terrace, EAST PERTH WA 6004",799000,Apartment,2,2,1,125
+"54/255 Adelaide Terrace, PERTH WA 6000",1280000,Apartment,2,3,1,125
+"52/34 East Parade, EAST PERTH WA 6004",399000,Apartment,1,3,1,125
+"17/188 Newcastle Street, PERTH WA 6000",400,Apartment,2,1,1,125
+"64/100 Terrace Road, EAST PERTH WA 6004",799000,Apartment,1,2,1,125
+"66/123 Wellington Street, EAST PERTH WA 6004",390000,Apartment,1,1,1,125
+"20/17 Wickham Street, EAST PERTH WA 6004",290,Apartment,1,2,1,125
+"107/228 James Street, NORTHBRIDGE WA 6003",395000,Townhouse,2,1,1,125
+"G2/122 Brown Street, EAST PERTH WA 6004",300000,Apartment,1,1,1,125
+"6/36 Smith Street, HIGHGATE WA 6003",289000,Apartment,1,2,1,125
+"7/2 Bremer Promenade, EAST PERTH WA 6004",349000,Apartment,2,2,1,125
+"25/138 Adelaide Terrace, EAST PERTH WA 6004",179000,Apartment,1,3,2,125
+"61/15 Aberdeen Street, PERTH WA 6000",299000,Apartment,3,3,1,125
+"63 Henry Lawson Walk, EAST PERTH WA 6004",700000,Townhouse,1,2,0,125
+"2/11 Brown Street, EAST PERTH WA 6004",5950000,Apartment,3,1,1,125
+"11 Mary Street, HIGHGATE WA 6003",700000,House,1,2,2,125
+"193/369 Hay Street, PERTH WA 6000",370000,Apartment,2,2,0,125
+"6/19 Ventnor Avenue, WEST PERTH WA 6005",385000,Apartment,1,1,2,125
+"703/237 Adelaide Terrace, PERTH WA 6000",300000,Apartment,2,2,1,125
+"1505/8 Adelaide Terrace, EAST PERTH WA 6004",485000,Apartment,2,2,1,125
+"9/22 Brown Street, EAST PERTH WA 6004",400000,Apartment,2,1,2,125
+"97/269 James Street, NORTHBRIDGE WA 6003",415000,Apartment,1,2,1,125
+"16/19 Little Shenton Lane, NORTHBRIDGE WA 6003",300,Apartment,2,2,1,125
+"198 Lincoln Street, HIGHGATE WA 6003",875000,House,1,2,2,125
+"G306/2 St Georges Tce, PERTH WA 6000",499000,Apartment,1,2,1,125
+"11/49-53 Bronte Street, EAST PERTH WA 6004",349000,Apartment,1,2,1,125
+"52/143 Adelaide Terrace, EAST PERTH WA 6004",300,Apartment,4,3,2,125
+"78/250 Beaufort Street, PERTH WA 6000",415000,Apartment,2,1,2,125
+"115 Summers Street, PERTH WA 6000",720,House,1,3,1,125
+"24/255 Adelaide Terrace, PERTH WA 6000",500,Apartment,2,3,2,125
+"502/9 Tully Road, EAST PERTH WA 6004",399000,Apartment,3,6,1,125
+"135/189 Adelaide Terrace, EAST PERTH WA 6004",1180000,Apartment,6,1,2,125
+"226/189 Adelaide Terrace, EAST PERTH WA 6004",2500000,Apartment,1,4,6,125
+"1/11 Brown Street, EAST PERTH WA 6004",4450000,Apartment,2,2,2,125
+"82/250 Beaufort Street, PERTH WA 6000",400000,Apartment,2,2,1,125
+"G23/42 Terrace Road, EAST PERTH WA 6004",599000,Apartment,1,2,1,125
+"19/20 Pendal Lane, PERTH WA 6000",300000,Apartment,2,1,1,125
+"12/34 East Parade, EAST PERTH WA 6004",489000,Apartment,1,2,1,125
+"76/227 Vincent Street, WEST PERTH WA 6005",179000,Apartment,3,2,1,125
+"6/17 Wickham Street, EAST PERTH WA 6004",264000,Apartment,1,2,2,125
+"3/17 Wickham Street, EAST PERTH WA 6004",240000,Apartment,2,2,2,125
+"40/1 Douro Place, WEST PERTH WA 6005",520000,Apartment,2,4,2,125
+"2507/63 Adelaide Terrace, EAST PERTH WA 6004",720000,Apartment,2,2,2,125
+"8/315 Bulwer Street, PERTH WA 6000",299000,Apartment,2,3,2,125
+"8/2 Henry Lawson Walk, EAST PERTH WA 6004",700000,Apartment,2,1,1,125
+"50/250 Beaufort Street, PERTH WA 6000",500,Apartment,1,1,1,125
+"106/101 Murray Street, PERTH WA 6000",470000,Apartment,2,2,0,125
+"67/149-151 Adelaide Terrace, EAST PERTH WA 6004",499000,Apartment,2,1,2,125
+"503/35 Bronte Street, EAST PERTH WA 6004",399000,Apartment,1,1,1,125
+"601/78 Stirling Street, PERTH WA 6000",435000,Apartment,2,2,1,125
+"20/17 Wickham Street, EAST PERTH WA 6004",388000,Apartment,2,2,1,125
+"12/17 Wickham Street, EAST PERTH WA 6004",479000,Apartment,2,2,1,125
+"15/34 East Parade, EAST PERTH WA 6004",519000,Apartment,2,2,1,125
+"7/117 Lake Street, PERTH WA 6000",520000,Townhouse,1,1,1,125
+"906/63 Adelaide Terrace, EAST PERTH WA 6004",505000,Apartment,1,3,1,125
+"36/255 Adelaide Terrace, PERTH WA 6000",425000,Apartment,2,3,2,125
+"LOT 100 Palmerston Street, PERTH WA 6000",750,Townhouse,2,2,1,125
+"45/78 Terrace Road, EAST PERTH WA 6004",799000,Apartment,1,1,2,125
+"82/149-151 Adelaide Terrace, EAST PERTH WA 6004",375000,Off the Plan,1,2,1,125
+"104/18 Rheola Street, WEST PERTH WA 6005",379000,Apartment,1,1,1,125
+"40/17 Wickham Street, EAST PERTH WA 6004",1000000,Apartment,1,2,1,125
+"100/128 Adelaide Terrace, EAST PERTH WA 6004",379000,Apartment,2,2,1,125
+"705/9 Tully Road, EAST PERTH WA 6004",460000,Apartment,1,2,1,125
+"305/18 Rheola Street, WEST PERTH WA 6005",295000,Apartment,2,2,1,125
+"22/82 King Street, PERTH WA 6000",795000,Apartment,2,2,1,125
+"212/8 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,2,1,125
+"21/128 Adelaide Terrace, EAST PERTH WA 6004",300000,Apartment,2,3,1,125
+"2/21 Altona Street, WEST PERTH WA 6005",499000,Apartment,4,2,2,125
+"2/37 Mount Street, WEST PERTH WA 6005",795000,Apartment,2,2,3,125
+"610/659 Murray Street, WEST PERTH WA 6005",469000,Apartment,2,2,1,125
+"12/929 Wellington Street, WEST PERTH WA 6005",300000,Apartment,1,3,1,125
+"2408/63 Adelaide Terrace, EAST PERTH WA 6004",710000,Apartment,2,1,1,125
+"107/181 Adelaide Terrace, EAST PERTH WA 6004",699000,Apartment,1,3,1,125
+"19/34 East Parade, EAST PERTH WA 6004",449000,Apartment,3,3,0,125
+"24/63 Adelaide Terrace, EAST PERTH WA 6004",377500,Apartment,2,3,3,125
+"6/33 Mounts Bay Road, PERTH WA 6000",220000,Apartment,1,2,2,125
+"57/255 Adelaide Terrace, PERTH WA 6000",1700000,House,2,1,1,125
+"2/103 Royal Street, EAST PERTH WA 6004",899000,Apartment,1,2,1,125
+"7/105 Colin Street, WEST PERTH WA 6005",300,Apartment,8,2,1,125
+"15/211 Beaufort Street, PERTH WA 6000",515000,House,1,1,0,125
+"26/22 St Georges Terrace, PERTH WA 6000",600,Apartment,1,2,1,125
+"43/2 Mayfair Street, WEST PERTH WA 6005",349000,Apartment,1,1,1,125
+"37-39, 41-43 Money St, NORTHBRIDGE WA 6003",4,House,2,3,1,125
+"1/20 Kingston Avenue, WEST PERTH WA 6005",339000,Apartment,1,3,2,125
+"52/118 Mounts Bay Road, PERTH WA 6000",399000,Apartment,2,2,1,125
+"2/128 Mounts Bay Rd, PERTH WA 6000",350000,Apartment,2,2,2,125
+"1804/105 Stirling Street, PERTH WA 6000",600,Apartment,2,3,2,125
+"116/580 Hay Street, PERTH WA 6000",898000,Apartment,3,3,2,125
+"10/2303 The Towers Elizabeth Quay Barrack Street, PERTH WA 6000",2576000,Apartment,2,3,2,125
+"40/229 Adelaide Terrace, PERTH WA 6000",699000,Apartment,2,1,1,125
+"20/33 Malcolm Street, WEST PERTH WA 6005",599000,Apartment,2,1,2,125
+"175/471 Hay Street, PERTH WA 6000",475000,Apartment,1,1,0,125
+"85/262 Lord Street, PERTH WA 6000",699000,Apartment,1,1,1,125
+"3/98 Terrace Road, EAST PERTH WA 6004",1149000,Apartment,1,1,0,125
+"372 Newcastle Street, PERTH WA 6000",2680,Vacant land,1,1,1,125
+"Apt 1403 / 600 Wellington Street, PERTH WA 6000",398000,Off the Plan,1,2,1,125
+"Apt 2409 / 600 Wellington Street, PERTH WA 6000",458000,Off the Plan,1,2,1,125
+"Apt 1304 / 600 Wellington Street, PERTH WA 6000",405000,Off the Plan,1,1,1,125
+"Apt 2905 / 600 Wellington Street, PERTH WA 6000",498000,Off the Plan,2,1,0,125
+"Apt 2904/600 Wellington Street, PERTH WA 6000",498000,Off the Plan,1,2,2,125
+"140/143 Adelaide Terrace, EAST PERTH WA 6004",279000,Studio,1,2,1,125
+"13/273 Hay Street, EAST PERTH WA 6004",375,Apartment,1,3,1,125
+"2/580 Hay Street, PERTH WA 6000",850000,Apartment,1,2,1,125
+"317/8 Adelaide Terrace, EAST PERTH WA 6004",320000,Apartment,2,2,2,125
+"7/120 Lake Street, PERTH WA 6000",380000,Apartment,1,2,1,125
+"14/62 Bronte Street, EAST PERTH WA 6004",370000,Apartment,2,2,1,125
+"17/50 Royal Street, EAST PERTH WA 6004",1195000,Apartment,1,2,2,125
+"29/6 Campbell Street, WEST PERTH WA 6005",400000,Apartment,2,4,1,125
+"153/15 Aberdeen Street, PERTH WA 6000",400000,Apartment,2,3,2,125
+"411/122 Brown St, EAST PERTH WA 6004",440000,Apartment,4,1,1,125
+"100/131 Harold Street, HIGHGATE WA 6003",799000,Apartment,1,2,4,125
+"411/122 Brown Street, EAST PERTH WA 6004",440000,Apartment,1,2,1,125
+"2004/105 Stirling Street, PERTH WA 6000",898000,Apartment,1,1,1,125
+"106/8 Adelaide Terrace, EAST PERTH WA 6004",595000,Apartment,2,2,0,125
+"377 Bulwer Street, WEST PERTH WA 6005",950000,House,1,2,1,125
+"122/45 Adelaide Terrace, EAST PERTH WA 6004",210000,Studio,4,3,1,125
+"1/580 Hay Street, PERTH WA 6000",699000,Apartment,1,2,2,125
+"3/218 James Street, NORTHBRIDGE WA 6003",460000,Apartment,1,5,1,125
+"306/45 Adelaide Terrace, EAST PERTH WA 6004",275000,Apartment,4,3,1,125
+"67/138 Adelaide Terrace, EAST PERTH WA 6004",499000,Apartment,2,3,3,125
+"50/78 Terrace Road, EAST PERTH WA 6004",11,Apartment,2,2,2,125
+"87/9 Delhi Street, WEST PERTH WA 6005",299000,Apartment,2,3,2,125
+"123/132 Terrace Road, PERTH WA 6000",11,Apartment,2,3,2,125
+"121/181 Adelaide Terrace, EAST PERTH WA 6004",27,Apartment,2,1,1,125
+"21 Lacey Street, PERTH WA 6000",799000,House,2,4,1,125
+"5/262 Lord Street, PERTH WA 6000",520000,Apartment,1,2,0,125
+"1/2 Douro Place, WEST PERTH WA 6005",795000,Apartment,2,1,0,125
+"3/2 Douro Place, WEST PERTH WA 6005",495000,Apartment,1,1,1,125
+"124/138 Barrack Street, PERTH WA 6000",28,Apartment,1,1,2,125
+"31/17 Wickham, EAST PERTH WA 6004",425000,Apartment,1,3,1,125
+"35/78 Terrace Rd, EAST PERTH WA 6004",968378,Apartment,1,2,1,125
+"77/996 Hay Street, PERTH WA 6000",349000,Apartment,1,2,1,125
+"14/22 St Georges Terrace, PERTH WA 6000",359,Apartment,2,2,1,125
+"2F/1303 Hay Street, WEST PERTH WA 6005",375000,Apartment,2,2,2,125
+"92/143 Adelaide Terrace, EAST PERTH WA 6004",329000,Apartment,1,3,1,125
+"W7/161 Colin Street, WEST PERTH WA 6005",290000,Apartment,1,2,2,125
+"29/131 Harold street, HIGHGATE WA 6003",490000,Apartment,2,1,1,125
+"21 Myrtle Street, PERTH WA 6000",810000,Townhouse,1,3,3,125
+"31/9 Delhi Street, WEST PERTH WA 6005",389000,House,2,2,1,125
+"13E/98 Terrace Road, EAST PERTH WA 6004",599,Apartment,1,1,2,125
+"404/251 Hay Street, EAST PERTH WA 6004",340,Apartment,2,2,2,125
+"28 Myrtle Street, PERTH WA 6000",775000,House,1,3,0,125
+"67/4 Delhi Street, WEST PERTH WA 6005",395000,Apartment,1,3,2,125
+"80/78 Terrace Road, EAST PERTH WA 6004",779000,Apartment,2,2,0,125
+"8/10 Smith Street, PERTH WA 6000",747,Townhouse,1,1,1,125
+"4/147 Charles Street, WEST PERTH WA 6005",260000,House,2,3,0,125
+"109/45 Adelaide Terrace, EAST PERTH WA 6004",175000,Apartment,1,3,0,125
+EAST PERTH WA 6004,520000,New Home Designs,1,2,1,125
+"Unit/7F/811 Hay Street St, PERTH WA 6000",249000,Apartment,2,2,2,125
+"Unit 1B/70 Terrace Rd, EAST PERTH WA 6004",895000,Apartment,2,2,2,125
+"89/250 Beaufort Street, PERTH WA 6000",339000,Apartment,2,3,1,125
+"78/227 Vincent Street, WEST PERTH WA 6005",100000,Apartment,2,2,1,125
+"E12/161 Colin Street, WEST PERTH WA 6005",929000,Apartment,2,2,1,125
+"509/9 Tully Road, EAST PERTH WA 6004",475000,Apartment,2,2,1,125
+"69/69 Milligan Street, PERTH WA 6000",440000,Apartment,2,2,2,125
+"408/9 Tully Road, EAST PERTH WA 6004",465000,Apartment,2,3,2,125
+"8/927 Wellington Street, WEST PERTH WA 6005",430000,Apartment,2,3,2,125
+"17/193 Hay Street, EAST PERTH WA 6004",269000,Apartment,1,2,2,125
+"44/42 Terrace Road, EAST PERTH WA 6004",1199000,Apartment,2,1,1,125
+"3/478 William Street, PERTH WA 6000",489000,Apartment,1,1,1,125
+"8/4 Delhi Street, WEST PERTH WA 6005",449000,Apartment,1,2,2,125
+"1301/237 Adelaide Terrace, PERTH WA 6000",499000,Apartment,1,2,1,125
+"1908/8 Adelaide Terrace, EAST PERTH WA 6004",495000,Apartment,1,2,1,125
+"1909/78 Stirling Street, PERTH WA 6000",600,Apartment,2,4,1,125
+"94/131 Harold Street, HIGHGATE WA 6003",350000,Apartment,1,2,1,125
+"410/130A Mounts Bay Road, PERTH WA 6000",190000,Apartment,1,2,1,125
+"909/305 Murray Street, PERTH WA 6000",260000,Apartment,4,2,1,125
+"Unit 97, 33 Newcastle Street, PERTH WA 6000",449000,Unknown,1,1,0,125
+"410/9 Tully Road, EAST PERTH WA 6004",495000,Apartment,2,2,1,125
+"Unit 1 247 Stirling Street, PERTH WA 6000",23,New House & Land,1,2,3,125
+PERTH WA 6000,645000,Apartment,1,2,0,125
+"1G/811 Hay Street, PERTH WA 6000",280000,Apartment,2,1,1,125
+"402, 9 Tully Road, EAST PERTH WA 6004",385000,Apartment,2,3,1,125
+"26/228 James Street, NORTHBRIDGE WA 6003",349000,Apartment,1,2,2,125
+"1/255 Newcastle Street, NORTHBRIDGE WA 6003",450000,Apartment,2,1,1,125
+"4/255 Newcastle Street, NORTHBRIDGE WA 6003",430000,Apartment,2,3,1,125
+PERTH WA 6000,388000,Apartment,2,3,1,125
+"3/78 Terrace Road, EAST PERTH WA 6004",770000,Apartment,1,2,1,125
+"8/17 Wickham, EAST PERTH WA 6004",618000,Apartment,3,2,1,125
+"505/9 Tully Road, EAST PERTH WA 6004",440000,Apartment,1,1,1,125
+"Wellington Street, PERTH WA 6000",429000,House,1,2,1,125
+"Lot 2 46 Joel Terrace, EAST PERTH WA 6004",450000,Vacant land,2,4,1,125
+"1/190 Hay Street, EAST PERTH WA 6004",375000,Apartment,1,3,0,125
+"1/62 Fitzgerald Street, NORTHBRIDGE WA 6003",600000,Unknown,1,1,3,125
+"1/2 Braid Street, PERTH WA 6000",449000,Unknown,4,1,1,125
+"6/231 Adelaide  terrace, PERTH WA 6000",399000,Apartment,2,1,1,125
+EAST PERTH WA 6004,1550000,Unknown,1,2,1,125
+"35 Bronte Street, EAST PERTH WA 6004",525000,Apartment,1,3,0,125
+"37/33 Mounts Bay Road, PERTH WA 6000",219000,Apartment,2,2,2,125
+"31 Chapman Street, PERTH WA 6000",829000,House,1,4,1,125
+"15/273 Hay Street, EAST PERTH WA 6004",349000,Apartment,2,2,1,125
+EAST PERTH WA 6004,350,Apartment,1,2,1,125
+"11/124 Terrace Road, PERTH WA 6000",200000,Apartment,1,2,1,125
+"418/875 Wellington Street, WEST PERTH WA 6005",185000,Apartment,2,1,1,125
+WEST PERTH WA 6005,3,Apartment,1,2,2,125
+"46 Wickham Street, EAST PERTH WA 6004",629000,Unknown,1,2,1,125
+"100/22 St Georges Terrace, PERTH WA 6000",390000,Apartment,4,2,2,125
+"16/131 Harold Street, HIGHGATE WA 6003",300000,Apartment,2,3,1,125
+"2/17 Wickham, EAST PERTH WA 6004",629000,Apartment,2,2,1,125
+"121/149-151 Adelaide  Terrace, EAST PERTH WA 6004",349000,Apartment,2,1,0,125
+"27 Chapman Street, PERTH WA 6000",845000,House,2,1,2,125
+"17/9 Tully Road, EAST PERTH WA 6004",349000,Apartment,1,1,6,125
+"14 Florence St, WEST PERTH WA 6005",1,House,1,1,1,125
+"18/9 Tully Road, EAST PERTH WA 6004",460000,Apartment,2,2,2,125
+"905/251 Hay Street, EAST PERTH WA 6004",685000,Apartment,1,3,2,125
+"19/7 Bennett Street, EAST PERTH WA 6004",465000,Apartment,1,3,1,125
+"34 Joel  Terrace, EAST PERTH WA 6004",449000,Vacant land,2,2,2,125
+"Wellington, PERTH WA 6000",400,Apartment,3,2,1,125
+"9/112-122 GODERICH STREET, EAST PERTH WA 6004",189000,Apartment,3,2,1,125
+"1115/380 Murray Street, PERTH WA 6000",334000,Apartment,1,3,2,125
+"15 Palmerston St, NORTHBRIDGE WA 6003",1600000,House,1,2,0,125
+"1911/1 Geoffrey Bolton Avenue, PERTH WA 6000",1738000,Apartment,2,1,0,125
+"Level 2/72 Kings Park Road, WEST PERTH WA 6005",1600000,Unknown,2,3,1,125
+"16/82 Royal Street, EAST PERTH WA 6004",300,Apartment,1,1,4,125
+"Unit 82 33 Newcastle Street, PERTH WA 6000",595000,Apartment,1,3,2,125
+"2/46 Joel Terrace, EAST PERTH WA 6004",479000,House,2,2,0,125
+"5/17 Gladstone Street, PERTH WA 6000",549,Apartment,3,2,2,125
+"18/60-64 Forrest Avenue, EAST PERTH WA 6004",220000,Apartment,2,1,2,125
+"16/60-64 Forrest Avenue, EAST PERTH WA 6004",215000,Apartment,1,2,1,125
+"11/875 Wellington Street, WEST PERTH WA 6005",100000,Apartment,1,1,1,125
+"7/132 Mounts Bay Road, PERTH WA 6000",240000,Apartment,2,2,1,125
+"31 9 Tully Road, EAST PERTH WA 6004",455000,Apartment,1,2,1,125
+"4/2 Bellevue Terrace, WEST PERTH WA 6005",8,Apartment,1,2,3,125
+"106/875 Wellington Street, WEST PERTH WA 6005",187500,Apartment,2,3,1,125
+"15/11 Regal Place, EAST PERTH WA 6004",200000,Apartment,2,1,2,125
+"1307/11 Barrack Square, Perth WA 6000, PERTH WA 6000",1536000,Apartment,1,2,0,125
+"2505/380 Murray Street, PERTH WA 6000",1040000,Apartment,2,2,1,125
+"1511/380 Murray Street, PERTH WA 6000",576000,Apartment,1,2,1,125
+"2/18-22 Plain Street, EAST PERTH WA 6004",295,Unknown,2,3,1,125
+"708/380 Murray Street, PERTH WA 6000",411000,Apartment,2,2,1,125
+"45/131 Harold Street, HIGHGATE WA 6003",300,Apartment,2,2,2,125
+"41/17 Wickham, EAST PERTH WA 6004",1880000,Off the Plan,2,2,1,125
+"17/161 Charles Street, WEST PERTH WA 6005",290000,House,2,3,1,125
+"19/8 Prowse Street, WEST PERTH WA 6005",585000,Apartment,1,2,1,125
+"4/32 Outram Street, WEST PERTH WA 6005",440000,Apartment,1,1,1,125
+"17/1178 Hay Street, WEST PERTH WA 6005",550000,Apartment,2,3,1,125
+"35/11 Bennett Street, EAST PERTH WA 6004",200,Apartment,2,1,2,125
+"380 Murray Street, PERTH WA 6000",334000,Off the Plan,1,1,1,125
+"2205/Elizabeth Quay The Esplanade, PERTH WA 6000",1414000,Apartment,2,3,2,125
+"2701/Elizabeth Quay The Esplanade, PERTH WA 6000",1758000,Apartment,1,1,1,125
+"2504/Elizabeth Quay The Esplanade, PERTH WA 6000",1693000,Apartment,1,2,1,125
+"2703/Elizabeth Quay The Esplanade, PERTH WA 6000",834000,Apartment,2,2,1,125
+"2208/Ritz Carlton Tower Elizabeth Quay, PERTH WA 6000",2541000,Apartment,1,3,2,125
+"Unit 4/189 Adelaide Terrace, EAST PERTH WA 6004",299000,Apartment,1,1,1,125
+"38/101 Murray/Street, PERTH WA 6000",459000,Apartment,2,2,0,125
+"6/40 Cowle Street, WEST PERTH WA 6005",579000,Apartment,2,2,1,125
+"1108/8 Adelaide Terrace, EAST PERTH WA 6004",690000,Apartment,2,3,0,125
+"7/258-264 Newcastle Street, NORTHBRIDGE WA 6003",449000,Apartment,2,2,2,125
+"15/34 Cowle Street, WEST PERTH WA 6005",595,Apartment,8,2,0,125
+"48/46 Smith Street, HIGHGATE WA 6003",330000,Apartment,3,3,1,125
+"112/122 Brown Street, EAST PERTH WA 6004",390000,Apartment,1,2,1,125
+"209 Vincent Street, WEST PERTH WA 6005",800000,Townhouse,1,1,2,125
+"13/875 Wellington Street, WEST PERTH WA 6005",100000,Apartment,2,1,1,125
+"237 Hay st, EAST PERTH WA 6004",29,House,1,2,1,125
+"17/33 Mounts Bay Road, PERTH WA 6000",169000,Apartment,1,2,8,125
+"82/33 Mounts Bay Road, PERTH WA 6000",169000,Apartment,2,2,3,125
+"137/33 Mounts Bay Road, PERTH WA 6000",330000,Apartment,2,2,1,125
+"100 Outram Street, WEST PERTH WA 6005",250,Unknown,2,2,2,125
+"4/32 Fielder Street, EAST PERTH WA 6004",425000,Apartment,2,2,0,125
+"20/448 Murray  Street, PERTH WA 6000",329000,Apartment,2,2,1,125
+"35/17 Wickham, EAST PERTH WA 6004",598000,Off the Plan,2,2,1,125
+"14/17 Wickham Street, EAST PERTH WA 6004",488000,Off the Plan,2,2,1,125
+"35/138 Mounts Bay Road, PERTH WA 6000",680000,Apartment,2,2,1,125
+"24/996 Hay Street, PERTH WA 6000",379000,Apartment,2,2,1,125
+"73/418 Murray Street, PERTH WA 6000",419000,Apartment,2,2,1,125
+"2105/1 Geoffrey Bolton Avenue, Perth WA 6000, PERTH WA 6000",1571000,Apartment,2,2,1,125
+"1311/11 Barrack Square, Perth WA 6000, PERTH WA 6000",1248000,Apartment,2,2,1,125
+"410/126 Mounts Bay Road, PERTH WA 6000",280000,Apartment,2,2,1,125
+"1507/11 Barrack Square, Perth WA 6000, PERTH WA 6000",904000,Apartment,2,2,1,125
+"603/112 Mounts Bay Road, PERTH WA 6000",300,Apartment,2,2,1,125
