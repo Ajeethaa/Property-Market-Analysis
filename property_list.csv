@@ -1,1001 +1,1022 @@
-date,address,price,dwelling,bathroom,bedroom,carport,size_m2,day,day_of_week,weekend
-2020-09-30,"605/108 Terrace Road, EAST PERTH WA 6004",770000,Apartment,2,2,1,129,Wednesday,2,0
-2020-09-29,"312/45 Adelaide Terrace, EAST PERTH WA 6004",220000,Apartment,1,1,0,124,Tuesday,1,0
-2020-09-29,"610/2 St Georges Terrace, PERTH WA 6000",324000,Apartment,1,1,1,264,Tuesday,1,0
-2020-09-25,"4B Stuart Street, PERTH WA 6000",680000,House,1,3,1,124,Friday,4,0
-2020-09-25,"50/48 Havelock Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,491,Friday,4,0
-2020-09-24,"73/189 Adelaide Terrace, EAST PERTH WA 6004",570000,Apartment,2,2,1,519,Thursday,3,0
-2020-09-24,"27/154 Newcastle Street, PERTH WA 6000",400000,Apartment,1,1,1,123,Thursday,3,0
-2020-09-22,"27/20 Royal Street, EAST PERTH WA 6004",755000,Apartment,2,2,2,129,Tuesday,1,0
-2020-09-22,"46/46 Smith Street, HIGHGATE WA 6003",312000,Apartment,1,3,1,118,Tuesday,1,0
-2020-09-21,"15/37 Mount Street, WEST PERTH WA 6005",400000,Apartment,3,3,4,645,Monday,0,0
-2020-09-18,"2004/63 Adelaide Terrace, EAST PERTH WA 6004",420000,Apartment,1,1,1,278,Friday,4,0
-2020-09-18,"91/189 Adelaide Terrace, EAST PERTH WA 6004",595000,Apartment,2,2,1,273,Friday,4,0
-2020-09-17,"105 Zebina Street, EAST PERTH WA 6004",802000,House,1,3,3,246,Thursday,3,0
-2020-09-16,"2/25 Haig Park Circle, EAST PERTH WA 6004",800000,Apartment,2,2,1,174,Wednesday,2,0
-2020-09-16,"53/134 Aberdeen Street, NORTHBRIDGE WA 6003",375000,Apartment,2,2,1,328,Wednesday,2,0
-2020-09-15,"12/151 Adelaide Tce, EAST PERTH WA 6004",445000,Apartment,2,2,1,111,Tuesday,1,0
-2020-09-15,"21/49-53 Bronte Street, EAST PERTH WA 6004",335000,Apartment,1,2,1,116,Tuesday,1,0
-2020-09-14,"127/369 Hay Street, PERTH WA 6000",325000,Apartment,1,1,1,216,Monday,0,0
-2020-09-11,"6/2A Goderich Street, EAST PERTH WA 6004",363000,House,2,2,1,415,Friday,4,0
-2020-09-11,"113  (Lot 31)/228 James Street, NORTHBRIDGE WA 6003",400000,Apartment,1,2,0,233,Friday,4,0
-2020-09-11,"52/101 Murray Street, PERTH WA 6000",265000,Apartment,1,1,1,196,Friday,4,0
-2020-09-09,"2/48 Outram Street, WEST PERTH WA 6005",400000,Apartment,1,1,1,123,Wednesday,2,0
-2020-09-08,"41/123 Wellington Street, EAST PERTH WA 6004",395000,Apartment,2,3,1,195,Tuesday,1,0
-2020-09-04,"605/63 Adelaide Terrace, EAST PERTH WA 6004",365000,Apartment,1,1,1,550,Friday,4,0
-2020-09-04,"40/35 Wellington Street, EAST PERTH WA 6004",309500,Apartment,1,1,1,115,Friday,4,0
-2020-09-04,"59/269 Hay Street, EAST PERTH WA 6004",405000,Apartment,2,2,1,197,Friday,4,0
-2020-09-04,"13/432 Beaufort Street, HIGHGATE WA 6003",400000,House,1,1,1,403,Friday,4,0
-2020-09-04,"548 Newcastle Street, WEST PERTH WA 6005",860000,House,1,5,2,350,Friday,4,0
-2020-09-04,"10/12 Altona Street, WEST PERTH WA 6005",625000,Apartment,2,2,1,285,Friday,4,0
-2020-09-01,"183/143 Adelaide Terrace, EAST PERTH WA 6004",270000,Studio,1,1,1,144,Tuesday,1,0
-2020-09-01,"56/189 Adelaide Terrace, EAST PERTH WA 6004",550000,Apartment,2,2,1,136,Tuesday,1,0
-2020-09-01,"50/118 Adelaide Terrace, EAST PERTH WA 6004",375000,Apartment,2,2,3,150,Tuesday,1,0
-2020-08-31,"12 Wittenoom Street, EAST PERTH WA 6004",1190000,House,2,4,1,164,Monday,0,0
-2020-08-31,"71/118 Adelaide Terrace, EAST PERTH WA 6004",395000,Apartment,2,2,1,156,Monday,0,0
-2020-08-31,"45/175 Hay Street, EAST PERTH WA 6004",420000,Apartment,2,3,1,159,Monday,0,0
-2020-08-31,"28/500 Beaufort Street, HIGHGATE WA 6003",400000,Townhouse,1,2,1,150,Monday,0,0
-2020-08-31,"6/60 Smith Street, HIGHGATE WA 6003",400000,Townhouse,1,2,1,217,Monday,0,0
-2020-08-31,"100/101 Murray Street, PERTH WA 6000",330000,Apartment,1,1,1,111,Monday,0,0
-2020-08-31,"8/133 Lincoln Street, PERTH WA 6000",260000,Apartment,1,2,0,117,Monday,0,0
-2020-08-30,"504/12 Victoria Ave, PERTH WA 6000",210000,Apartment,1,1,2,184,Sunday,6,1
-2020-08-30,"203 Lake Street, PERTH WA 6000",400000,House,3,4,2,126,Sunday,6,1
-2020-08-28,"5/24 Constitution Street, EAST PERTH WA 6004",822725,Apartment,2,3,1,197,Friday,4,0
-2020-08-28,"25 Moir Street, PERTH WA 6000",400000,House,1,3,2,111,Friday,4,0
-2020-08-27,"9/82 Royal Street, EAST PERTH WA 6004",625000,Apartment,2,3,1,131,Thursday,3,0
-2020-08-27,"408/251 Hay Street, EAST PERTH WA 6004",400000,Apartment,2,2,1,233,Thursday,3,0
-2020-08-27,"67/418 Murray Street, PERTH WA 6000",346000,Apartment,1,2,1,106,Thursday,3,0
-2020-08-26,"33/67 Brewer Street, PERTH WA 6000",425000,Apartment,2,2,0,241,Wednesday,2,0
-2020-08-26,"193 Lake Street, PERTH WA 6000",400000,House,1,3,3,163,Wednesday,2,0
-2020-08-24,"23/88 Terrace Road, EAST PERTH WA 6004",1280000,Apartment,2,3,1,253,Monday,0,0
-2020-08-24,"64/193 Hay Street, EAST PERTH WA 6004",269000,Apartment,1,2,1,112,Monday,0,0
-2020-08-24,"14/43 Shenton Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,1,415,Monday,0,0
-2020-08-24,"8/262 Lord St, PERTH WA 6000",440000,Apartment,2,2,1,116,Monday,0,0
-2020-08-24,"96/59 Malcolm Street, WEST PERTH WA 6005",207000,Apartment,1,1,3,143,Monday,0,0
-2020-08-23,"9/1 Royal  Street, EAST PERTH WA 6004",400000,Apartment,3,4,0,165,Sunday,6,1
-2020-08-21,"414/36 Mount Street, WEST PERTH WA 6005",150000,Apartment,1,1,1,120,Friday,4,0
-2020-08-20,"16/11 Altona Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,124,Thursday,3,0
-2020-08-19,"48/1324 Hay Street, WEST PERTH WA 6005",390000,Apartment,2,2,1,119,Wednesday,2,0
-2020-08-18,"65/123 Wellington Street, EAST PERTH WA 6004",319000,Apartment,1,2,1,100,Tuesday,1,0
-2020-08-17,"48/175 Hay Street, EAST PERTH WA 6004",420000,Apartment,2,3,1,213,Monday,0,0
-2020-08-17,"1/44-48 Cleaver Street, WEST PERTH WA 6005",245000,Apartment,1,2,1,109,Monday,0,0
-2020-08-13,"9/67 Brewer Street, PERTH WA 6000",275000,Apartment,1,1,1,216,Thursday,3,0
-2020-08-13,"1/10 Pendal Lane, PERTH WA 6000",359000,Apartment,2,2,2,121,Thursday,3,0
-2020-08-13,"1503/105 Stirling Street, PERTH WA 6000",400000,Apartment,2,2,1,111,Thursday,3,0
-2020-08-10,"39/193 Hay Street, EAST PERTH WA 6004",258000,Apartment,1,2,1,125,Monday,0,0
-2020-08-10,"93/101 Murray Street, PERTH WA 6000",333000,Apartment,1,1,2,143,Monday,0,0
-2020-08-07,"Lot 1 of 46 Joel Terrace, EAST PERTH WA 6004",400000,House,2,3,0,154,Friday,4,0
-2020-08-07,"14/569 Wellington Street, PERTH WA 6000",400000,Apartment,1,1,1,233,Friday,4,0
-2020-08-06,"190-194 Brisbane Street, PERTH WA 6000",400000,Vacant land,2,2,1,220,Thursday,3,0
-2020-08-05,"84/118 Adelaide Tce, EAST PERTH WA 6004",400000,Apartment,2,2,2,123,Wednesday,2,0
-2020-08-05,"1805/237 Adelaide  Terrace, PERTH WA 6000",400000,Apartment,2,3,2,123,Wednesday,2,0
-2020-08-03,"44 Tully Road, EAST PERTH WA 6004",1050000,House,1,3,1,158,Monday,0,0
-2020-08-03,"17 St Albans Avenue, HIGHGATE WA 6003",820000,House,1,1,1,224,Monday,0,0
-2020-08-03,"14/226 Beaufort Street, PERTH WA 6000",400000,Apartment,1,1,2,109,Monday,0,0
-2020-08-03,"1105/659 Murray Street, WEST PERTH WA 6005",380000,Apartment,3,4,2,174,Monday,0,0
-2020-07-31,"50 Wittenoom Street, EAST PERTH WA 6004",950000,House,2,2,2,122,Friday,4,0
-2020-07-31,"15/47 Forrest Avenue, EAST PERTH WA 6004",575000,Apartment,1,2,3,147,Friday,4,0
-2020-07-31,"2/135 Carr Street, WEST PERTH WA 6005",480000,Townhouse,3,4,1,347,Friday,4,0
-2020-07-31,"22 Kingston Avenue, WEST PERTH WA 6005",400000,Vacant land,2,2,1,405,Friday,4,0
-2020-07-30,"2a Randell Street, PERTH WA 6000",775000,House,1,2,0,159,Thursday,3,0
-2020-07-30,"1/33 Windsor Street, PERTH WA 6000",360000,Apartment,1,2,0,122,Thursday,3,0
-2020-07-29,"201/122 Brown Street, EAST PERTH WA 6004",375000,Apartment,1,1,1,403,Wednesday,2,0
-2020-07-29,"1D/811 Hay Street, PERTH WA 6000",310000,Apartment,1,1,1,122,Wednesday,2,0
-2020-07-27,"3/375 Hay Street, PERTH WA 6000",400000,Apartment,2,2,1,121,Monday,0,0
-2020-07-27,"17/1142 Hay Street, WEST PERTH WA 6005",265000,Apartment,2,2,1,135,Monday,0,0
-2020-07-24,"602/35 Bronte Street, EAST PERTH WA 6004",495000,Apartment,1,2,1,304,Friday,4,0
-2020-07-24,"56/34 Palmerston Street, PERTH WA 6000",400000,Townhouse,2,3,2,137,Friday,4,0
-2020-07-23,"25/99-105 Wellington Street, EAST PERTH WA 6004",316000,Apartment,2,2,1,114,Thursday,3,0
-2020-07-23,"2/52 Wickham Street, EAST PERTH WA 6004",470000,Apartment,1,1,2,196,Thursday,3,0
-2020-07-23,"186/143 Adelaide Terrace, EAST PERTH WA 6004",450000,Apartment,2,3,1,106,Thursday,3,0
-2020-07-23,"11/432 Beaufort Street, HIGHGATE WA 6003",400000,Apartment,1,1,1,181,Thursday,3,0
-2020-07-20,"40 Kensington Street, EAST PERTH WA 6004",950000,House,1,1,1,170,Monday,0,0
-2020-07-20,"4/70 Wittenoom Street, EAST PERTH WA 6004",275000,Apartment,1,1,2,131,Monday,0,0
-2020-07-20,"2/38 Cowle Street, WEST PERTH WA 6005",340000,Apartment,2,3,1,127,Monday,0,0
-2020-07-18,"36/269 James Street, NORTHBRIDGE WA 6003",290000,Apartment,1,2,1,101,Saturday,5,1
-2020-07-18,"1/199-201 Lincoln Street, PERTH WA 6000",400000,Townhouse,1,1,0,289,Saturday,5,1
-2020-07-17,"25/2 Goderich Street, EAST PERTH WA 6004",352500,Apartment,1,4,2,134,Friday,4,0
-2020-07-17,"3/15 Mary Street, HIGHGATE WA 6003",400000,Apartment,2,2,1,153,Friday,4,0
-2020-07-17,"55 Kingston Avenue, WEST PERTH WA 6005",400000,House,1,2,2,128,Friday,4,0
-2020-07-15,"59/43 Wickham Street, EAST PERTH WA 6004",486888,Apartment,3,3,2,193,Wednesday,2,0
-2020-07-13,"31/11 Regal Place, EAST PERTH WA 6004",260000,Apartment,2,3,1,100,Monday,0,0
-2020-07-10,"23 Victory Terrace, EAST PERTH WA 6004",975000,Townhouse,2,2,1,336,Friday,4,0
-2020-07-10,"11/20 Royal Street, EAST PERTH WA 6004",640000,Apartment,1,2,1,138,Friday,4,0
-2020-07-10,"91/131 Harold Street, HIGHGATE WA 6003",482500,Apartment,2,3,2,123,Friday,4,0
-2020-07-10,"14/130 Terrace Road, PERTH WA 6000",320000,Apartment,1,4,1,617,Friday,4,0
-2020-07-10,"166 Lake Street, PERTH WA 6000",1000000,House,1,3,1,301,Friday,4,0
-2020-07-09,"40 Bulwer Street, PERTH WA 6000",400000,House,2,2,2,324,Thursday,3,0
-2020-07-09,"25 Cowle Street, WEST PERTH WA 6005",880000,House,3,4,1,179,Thursday,3,0
-2020-07-08,"85/189 Adelaide Terrace, EAST PERTH WA 6004",590000,Apartment,1,1,2,130,Wednesday,2,0
-2020-07-07,"24 Victory Terrace, EAST PERTH WA 6004",1545000,House,2,2,1,147,Tuesday,1,0
-2020-07-06,"20/432 Beaufort Street, HIGHGATE WA 6003",400000,House,2,3,1,225,Monday,0,0
-2020-07-06,"83/250 Beaufort Street, PERTH WA 6000",385000,Apartment,2,2,2,122,Monday,0,0
-2020-07-01,"29/123 Wellington Street, EAST PERTH WA 6004",395000,Apartment,2,3,2,176,Wednesday,2,0
-2020-07-01,"Lot 8, Wellington Street, WEST PERTH WA 6005",400000,Apartment,2,2,2,132,Wednesday,2,0
-2020-06-30,"17/78 Terrace Road, EAST PERTH WA 6004",825000,Apartment,2,3,1,139,Tuesday,1,0
-2020-06-30,"35/33 Malcolm Street, WEST PERTH WA 6005",537500,Apartment,1,2,1,104,Tuesday,1,0
-2020-06-26,"8/178 Bennett Street, EAST PERTH WA 6004",500000,Apartment,1,1,1,102,Friday,4,0
-2020-06-26,"65/273 Hay Street, EAST PERTH WA 6004",290000,Apartment,1,2,1,105,Friday,4,0
-2020-06-25,"6/34 East Parade, EAST PERTH WA 6004",365000,Apartment,1,2,1,352,Thursday,3,0
-2020-06-24,"28/99-105 Wellington Street, EAST PERTH WA 6004",400000,Apartment,2,3,1,151,Wednesday,2,0
-2020-06-23,"54/273 Hay Street, EAST PERTH WA 6004",270000,Apartment,1,2,2,181,Tuesday,1,0
-2020-06-22,"10 Church Street, PERTH WA 6000",810000,House,2,3,2,102,Monday,0,0
-2020-06-22,"8/418-428 Murray Street, PERTH WA 6000",315000,Apartment,2,3,1,113,Monday,0,0
-2020-06-22,"5/478 William Street, PERTH WA 6000",400000,Apartment,1,2,1,265,Monday,0,0
-2020-06-21,"29/101 Murray Street, PERTH WA 6000",620000,Apartment,2,2,2,115,Sunday,6,1
-2020-06-20,"1/340 Stirling  Street, HIGHGATE WA 6003",400000,Apartment,2,2,1,124,Saturday,5,1
-2020-06-19,"611/8 Moreau Parade, EAST PERTH WA 6004",538500,Apartment,1,2,1,216,Friday,4,0
-2020-06-18,"24/90 Terrace Road, EAST PERTH WA 6004",730000,Apartment,2,3,2,295,Thursday,3,0
-2020-06-17,"16/448 Murray Street, PERTH WA 6000",335000,Apartment,2,3,2,225,Wednesday,2,0
-2020-06-16,"7/175 Hay Street, EAST PERTH WA 6004",400000,Apartment,2,3,1,107,Tuesday,1,0
-2020-06-16,"5/19 Little Shenton Lane, NORTHBRIDGE WA 6003",400000,Apartment,1,1,2,149,Tuesday,1,0
-2020-06-15,"711/9 Tully Road, EAST PERTH WA 6004",735000,Apartment,2,2,1,183,Monday,0,0
-2020-06-15,"50/378 Beaufort St, PERTH WA 6000",306000,Apartment,2,3,1,173,Monday,0,0
-2020-06-12,"35 Victoria Street, WEST PERTH WA 6005",400000,Townhouse,1,1,3,103,Friday,4,0
-2020-06-11,"4/175 Hay Street, EAST PERTH WA 6004",420000,Apartment,2,4,1,114,Thursday,3,0
-2020-06-11,"120/580 Hay Street, PERTH WA 6000",450000,Apartment,2,2,1,142,Thursday,3,0
-2020-06-10,"3/14 Bellevue Terrace, WEST PERTH WA 6005",400000,House,2,3,1,205,Wednesday,2,0
-2020-06-08,"16/7 Delhi Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,651,Monday,0,0
-2020-06-06,"3/104 Brown Street, EAST PERTH WA 6004",400000,Apartment,1,2,1,159,Saturday,5,1
-2020-06-05,"15/7 Bennett Street, EAST PERTH WA 6004",365000,Apartment,2,2,2,147,Friday,4,0
-2020-06-05,"7/62 Bronte St, EAST PERTH WA 6004",400000,Apartment,2,3,2,498,Friday,4,0
-2020-06-05,"13/103 Harold Street, HIGHGATE WA 6003",460000,Apartment,2,3,1,100,Friday,4,0
-2020-06-04,"14/45-47 Stuart Street, PERTH WA 6000",735000,Townhouse,1,1,2,226,Thursday,3,0
-2020-06-04,"16 Robinson Avenue, PERTH WA 6000",760000,House,2,2,2,130,Thursday,3,0
-2020-06-03,"209/9 Tully Road, EAST PERTH WA 6004",350000,Apartment,2,3,2,122,Wednesday,2,0
-2020-06-03,"176/181 Adelaide Terrace, EAST PERTH WA 6004",650000,Apartment,2,2,1,100,Wednesday,2,0
-2020-06-03,"22/4 Delhi Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,243,Wednesday,2,0
-2020-06-02,"94/132 Terrace Road, PERTH WA 6000",650000,Apartment,2,2,1,190,Tuesday,1,0
-2020-06-02,"4/1020 Wellington Street, WEST PERTH WA 6005",400000,House,2,2,0,109,Tuesday,1,0
-2020-06-01,"17/182 James Street, NORTHBRIDGE WA 6003",433000,Apartment,1,2,9,384,Monday,0,0
-2020-05-29,"5/611 Murray Street, WEST PERTH WA 6005",400000,Apartment,1,1,1,150,Friday,4,0
-2020-05-28,"306/251 Hay Street, EAST PERTH WA 6004",227000,Apartment,2,2,1,107,Thursday,3,0
-2020-05-27,"1-7, 84 Fitzgerald Street, NORTHBRIDGE WA 6003",2200000,Apartment,1,2,1,207,Wednesday,2,0
-2020-05-26,"79/131 Harold  Street, HIGHGATE WA 6003",315000,Apartment,2,3,2,237,Tuesday,1,0
-2020-05-26,"5/1020 Wellington  Street, WEST PERTH WA 6005",400000,Apartment,2,3,2,107,Tuesday,1,0
-2020-05-25,"4/418-428 Murray Street, PERTH WA 6000",320000,Apartment,2,3,2,138,Monday,0,0
-2020-05-22,"17/39 Bronte Street, EAST PERTH WA 6004",445000,Townhouse,1,1,1,104,Friday,4,0
-2020-05-21,"6/32 Fielder Street, EAST PERTH WA 6004",640000,Apartment,2,2,1,134,Thursday,3,0
-2020-05-16,"29 John Street, NORTHBRIDGE WA 6003",400000,Townhouse,1,1,1,142,Saturday,5,1
-2020-05-15,"66/20 Royal Street, EAST PERTH WA 6004",310000,Apartment,1,1,1,316,Friday,4,0
-2020-05-14,"4/82 King Street, PERTH WA 6000",585000,Apartment,1,2,2,339,Thursday,3,0
-2020-05-13,"62/101 Murray St, PERTH WA 6000",290000,Apartment,2,2,1,122,Wednesday,2,0
-2020-05-13,"4/101 Murray Street, PERTH WA 6000",400000,Apartment,2,2,2,143,Wednesday,2,0
-2020-05-13,"24/1331 Hay Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,200,Wednesday,2,0
-2020-05-12,"205/403 Newcastle Street, NORTHBRIDGE WA 6003",330000,Apartment,1,2,1,317,Tuesday,1,0
-2020-05-07,"44/20 Royal Street, EAST PERTH WA 6004",600000,Apartment,1,2,1,117,Thursday,3,0
-2020-05-06,"212/106 Terrace Road, EAST PERTH WA 6004",289000,Apartment,1,2,2,302,Wednesday,2,0
-2020-05-06,"6/207 Bulwer Street, PERTH WA 6000",415000,Apartment,1,1,0,245,Wednesday,2,0
-2020-05-06,"11/75 Glendower Street, PERTH WA 6000",290000,Apartment,2,3,2,243,Wednesday,2,0
-2020-05-06,"17/135 Carr Street, WEST PERTH WA 6005",440000,Townhouse,1,1,1,243,Wednesday,2,0
-2020-05-05,"2418/380 Murray Street, PERTH WA 6000",393000,Apartment,2,3,1,116,Tuesday,1,0
-2020-05-05,"58/580 Hay Street, PERTH WA 6000",810000,Apartment,1,2,0,122,Tuesday,1,0
-2020-05-01,"1/34 East Parade, EAST PERTH WA 6004",400000,Off the Plan,2,2,1,154,Friday,4,0
-2020-05-01,"5/19 Ventnor Avenue, WEST PERTH WA 6005",485000,Apartment,1,1,1,216,Friday,4,0
-2020-04-30,"27 Lane Street, PERTH WA 6000",615000,House,1,2,0,112,Thursday,3,0
-2020-04-28,"97/128 Adelaide Terrace, EAST PERTH WA 6004",386000,Apartment,2,2,2,203,Tuesday,1,0
-2020-04-28,"401/9 Tully Road, EAST PERTH WA 6004",370000,Apartment,2,3,2,483,Tuesday,1,0
-2020-04-28,"30 Randell Street, PERTH WA 6000",715000,House,1,2,1,111,Tuesday,1,0
-2020-04-25,"44/250 Beaufort St, PERTH WA 6000",415000,Apartment,2,3,2,154,Saturday,5,1
-2020-04-24,"57A Wittenoom Street, EAST PERTH WA 6004",800000,Townhouse,2,2,1,150,Friday,4,0
-2020-04-23,"62/193 Hay Street, EAST PERTH WA 6004",247500,Apartment,1,2,1,109,Thursday,3,0
-2020-04-23,"19/65 Palmerston St, PERTH WA 6000",575000,Townhouse,2,2,1,105,Thursday,3,0
-2020-04-21,"29/7-9 Bennett Street, EAST PERTH WA 6004",370000,Apartment,1,1,0,491,Tuesday,1,0
-2020-04-19,"81/59 Malcolm Street, WEST PERTH WA 6005",400000,Apartment,2,3,2,262,Sunday,6,1
-2020-04-18,"14/1020 Wellington Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,132,Saturday,5,1
-2020-04-17,"15/45 Adelaide Terrace, EAST PERTH WA 6004",165000,Apartment,4,5,3,490,Friday,4,0
-2020-04-17,"107/189 Adelaide Terrace, EAST PERTH WA 6004",875000,Apartment,1,1,1,108,Friday,4,0
-2020-04-15,"23/22 St Georges Terrace, PERTH WA 6000",453000,Apartment,2,2,2,692,Wednesday,2,0
-2020-04-14,"10 Macey Street, EAST PERTH WA 6004",1620000,House,2,2,1,138,Tuesday,1,0
-2020-04-14,"49/229 Adelaide Terrace, PERTH WA 6000",319000,Apartment,1,2,1,157,Tuesday,1,0
-2020-04-14,"506/659 Murray Street, WEST PERTH WA 6005",535000,Apartment,2,2,2,115,Tuesday,1,0
-2020-04-14,"54/2 Mayfair Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,205,Tuesday,1,0
-2020-04-10,"61 Kingston Avenue, WEST PERTH WA 6005",400000,House,2,2,2,193,Friday,4,0
-2020-04-08,"181/369 Hay  Street, PERTH WA 6000",440000,Apartment,1,1,0,131,Wednesday,2,0
-2020-04-08,"16/11 Altona Street, WEST PERTH WA 6005",400000,Apartment,2,2,2,266,Wednesday,2,0
-2020-04-07,"44/20 Royal Street, EAST PERTH WA 6004",400000,Apartment,1,2,1,316,Tuesday,1,0
-2020-04-07,"15/580 Newcastle Street, WEST PERTH WA 6005",400000,Apartment,2,2,2,139,Tuesday,1,0
-2020-04-06,"37/90 Terrace Road, EAST PERTH WA 6004",400000,Apartment,2,2,1,143,Monday,0,0
-2020-04-06,"Unit 1/10 Wright Street, PERTH WA 6000",355000,Townhouse,2,2,2,134,Monday,0,0
-2020-04-06,"10 Robinson Avenue, PERTH WA 6000",880000,House,1,1,0,126,Monday,0,0
-2020-04-03,"21/2 Colin Street, WEST PERTH WA 6005",363000,Apartment,1,1,1,147,Friday,4,0
-2020-04-02,"4/54 Cheriton Street, PERTH WA 6000",550000,Apartment,2,2,1,262,Thursday,3,0
-2020-04-01,"G11/2 Moreau Parade, EAST PERTH WA 6004",201500,Apartment,2,2,1,197,Wednesday,2,0
-2020-04-01,"14/5 Antonas Road, NORTHBRIDGE WA 6003",315000,Apartment,2,3,2,155,Wednesday,2,0
-2020-04-01,"11/32 Fielder St, PERTH WA 6000",450000,Apartment,1,2,1,213,Wednesday,2,0
-2020-04-01,"26/69 Milligan Street, PERTH WA 6000",405000,Apartment,2,2,2,196,Wednesday,2,0
-2020-03-31,"3301/63 Adelaide Terrace, EAST PERTH WA 6004",1900000,Apartment,1,2,1,407,Tuesday,1,0
-2020-03-31,"1/52-56 Goderich Street, EAST PERTH WA 6004",340000,Apartment,1,2,1,113,Tuesday,1,0
-2020-03-31,"60/580 Hay Street, PERTH WA 6000",600000,Apartment,2,2,2,129,Tuesday,1,0
-2020-03-31,"11/132 Carr Street, WEST PERTH WA 6005",435000,Villa,1,3,2,113,Tuesday,1,0
-2020-03-30,"15a/48 Wellington Street, EAST PERTH WA 6004",295000,Apartment,2,2,2,131,Monday,0,0
-2020-03-30,"40/131 Harold Street, HIGHGATE WA 6003",494000,Apartment,1,1,1,113,Monday,0,0
-2020-03-30,"66B Robinson Avenue, PERTH WA 6000",775000,House,2,2,1,311,Monday,0,0
-2020-03-27,"13/118 Royal Street, EAST PERTH WA 6004",550000,Apartment,1,2,1,114,Friday,4,0
-2020-03-27,"106/580 Hay Street, PERTH WA 6000",425000,Apartment,2,2,1,148,Friday,4,0
-2020-03-27,"18/2 Outram Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,143,Friday,4,0
-2020-03-25,"25/40 Wellington Street, EAST PERTH WA 6004",310000,Apartment,1,1,0,200,Wednesday,2,0
-2020-03-25,"14/122 Mounts Bay Road, PERTH WA 6000",365000,Apartment,1,1,1,150,Wednesday,2,0
-2020-03-24,"47/418 Murray Street, PERTH WA 6000",365000,Apartment,1,1,1,310,Tuesday,1,0
-2020-03-23,"202/126 Mounts Bay Road, PERTH WA 6000",220000,Apartment,1,1,1,118,Monday,0,0
-2020-03-23,"29/76 Newcastle Street, PERTH WA 6000",285000,Apartment,1,1,1,183,Monday,0,0
-2020-03-22,"91/59 Malcolm Street, WEST PERTH WA 6005",400000,Apartment,1,3,0,115,Sunday,6,1
-2020-03-20,"6/150 Stirling St, PERTH WA 6000",299000,Apartment,2,2,1,112,Friday,4,0
-2020-03-20,"31/34 Kings Park Road, WEST PERTH WA 6005",350000,Apartment,1,1,1,153,Friday,4,0
-2020-03-19,"212 Brisbane Street, PERTH WA 6000",400000,House,1,1,1,115,Thursday,3,0
-2020-03-18,"903/63 Adelaide Terrace, EAST PERTH WA 6004",485000,Apartment,1,2,1,151,Wednesday,2,0
-2020-03-18,"207/112 Mounts Bay Road, PERTH WA 6000",240000,Apartment,2,2,1,358,Wednesday,2,0
-2020-03-18,"21/3-9 Lucknow Place, WEST PERTH WA 6005",400000,Apartment,1,2,1,196,Wednesday,2,0
-2020-03-17,"16/250 Beaufort Street, PERTH WA 6000",345000,Apartment,2,2,1,113,Tuesday,1,0
-2020-03-16,"96/189 Adelaide Terrace, EAST PERTH WA 6004",660000,Apartment,1,2,0,141,Monday,0,0
-2020-03-14,"87/38 Kings Park Road, WEST PERTH WA 6005",400000,Apartment,2,2,2,157,Saturday,5,1
-2020-03-13,"48/189 Adelaide Terrace, EAST PERTH WA 6004",512500,Apartment,2,2,1,274,Friday,4,0
-2020-03-13,"20 Lawrence Avenue, WEST PERTH WA 6005",675000,Semi-Detached,2,2,1,346,Friday,4,0
-2020-03-13,"1/1 Coolgardie Street, WEST PERTH WA 6005",480000,Apartment,2,3,1,202,Friday,4,0
-2020-03-12,"30/11 Bennett Street, EAST PERTH WA 6004",385000,Apartment,2,2,1,159,Thursday,3,0
-2020-03-12,"66/69 Milligan Street, PERTH WA 6000",435000,Apartment,2,3,1,122,Thursday,3,0
-2020-03-11,"1/128 Adelaide Terrace, EAST PERTH WA 6004",490000,Apartment,2,2,1,122,Wednesday,2,0
-2020-03-11,"903/251 Hay Street, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Wednesday,2,0
-2020-03-10,"22/125 Wellington Street, EAST PERTH WA 6004",370000,Apartment,1,1,1,122,Tuesday,1,0
-2020-03-10,"67/189 Adelaide Terrace, EAST PERTH WA 6004",550000,Apartment,1,2,1,122,Tuesday,1,0
-2020-03-09,"3/38 Waterloo Crescent, EAST PERTH WA 6004",141500,Apartment,2,2,1,122,Monday,0,0
-2020-03-09,"180/143 Adelaide Terrace, EAST PERTH WA 6004",260000,Apartment,1,2,1,122,Monday,0,0
-2020-03-09,"114/2 Moreau Parade, EAST PERTH WA 6004",273600,Apartment,1,1,1,122,Monday,0,0
-2020-03-09,"68/154 Newcastle Street, PERTH WA 6000",460000,Apartment,1,2,1,122,Monday,0,0
-2020-03-08,"2/305 Bulwer Street, PERTH WA 6000",400000,Townhouse,2,1,1,122,Sunday,6,1
-2020-03-06,"1705/63 Adelaide Terrace, EAST PERTH WA 6004",399000,Apartment,1,1,1,122,Friday,4,0
-2020-03-05,"13 Little Brown Street, EAST PERTH WA 6004",380000,Townhouse,2,2,1,122,Thursday,3,0
-2020-03-03,"149/151 Adelaide Terrace, EAST PERTH WA 6004",417500,Apartment,1,1,0,122,Tuesday,1,0
-2020-03-03,"7/1142 Hay Street, WEST PERTH WA 6005",255000,Apartment,2,3,2,122,Tuesday,1,0
-2020-03-02,"30/11 Bennett Street, EAST PERTH WA 6004",385000,Apartment,2,2,1,122,Monday,0,0
-2020-03-01,"60/138 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,3,2,122,Sunday,6,1
-2020-03-01,"11A Bulwer Avenue, PERTH WA 6000",400000,House,2,3,2,122,Sunday,6,1
-2020-02-29,"12/32 Fielder Street, EAST PERTH WA 6004",400000,Apartment,2,2,1,122,Saturday,5,1
-2020-02-28,"22/20 Royal Street, EAST PERTH WA 6004",725000,Apartment,1,2,1,122,Friday,4,0
-2020-02-28,"5/18 Robinson Avenue, PERTH WA 6000",765000,Townhouse,1,2,1,122,Friday,4,0
-2020-02-28,"1210/659 Murray Street, WEST PERTH WA 6005",490000,Apartment,2,2,2,122,Friday,4,0
-2020-02-27,"3/299 Newcastle Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,1,122,Thursday,3,0
-2020-02-27,"24 Stuart Street, PERTH WA 6000",400000,House,3,3,2,122,Thursday,3,0
-2020-02-26,"42/148 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,2,2,122,Wednesday,2,0
-2020-02-25,"28/43 Wickham Street, EAST PERTH WA 6004",415000,Apartment,1,2,1,122,Tuesday,1,0
-2020-02-25,"2 Boans Lane, EAST PERTH WA 6004",895000,House,1,1,1,122,Tuesday,1,0
-2020-02-25,"5/8 Prowse Street, WEST PERTH WA 6005",400000,Apartment,1,1,0,122,Tuesday,1,0
-2020-02-22,"46/34 East Parade, EAST PERTH WA 6004",534000,Apartment,2,4,2,122,Saturday,5,1
-2020-02-22,"6/299 Newcastle Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,1,122,Saturday,5,1
-2020-02-19,"516/380 Murray Street, PERTH WA 6000",401000,Apartment,2,2,1,122,Wednesday,2,0
-2020-02-17,"P2/47 Tully Road, EAST PERTH WA 6004",1426000,Apartment,1,2,1,122,Monday,0,0
-2020-02-17,"205/189 Adelaide Terrace, EAST PERTH WA 6004",730000,Apartment,2,2,1,122,Monday,0,0
-2020-02-17,"95/42-52 Terrace Road, EAST PERTH WA 6004",720000,Apartment,2,2,1,122,Monday,0,0
-2020-02-17,"3D/1303 Hay Street, WEST PERTH WA 6005",420000,Apartment,1,2,0,122,Monday,0,0
-2020-02-16,"28/138 Mounts Bay Road, PERTH WA 6000",400000,Apartment,2,3,1,122,Sunday,6,1
-2020-02-15,"2003/63 Adelaide Terrace, EAST PERTH WA 6004",560000,Off the Plan,1,1,0,122,Saturday,5,1
-2020-02-15,"10 Lincoln Street, HIGHGATE WA 6003",400000,House,1,1,1,122,Saturday,5,1
-2020-02-14,"9/17 Wickham Street, EAST PERTH WA 6004",678000,Apartment,1,2,1,122,Friday,4,0
-2020-02-14,"4E/811 Hay Street, PERTH WA 6000",215000,Apartment,1,2,1,122,Friday,4,0
-2020-02-12,"612/11 Barrack Square, PERTH WA 6000",400000,Apartment,1,2,2,122,Wednesday,2,0
-2020-02-11,"25/55 Wellington Street, EAST PERTH WA 6004",313000,Apartment,2,2,1,122,Tuesday,1,0
-2020-02-11,"59/418 Murray Street, PERTH WA 6000",311000,Apartment,1,2,0,122,Tuesday,1,0
-2020-02-11,"43 West Parade, PERTH WA 6000",620000,Semi-Detached,2,2,1,122,Tuesday,1,0
-2020-02-10,"77/269 James Street, NORTHBRIDGE WA 6003",465000,Apartment,1,1,0,122,Monday,0,0
-2020-02-10,"1514/380 Murray Street, PERTH WA 6000",602000,Apartment,1,1,0,122,Monday,0,0
-2020-02-10,"2/296 Newcastle Street, PERTH WA 6000",420000,Apartment,1,1,0,122,Monday,0,0
-2020-02-10,"1416/380 Murray Street, PERTH WA 6000",461000,Apartment,1,2,1,122,Monday,0,0
-2020-02-10,"905/380 Murray Street, PERTH WA 6000",417000,Apartment,1,1,0,122,Monday,0,0
-2020-02-10,"806/380 Murray Street, PERTH WA 6000",414000,Apartment,2,2,1,122,Monday,0,0
-2020-02-10,"217 Brisbane Street, PERTH WA 6000",400000,House,1,2,1,122,Monday,0,0
-2020-02-10,"107/128 Carr Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Monday,0,0
-2020-02-08,"806/659 Murray Street, WEST PERTH WA 6005",500000,Apartment,2,4,3,122,Saturday,5,1
-2020-02-05,"710/8 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Wednesday,2,0
-2020-02-05,"18/134 Aberdeen Street, NORTHBRIDGE WA 6003",390000,Apartment,2,2,1,122,Wednesday,2,0
-2020-02-05,"3/14 Bellevue Terrace, WEST PERTH WA 6005",400000,Apartment,2,3,2,122,Wednesday,2,0
-2020-02-05,"54/66 Cleaver Street, WEST PERTH WA 6005",400000,Apartment,1,1,0,122,Wednesday,2,0
-2020-02-04,"62/128 Adelaide Terrace, EAST PERTH WA 6004",410000,Apartment,1,1,1,122,Tuesday,1,0
-2020-02-04,"21/128 Mounts Bay Road, PERTH WA 6000",515000,Apartment,2,2,1,122,Tuesday,1,0
-2020-02-04,"34/124 Terrace Road, PERTH WA 6000",190000,Apartment,2,2,1,122,Tuesday,1,0
-2020-02-03,"16/315 Bulwer Street, PERTH WA 6000",400000,Townhouse,1,1,1,122,Monday,0,0
-2020-01-31,"62/128 Adelaide Terrace, EAST PERTH WA 6004",410000,Apartment,2,3,2,122,Friday,4,0
-2020-01-31,"97/181 Adelaide Terrace, EAST PERTH WA 6004",512500,Apartment,1,2,1,122,Friday,4,0
-2020-01-31,"17/34 East Parade, EAST PERTH WA 6004",375000,Apartment,2,2,1,122,Friday,4,0
-2020-01-31,"26/18 Forrest Avenue, EAST PERTH WA 6004",400000,Townhouse,2,2,2,122,Friday,4,0
-2020-01-31,"317 Lord Street, HIGHGATE WA 6003",570000,House,1,2,1,122,Friday,4,0
-2020-01-31,"35/152 Fitzgerald Street, PERTH WA 6000",420000,Apartment,2,3,2,122,Friday,4,0
-2020-01-30,"6b/46 Mount Street, WEST PERTH WA 6005",400000,Apartment,2,2,2,122,Thursday,3,0
-2020-01-29,"19/32 Eastbrook Terrace, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Wednesday,2,0
-2020-01-29,"180/471 Hay Street, PERTH WA 6000",660000,Apartment,1,3,0,122,Wednesday,2,0
-2020-01-29,"4a/1303 Hay Street, WEST PERTH WA 6005",400000,Apartment,1,2,2,122,Wednesday,2,0
-2020-01-28,"20/103 Harold Street, HIGHGATE WA 6003",285000,Apartment,2,2,1,122,Tuesday,1,0
-2020-01-28,"119 Summers Street, PERTH WA 6000",830000,House,2,2,2,122,Tuesday,1,0
-2020-01-28,"22 Prospect Place, WEST PERTH WA 6005",400000,Townhouse,2,2,2,122,Tuesday,1,0
-2020-01-27,"1310/659 Murray Street, WEST PERTH WA 6005",535000,Apartment,2,2,1,122,Monday,0,0
-2020-01-26,"8/1 Delhi Street, WEST PERTH WA 6005",400000,Townhouse,1,2,1,122,Sunday,6,1
-2020-01-24,"1906/105 Stirling Street, PERTH WA 6000",535000,Apartment,1,1,1,122,Friday,4,0
-2020-01-24,"16/255 Adelaide Terrace, PERTH WA 6000",400000,Apartment,2,2,1,122,Friday,4,0
-2020-01-23,"21/98 Lake Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,2,122,Thursday,3,0
-2020-01-23,"2/10 Smith Street, PERTH WA 6000",359000,Apartment,2,2,2,122,Thursday,3,0
-2020-01-23,"6/122 Mounts Bay Road, PERTH WA 6000",400000,Apartment,2,3,1,122,Thursday,3,0
-2020-01-22,"48/580 Hay Street, PERTH WA 6000",400000,Apartment,2,3,1,122,Wednesday,2,0
-2020-01-21,"16/118 Royal Street, EAST PERTH WA 6004",610000,Apartment,2,3,2,122,Tuesday,1,0
-2020-01-21,"9/19 Ventnor Avenue, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Tuesday,1,0
-2020-01-20,"31/128 Adelaide Terrace, EAST PERTH WA 6004",490000,Apartment,2,2,1,122,Monday,0,0
-2020-01-20,"12/19 Little Shenton Lane, NORTHBRIDGE WA 6003",400000,Apartment,1,1,1,122,Monday,0,0
-2020-01-18,"226 Brisbane Street, PERTH WA 6000",400000,House,2,3,4,122,Saturday,5,1
-2020-01-16,"1006/63 Adelaide Terrace, EAST PERTH WA 6004",480000,Off the Plan,2,3,8,122,Thursday,3,0
-2020-01-16,"V808/9 Victoria Avenue, PERTH WA 6000",275000,Apartment,2,3,2,122,Thursday,3,0
-2020-01-15,"27 Harley Street, HIGHGATE WA 6003",400000,House,2,3,2,122,Wednesday,2,0
-2020-01-15,"200 Bulwer Street, PERTH WA 6000",940000,House,1,1,1,122,Wednesday,2,0
-2020-01-15,"63/128 Mounts Bay Road, PERTH WA 6000",600000,Apartment,1,1,1,122,Wednesday,2,0
-2020-01-13,"3/69 Murray Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Monday,0,0
-2020-01-12,"511/126 Mounts Bay Road, PERTH WA 6000",280000,Apartment,1,1,1,122,Sunday,6,1
-2020-01-12,"95/250 Beaufort Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Sunday,6,1
-2020-01-10,"45/134 Aberdeen Street, NORTHBRIDGE WA 6003",400000,Apartment,1,1,1,122,Friday,4,0
-2020-01-10,"55/76 Newcastle Street, PERTH WA 6000",182000,Apartment,2,2,2,122,Friday,4,0
-2020-01-10,"1108/659 Murray Street, WEST PERTH WA 6005",490000,Apartment,1,3,2,122,Friday,4,0
-2020-01-09,"63/38-42 Waterloo Crescent, EAST PERTH WA 6004",190000,Apartment,2,2,1,122,Thursday,3,0
-2020-01-09,"1506/105 Stirling Street, PERTH WA 6000",520000,Apartment,2,2,2,122,Thursday,3,0
-2020-01-09,"16 Hope Street, PERTH WA 6000",845000,House,2,2,1,122,Thursday,3,0
-2020-01-08,"69/181 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,3,2,122,Wednesday,2,0
-2020-01-07,"2/478 William Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Tuesday,1,0
-2020-01-03,"33/375 Hay Street, PERTH WA 6000",370000,Apartment,1,1,1,122,Friday,4,0
-2019-12-30,"48B Bulwer Street, PERTH WA 6000",850000,House,1,1,0,122,Monday,0,0
-2019-12-28,"12/11 Bennett Street, EAST PERTH WA 6004",350000,Apartment,1,2,0,122,Saturday,5,1
-2019-12-25,"13/154 Newcastle Street, PERTH WA 6000",189000,Apartment,2,3,1,122,Wednesday,2,0
-2019-12-24,"10B/811 Hay Street, PERTH WA 6000",255000,Apartment,2,3,2,122,Tuesday,1,0
-2019-12-24,"807/12 Victoria Avenue, PERTH WA 6000",180000,Apartment,2,3,2,122,Tuesday,1,0
-2019-12-23,"121/131 Harold Street, HIGHGATE WA 6003",460000,Apartment,1,3,1,122,Monday,0,0
-2019-12-23,"58/369 Hay Street, PERTH WA 6000",499000,Apartment,2,1,1,122,Monday,0,0
-2019-12-22,"5/18 Bellevue Terrace, WEST PERTH WA 6005",400000,Apartment,1,1,1,122,Sunday,6,1
-2019-12-21,"32 Wade Street, PERTH WA 6000",400000,House,1,3,1,122,Saturday,5,1
-2019-12-20,"16/17 Wickham Street, EAST PERTH WA 6004",675000,Off the Plan,2,2,2,122,Friday,4,0
-2019-12-20,"2504/63 Adelaide Terrace, EAST PERTH WA 6004",410000,Apartment,2,2,1,122,Friday,4,0
-2019-12-20,"13/42-52 Terrace Road, EAST PERTH WA 6004",400000,Apartment,1,2,2,122,Friday,4,0
-2019-12-20,"Apt. 39/100 Terrace Road, EAST PERTH WA 6004",400000,Apartment,2,3,1,122,Friday,4,0
-2019-12-20,"1410/659 Murray Street, WEST PERTH WA 6005",505000,Apartment,2,2,2,122,Friday,4,0
-2019-12-20,"6/167-169 Vincent Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Friday,4,0
-2019-12-19,"171/143 Adelaide Terrace, EAST PERTH WA 6004",439000,Apartment,2,2,1,122,Thursday,3,0
-2019-12-19,"5/65 Mount Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Thursday,3,0
-2019-12-18,"15/34 Palmerston Street, PERTH WA 6000",645000,Apartment,1,2,2,122,Wednesday,2,0
-2019-12-18,"54/369 Hay Street, PERTH WA 6000",419000,Apartment,1,2,1,122,Wednesday,2,0
-2019-12-18,"126/1178 Hay Street, WEST PERTH WA 6005",422500,Apartment,1,2,1,122,Wednesday,2,0
-2019-12-18,"5 Sheridan Lane, WEST PERTH WA 6005",400000,House,1,2,1,122,Wednesday,2,0
-2019-12-17,"24/273 Hay Street, EAST PERTH WA 6004",267000,Apartment,2,3,1,122,Tuesday,1,0
-2019-12-16,"77/193 Hay Street, EAST PERTH WA 6004",269000,Apartment,2,3,2,122,Monday,0,0
-2019-12-16,"8 Lincoln Street, HIGHGATE WA 6003",557500,House,2,3,2,122,Monday,0,0
-2019-12-16,"40/154 Newcastle St, PERTH WA 6000",400000,Apartment,2,1,2,122,Monday,0,0
-2019-12-16,"64/128 Mounts Bay Road, PERTH WA 6000",720000,Apartment,1,2,1,122,Monday,0,0
-2019-12-16,"24/16 Kings Park Road, WEST PERTH WA 6005",400000,Apartment,2,1,1,122,Monday,0,0
-2019-12-15,"29 Tully Road, EAST PERTH WA 6004",400000,House,1,2,1,122,Sunday,6,1
-2019-12-15,"5/120 Terrace Rd, PERTH WA 6000",400000,Apartment,2,2,2,122,Sunday,6,1
-2019-12-14,"14/34 Palmerston Street, PERTH WA 6000",400000,Townhouse,2,3,1,122,Saturday,5,1
-2019-12-13,"14/121 Hill Street, EAST PERTH WA 6004",232500,Apartment,2,3,2,122,Friday,4,0
-2019-12-13,"21/148 Adelaide Terrace, EAST PERTH WA 6004",420000,Apartment,3,1,2,122,Friday,4,0
-2019-12-13,"4/115 Wright Street, HIGHGATE WA 6003",525000,Apartment,1,1,1,122,Friday,4,0
-2019-12-13,WEST PERTH WA 6005,875000,Apartment,1,1,1,122,Friday,4,0
-2019-12-12,"27/52 Wickham Street, EAST PERTH WA 6004",575000,Apartment,1,2,1,122,Thursday,3,0
-2019-12-12,"22/226 Beaufort Street, PERTH WA 6000",295800,Apartment,2,2,1,122,Thursday,3,0
-2019-12-12,"11/33 Newcastle Street, PERTH WA 6000",400000,Apartment,2,3,1,122,Thursday,3,0
-2019-12-11,"51/38-42 Waterloo Crescent, EAST PERTH WA 6004",145000,Apartment,1,2,1,122,Wednesday,2,0
-2019-12-11,"2003/63 Adelaide Terrace, EAST PERTH WA 6004",560000,Apartment,1,3,1,122,Wednesday,2,0
-2019-12-11,"171/143 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,3,2,122,Wednesday,2,0
-2019-12-11,"29/34 Smith Street, HIGHGATE WA 6003",380000,Apartment,1,2,2,122,Wednesday,2,0
-2019-12-11,"7d/1303 Hay Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-12-10,"3/50 Trafalgar Road, EAST PERTH WA 6004",1150000,Apartment,2,1,1,122,Tuesday,1,0
-2019-12-10,"422 Beaufort Street, HIGHGATE WA 6003",400000,House,1,3,0,122,Tuesday,1,0
-2019-12-10,"8 Little Shenton Lane, NORTHBRIDGE WA 6003",400000,Townhouse,1,2,2,122,Tuesday,1,0
-2019-12-10,"40/87 Bulwer Street, PERTH WA 6000",400000,Apartment,2,1,1,122,Tuesday,1,0
-2019-12-09,"108/126 Mounts Bay Road, PERTH WA 6000",400000,Apartment,1,2,1,122,Monday,0,0
-2019-12-09,"35 Windsor Street, PERTH WA 6000",400000,Vacant land,2,1,1,122,Monday,0,0
-2019-12-09,"49 Victoria Street, WEST PERTH WA 6005",400000,House,1,2,1,122,Monday,0,0
-2019-12-05,"2/123 Wellington Street, EAST PERTH WA 6004",400000,Apartment,1,4,2,122,Thursday,3,0
-2019-12-05,"9/21 Dangan Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Thursday,3,0
-2019-12-04,"101/403 Newcastle Street, NORTHBRIDGE WA 6003",400000,Apartment,1,1,1,122,Wednesday,2,0
-2019-12-04,"110/15 Aberdeen St, PERTH WA 6000",285000,Apartment,1,2,1,122,Wednesday,2,0
-2019-12-04,"58 Bulwer Street, PERTH WA 6000",680000,House,2,3,1,122,Wednesday,2,0
-2019-12-04,"231 Lake Street, PERTH WA 6000",400000,House,2,3,2,122,Wednesday,2,0
-2019-12-04,"1304/659 Murray Street, WEST PERTH WA 6005",380000,Apartment,1,3,2,122,Wednesday,2,0
-2019-12-04,"1304/659 Murray Street, WEST PERTH WA 6005",380000,Apartment,2,1,2,122,Wednesday,2,0
-2019-12-03,"2/115 Wright Street, HIGHGATE WA 6003",400000,Apartment,1,3,1,122,Tuesday,1,0
-2019-12-03,"2502/237 Adelaide Terrace, PERTH WA 6000",1410000,Apartment,1,3,1,122,Tuesday,1,0
-2019-12-03,"6/26 Florence Street, WEST PERTH WA 6005",482500,Apartment,3,2,2,122,Tuesday,1,0
-2019-12-02,"1/20 Royal Street, EAST PERTH WA 6004",870000,Apartment,1,3,1,122,Monday,0,0
-2019-12-02,"61/89 Aberdeen Street, NORTHBRIDGE WA 6003",400000,Apartment,2,3,2,122,Monday,0,0
-2019-12-02,"21 Brookman Street, PERTH WA 6000",660000,House,2,2,1,122,Monday,0,0
-2019-12-02,"1/63 Palmerston Street, PERTH WA 6000",821000,House,2,1,2,122,Monday,0,0
-2019-12-01,"3/5 Smith Street, HIGHGATE WA 6003",360000,Villa,1,2,1,122,Sunday,6,1
-2019-11-30,"5 Pisconeri Street, PERTH WA 6000",850000,House,2,3,2,122,Saturday,5,1
-2019-11-30,"8 Hammond Street, WEST PERTH WA 6005",400000,House,2,2,1,122,Saturday,5,1
-2019-11-29,"7/47 Forrest Avenue, EAST PERTH WA 6004",640000,Apartment,2,3,2,122,Friday,4,0
-2019-11-29,"33/34 East Parade, EAST PERTH WA 6004",400000,Apartment,2,2,2,122,Friday,4,0
-2019-11-29,"217/189 Adelaide Terrace, EAST PERTH WA 6004",730000,Apartment,2,2,1,122,Friday,4,0
-2019-11-28,"807/108 Terrace Road, EAST PERTH WA 6004",815000,Apartment,2,2,1,122,Thursday,3,0
-2019-11-28,"54/76 Newcastle St, PERTH WA 6000",445000,Apartment,2,3,1,122,Thursday,3,0
-2019-11-27,"8 Davies Street, NORTHBRIDGE WA 6003",400000,House,2,1,2,122,Wednesday,2,0
-2019-11-27,"9/76 Newcastle Street, PERTH WA 6000",400000,Apartment,1,3,1,122,Wednesday,2,0
-2019-11-26,"1106/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,2,2,122,Tuesday,1,0
-2019-11-26,"23/89 Aberdeen Street, NORTHBRIDGE WA 6003",400000,Apartment,1,2,3,122,Tuesday,1,0
-2019-11-23,"Lot 9, 45 Forbes Road, PERTH WA 6000",400000,Townhouse,2,1,1,122,Saturday,5,1
-2019-11-22,"11/2 Mayfair Street, WEST PERTH WA 6005",265000,Apartment,2,1,1,122,Friday,4,0
-2019-11-22,"3/60 Cleaver Street, WEST PERTH WA 6005",400000,Townhouse,2,3,1,122,Friday,4,0
-2019-11-22,"37 Carr Street, WEST PERTH WA 6005",400000,House,2,2,1,122,Friday,4,0
-2019-11-21,"12/111 Colin Street, WEST PERTH WA 6005",400000,Apartment,2,2,2,122,Thursday,3,0
-2019-11-19,"93/151 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,1,1,122,Tuesday,1,0
-2019-11-19,"93/151 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,2,0,122,Tuesday,1,0
-2019-11-18,"5/42-52 Terrace Road, EAST PERTH WA 6004",880000,Apartment,1,1,1,122,Monday,0,0
-2019-11-18,"6/118 Royal Street, EAST PERTH WA 6004",515000,Apartment,1,2,1,122,Monday,0,0
-2019-11-18,"18/182 James Street, NORTHBRIDGE WA 6003",585000,Apartment,2,3,2,122,Monday,0,0
-2019-11-18,"2A/811 HAY STREET, PERTH WA 6000",240000,Apartment,2,2,2,122,Monday,0,0
-2019-11-18,"63 Kingston Avenue, WEST PERTH WA 6005",695000,House,1,2,1,122,Monday,0,0
-2019-11-17,"3f/1303 Hay Street, WEST PERTH WA 6005",400000,Apartment,2,3,1,122,Sunday,6,1
-2019-11-16,"73/43 Wickham Street, EAST PERTH WA 6004",400000,Apartment,1,3,1,122,Saturday,5,1
-2019-11-16,"22/128 Mounts Bay Road, PERTH WA 6000",729500,Penthouse,2,2,2,122,Saturday,5,1
-2019-11-15,"35/193 Hay Street, EAST PERTH WA 6004",230000,Apartment,2,2,1,122,Friday,4,0
-2019-11-15,"9/569 Wellington Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Friday,4,0
-2019-11-15,"10/149 Carr Street, WEST PERTH WA 6005",550000,Townhouse,1,2,1,122,Friday,4,0
-2019-11-14,"6/50 Trafalgar Road, EAST PERTH WA 6004",1150000,Apartment,2,2,1,122,Thursday,3,0
-2019-11-14,"2207/63 Adelaide Terrace, EAST PERTH WA 6004",685000,Apartment,1,2,1,122,Thursday,3,0
-2019-11-14,"19/8 James Street, PERTH WA 6000",275000,Apartment,1,2,2,122,Thursday,3,0
-2019-11-14,"701/9 Victoria Avenue, PERTH WA 6000",275000,Apartment,1,1,1,122,Thursday,3,0
-2019-11-13,"1205/237 Adelaide Terrace, PERTH WA 6000",465000,Apartment,1,1,0,122,Wednesday,2,0
-2019-11-13,"25/448 Murray Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-11-13,"82/1178 Hay Street, WEST PERTH WA 6005",435000,Apartment,1,3,0,122,Wednesday,2,0
-2019-11-11,"38/40 Wellington Street, EAST PERTH WA 6004",310000,Apartment,2,1,1,122,Monday,0,0
-2019-11-11,"203/112-122 Goderich Street, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Monday,0,0
-2019-11-11,"3/122 Terrace Road, PERTH WA 6000",205000,Apartment,1,1,1,122,Monday,0,0
-2019-11-10,"812/201 Hay Street, EAST PERTH WA 6004",220000,Apartment,1,2,1,122,Sunday,6,1
-2019-11-09,"9/175 Hay Street, EAST PERTH WA 6004",400000,Apartment,2,1,1,122,Saturday,5,1
-2019-11-09,"9/111 Colin Street, WEST PERTH WA 6005",400000,Apartment,1,1,1,122,Saturday,5,1
-2019-11-08,"55/190 Hay Street, EAST PERTH WA 6004",280000,Apartment,1,1,1,122,Friday,4,0
-2019-11-08,"614/112 Goderich Street, EAST PERTH WA 6004",150000,Apartment,1,3,0,122,Friday,4,0
-2019-11-08,"107/1178 Hay Street, WEST PERTH WA 6005",445000,Apartment,2,2,2,122,Friday,4,0
-2019-11-07,"402/63 Adelaide Terrace, EAST PERTH WA 6004",380000,Off the Plan,2,1,1,122,Thursday,3,0
-2019-11-07,"13/17 Wickham Street, EAST PERTH WA 6004",388000,Off the Plan,1,2,1,122,Thursday,3,0
-2019-11-07,"12/45 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Thursday,3,0
-2019-11-07,"2/168 Mounts Bay Road, PERTH WA 6000",400000,Apartment,1,2,1,122,Thursday,3,0
-2019-11-07,"6/863 Wellington Street, WEST PERTH WA 6005",400000,Apartment,1,2,0,122,Thursday,3,0
-2019-11-07,"14/34 Kings Park Road, WEST PERTH WA 6005",400000,Apartment,1,1,1,122,Thursday,3,0
-2019-11-06,"19 Little Brown Street, EAST PERTH WA 6004",390000,Townhouse,1,2,1,122,Wednesday,2,0
-2019-11-06,"Unit 39/35 Wellington St, EAST PERTH WA 6004",400000,Apartment,2,2,1,122,Wednesday,2,0
-2019-11-06,"112 Bulwer Street, PERTH WA 6000",705000,House,2,2,1,122,Wednesday,2,0
-2019-11-06,"52/133 Lincoln Street, PERTH WA 6000",270000,Apartment,1,4,1,122,Wednesday,2,0
-2019-11-06,"14/120 Terrace Road, PERTH WA 6000",225000,Apartment,1,2,3,122,Wednesday,2,0
-2019-11-06,"19/2 Colin Street, WEST PERTH WA 6005",400000,Apartment,2,3,2,122,Wednesday,2,0
-2019-11-05,"2108/63 Adelaide Terrace, EAST PERTH WA 6004",650000,Off the Plan,2,3,2,122,Tuesday,1,0
-2019-11-05,"7/34 East Parade, EAST PERTH WA 6004",449000,Apartment,2,3,2,122,Tuesday,1,0
-2019-11-05,"420 Beaufort Street, HIGHGATE WA 6003",400000,House,2,1,2,122,Tuesday,1,0
-2019-11-05,"33/280 Lord Street, PERTH WA 6000",397000,Apartment,1,3,0,122,Tuesday,1,0
-2019-11-05,"86/9 Delhi Street, WEST PERTH WA 6005",400000,Apartment,1,3,2,122,Tuesday,1,0
-2019-11-04,"21/118 Royal Street, EAST PERTH WA 6004",720000,Apartment,2,3,2,122,Monday,0,0
-2019-11-04,"11/45 Stuart Street, PERTH WA 6000",400000,Townhouse,2,1,2,122,Monday,0,0
-2019-11-04,"12 Victoria Avenue, PERTH WA 6000",400000,Apartment,1,2,1,122,Monday,0,0
-2019-11-01,"14/117 Brisbane Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Friday,4,0
-2019-10-31,"18/369 Hay Street, PERTH WA 6000",500000,Apartment,1,2,1,122,Thursday,3,0
-2019-10-30,"21 Little Shenton Lane, NORTHBRIDGE WA 6003",400000,Townhouse,2,3,1,122,Wednesday,2,0
-2019-10-30,"102/101 Murray Street, PERTH WA 6000",295000,Apartment,2,3,2,122,Wednesday,2,0
-2019-10-29,"73/48 Mount Street, WEST PERTH WA 6005",445000,Apartment,2,2,2,122,Tuesday,1,0
-2019-10-28,"382 Newcastle Street, WEST PERTH WA 6005",400000,House,2,1,1,122,Monday,0,0
-2019-10-27,"89/262 Lord Street, PERTH WA 6000",386000,Apartment,1,2,1,122,Sunday,6,1
-2019-10-26,"14/60-62 Henry Lawson Walk, EAST PERTH WA 6004",655000,Apartment,2,2,2,122,Saturday,5,1
-2019-10-25,"7/24 Constitution Street, EAST PERTH WA 6004",815000,Apartment,2,2,2,122,Friday,4,0
-2019-10-25,"62/22 St Georges Terrace, PERTH WA 6000",510000,Apartment,1,1,1,122,Friday,4,0
-2019-10-25,"Apt 2705/600 Wellington Street, PERTH WA 6000",492000,Off the Plan,1,2,1,122,Friday,4,0
-2019-10-25,"28/65 Milligan Street, PERTH WA 6000",550000,Apartment,2,2,1,122,Friday,4,0
-2019-10-23,"29/65 Milligan Street, PERTH WA 6000",520000,Apartment,2,3,1,122,Wednesday,2,0
-2019-10-23,"39 West Parade, PERTH WA 6000",400000,House,2,3,2,122,Wednesday,2,0
-2019-10-22,"9/101 Murray Street, PERTH WA 6000",245000,Apartment,2,4,2,122,Tuesday,1,0
-2019-10-21,"77/188 Adelaide Terrace, EAST PERTH WA 6004",430000,Apartment,2,2,1,122,Monday,0,0
-2019-10-21,"1504/8 Adelaide Terrace, EAST PERTH WA 6004",512500,Apartment,2,2,1,122,Monday,0,0
-2019-10-20,"61/170 Adelaide Terrace, EAST PERTH WA 6004",720000,Apartment,2,3,2,122,Sunday,6,1
-2019-10-18,"16/88 Terrace Road, EAST PERTH WA 6004",1060000,Apartment,2,2,2,122,Friday,4,0
-2019-10-18,"3/24 Bronte Street, EAST PERTH WA 6004",520000,Townhouse,2,1,1,122,Friday,4,0
-2019-10-18,"44/22 Nile, EAST PERTH WA 6004",355000,Apartment,1,2,1,122,Friday,4,0
-2019-10-18,"9/115 Wright Street, HIGHGATE WA 6003",400000,Apartment,2,1,2,122,Friday,4,0
-2019-10-16,"Level 3, 7/153 Kensington  Street, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-10-16,"7/296 Newcastle Street, PERTH WA 6000",415000,Apartment,1,3,0,122,Wednesday,2,0
-2019-10-15,"54/101 Murray Street, PERTH WA 6000",293000,House,2,2,3,122,Tuesday,1,0
-2019-10-14,"1305/105 Stirling Street, PERTH WA 6000",520000,Apartment,1,2,1,122,Monday,0,0
-2019-10-14,"9/133 Lincoln Street, PERTH WA 6000",400000,Apartment,1,2,3,122,Monday,0,0
-2019-10-14,"127 Carr Street, WEST PERTH WA 6005",400000,House,1,2,1,122,Monday,0,0
-2019-10-14,"1/47 Mount Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Monday,0,0
-2019-10-13,"25/990 Wellington Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Sunday,6,1
-2019-10-12,"35 Carr  Street, WEST PERTH WA 6005",500000,House,2,2,1,122,Saturday,5,1
-2019-10-11,"16/121 Hill Street, EAST PERTH WA 6004",283000,Apartment,2,3,2,122,Friday,4,0
-2019-10-11,"53/154 Newcastle Street, PERTH WA 6000",360000,Apartment,2,3,2,122,Friday,4,0
-2019-10-09,"Apt 2706/600 Wellington Street, PERTH WA 6000",737000,Off the Plan,1,3,2,122,Wednesday,2,0
-2019-10-09,"802/237 Adelaide Terrace, PERTH WA 6000",395000,Apartment,2,3,2,122,Wednesday,2,0
-2019-10-09,"35/229 Adelaide Terrace, PERTH WA 6000",400000,Apartment,1,3,1,122,Wednesday,2,0
-2019-10-09,"6/478 William Street, PERTH WA 6000",400000,Apartment,2,2,2,122,Wednesday,2,0
-2019-10-09,"117 Summers Street, PERTH WA 6000",400000,House,2,1,1,122,Wednesday,2,0
-2019-10-07,"88/132 Terrace Road, PERTH WA 6000",800000,Apartment,1,1,1,122,Monday,0,0
-2019-10-07,"5/37 Cleaver Street, WEST PERTH WA 6005",475000,Townhouse,1,3,1,122,Monday,0,0
-2019-10-04,"Apt 47/131 Harold Street, HIGHGATE WA 6003",575000,Apartment,2,2,2,122,Friday,4,0
-2019-10-04,"49/122 Mounts Bay Road, PERTH WA 6000",345000,Apartment,1,1,1,122,Friday,4,0
-2019-10-04,"95/59-65 Malcolm Street, WEST PERTH WA 6005",400000,Apartment,1,3,1,122,Friday,4,0
-2019-10-02,"13/60 Forrest Avenue, EAST PERTH WA 6004",125000,Apartment,2,2,1,122,Wednesday,2,0
-2019-10-01,"42/17 Wickham Street, EAST PERTH WA 6004",1050000,Off the Plan,2,2,2,122,Tuesday,1,0
-2019-10-01,"605/251 Hay Street, EAST PERTH WA 6004",255000,Apartment,2,2,1,122,Tuesday,1,0
-2019-09-30,"50/147 Charles Street, WEST PERTH WA 6005",171000,Apartment,2,2,1,122,Monday,0,0
-2019-09-27,"32/128 Adelaide Terrace, EAST PERTH WA 6004",450000,Apartment,2,2,1,122,Friday,4,0
-2019-09-27,"193/143 Adelaide Terrace, EAST PERTH WA 6004",478000,Apartment,2,2,1,122,Friday,4,0
-2019-09-27,"24/134 Aberdeen Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,1,122,Friday,4,0
-2019-09-27,"1401/237 Adelaide Terrace, PERTH WA 6000",400000,Apartment,2,3,2,122,Friday,4,0
-2019-09-26,"18/59 Brewer Street, PERTH WA 6000",400000,Apartment,3,2,2,122,Thursday,3,0
-2019-09-26,"5/117 Lake Street, PERTH WA 6000",400000,Townhouse,1,1,1,122,Thursday,3,0
-2019-09-26,"27/105 Colin Street, WEST PERTH WA 6005",419000,Apartment,1,3,1,122,Thursday,3,0
-2019-09-26,"1/51 Mount St, WEST PERTH WA 6005",400000,Apartment,2,2,3,122,Thursday,3,0
-2019-09-25,"Apartment 1801/11 Barrack Square, PERTH WA 6000",2250000,Apartment,2,2,1,122,Wednesday,2,0
-2019-09-25,"22/132 Mounts Bay Road, PERTH WA 6000",255000,Apartment,1,2,1,122,Wednesday,2,0
-2019-09-25,"18/66 Cleaver Street, WEST PERTH WA 6005",171000,Apartment,1,1,1,122,Wednesday,2,0
-2019-09-25,"6/24 Cliff Street, WEST PERTH WA 6005",400000,Apartment,1,1,1,122,Wednesday,2,0
-2019-09-24,"91/42-52 Terrace Road, EAST PERTH WA 6004",400000,Apartment,1,3,1,122,Tuesday,1,0
-2019-09-24,"76/38 Kings Park Road, WEST PERTH WA 6005",400000,House,2,3,2,122,Tuesday,1,0
-2019-09-23,"38/190 Hay Street, EAST PERTH WA 6004",272000,Apartment,2,2,1,122,Monday,0,0
-2019-09-23,"6/2 Davies Street, NORTHBRIDGE WA 6003",400000,Apartment,2,1,1,122,Monday,0,0
-2019-09-20,"21/190 Hay Street, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Friday,4,0
-2019-09-20,"27 Plunkett Street, HIGHGATE WA 6003",400000,House,1,3,1,122,Friday,4,0
-2019-09-19,"7/182 James  Street, NORTHBRIDGE WA 6003",400000,Apartment,2,3,2,122,Thursday,3,0
-2019-09-19,"E1/161 Colin Street, WEST PERTH WA 6005",510000,Apartment,2,3,2,122,Thursday,3,0
-2019-09-18,"307/126-128 Mounts Bay Road, PERTH WA 6000",280000,Apartment,2,3,2,122,Wednesday,2,0
-2019-09-18,"2/32 Outram Street, WEST PERTH WA 6005",315000,Apartment,2,4,2,122,Wednesday,2,0
-2019-09-18,"39D Cowle Street, WEST PERTH WA 6005",400000,New House & Land,3,3,2,122,Wednesday,2,0
-2019-09-17,"34/88 Terrace Road, EAST PERTH WA 6004",400000,Apartment,2,1,2,122,Tuesday,1,0
-2019-09-16,"77 Chatsworth Road, HIGHGATE WA 6003",400000,House,1,1,0,122,Monday,0,0
-2019-09-16,"69/34 Kings Park Road, WEST PERTH WA 6005",700000,Apartment,1,2,0,122,Monday,0,0
-2019-09-14,"54 Henry Lawson Walk, EAST PERTH WA 6004",400000,House,1,2,1,122,Saturday,5,1
-2019-09-13,"42/9 Delhi Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Friday,4,0
-2019-09-12,"603/12 Victoria Avenue, PERTH WA 6000",165000,Apartment,2,2,1,122,Thursday,3,0
-2019-09-12,"Apt 1703/600 Wellington Street, PERTH WA 6000",407000,Apartment,2,1,2,122,Thursday,3,0
-2019-09-10,"Lot 77, Stirling Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Tuesday,1,0
-2019-09-10,"14/15 Aberdeen Street, PERTH WA 6000",400000,Apartment,1,3,1,122,Tuesday,1,0
-2019-09-09,"Level 4, 52/190 Hay Street, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Monday,0,0
-2019-09-09,"23/65 Wittenoom Street, EAST PERTH WA 6004",400000,Apartment,2,1,2,122,Monday,0,0
-2019-09-09,"30/34 Smith Street, HIGHGATE WA 6003",400000,Apartment,1,2,0,122,Monday,0,0
-2019-09-09,"2/118 Mounts Bay Road, PERTH WA 6000",250000,Apartment,2,2,1,122,Monday,0,0
-2019-09-09,"Lot 68, Stirling Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Monday,0,0
-2019-09-09,"34 Chapman Street, PERTH WA 6000",400000,House,2,2,2,122,Monday,0,0
-2019-09-08,"25/875 Wellington Street, WEST PERTH WA 6005",400000,Apartment,2,2,2,122,Sunday,6,1
-2019-09-06,"147/151 Adelaide Terrace, EAST PERTH WA 6004",427500,Apartment,1,2,1,122,Friday,4,0
-2019-09-06,"160/369 Hay Street, PERTH WA 6000",400000,Apartment,2,2,2,122,Friday,4,0
-2019-09-05,"90/148 Adelaide Terrace, EAST PERTH WA 6004",565000,Apartment,2,2,1,122,Thursday,3,0
-2019-09-05,"53/255 Adelaide Terrace, PERTH WA 6000",749000,Apartment,1,2,1,122,Thursday,3,0
-2019-09-05,"66/996 Hay Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Thursday,3,0
-2019-09-04,"24/10 Pendal Lane, PERTH WA 6000",400000,Apartment,2,2,1,122,Wednesday,2,0
-2019-09-03,"34/67 Brewer Street, PERTH WA 6000",470000,Apartment,2,2,1,122,Tuesday,1,0
-2019-09-03,"234 Lake Street, PERTH WA 6000",750000,House,2,2,2,122,Tuesday,1,0
-2019-09-03,"140/369 Hay Street, PERTH WA 6000",406888,Apartment,1,3,1,122,Tuesday,1,0
-2019-09-02,"6/33 Royal Street, EAST PERTH WA 6004",510000,Apartment,1,2,1,122,Monday,0,0
-2019-09-02,"502/63 Adelaide Terrace, EAST PERTH WA 6004",460000,Apartment,2,3,2,122,Monday,0,0
-2019-09-02,"24/47 Forrest Avenue, EAST PERTH WA 6004",585000,Apartment,2,2,1,122,Monday,0,0
-2019-09-02,"32/250 Beaufort Street, PERTH WA 6000",390000,Apartment,1,2,1,122,Monday,0,0
-2019-08-31,"81 Carr Street, WEST PERTH WA 6005",400000,Semi-Detached,2,2,1,122,Saturday,5,1
-2019-08-29,"46 Jewell Lane, EAST PERTH WA 6004",400000,House,2,2,1,122,Thursday,3,0
-2019-08-29,"6/296 Newcastle  Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Thursday,3,0
-2019-08-29,"8/146 Carr Street, WEST PERTH WA 6005",305000,Apartment,1,2,2,122,Thursday,3,0
-2019-08-28,"30/7-9 Bennett Street, EAST PERTH WA 6004",353000,Apartment,1,3,1,122,Wednesday,2,0
-2019-08-28,"Lot 25, Stirling Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-08-28,"Lot 35, Stirling Street, PERTH WA 6000",400000,Apartment,1,3,3,122,Wednesday,2,0
-2019-08-27,"9/49-53 Bronte Street, EAST PERTH WA 6004",375000,Apartment,2,2,2,122,Tuesday,1,0
-2019-08-27,"75/996 Hay Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Tuesday,1,0
-2019-08-27,"27/133 Lincoln Street, PERTH WA 6000",400000,House,2,3,1,122,Tuesday,1,0
-2019-08-27,"70 Carr Street, WEST PERTH WA 6005",400000,House,2,2,1,122,Tuesday,1,0
-2019-08-26,"25/1331 Hay Street, WEST PERTH WA 6005",400000,Apartment,2,1,2,122,Monday,0,0
-2019-08-25,"8/5 Broome Street, HIGHGATE WA 6003",400000,Townhouse,2,1,1,122,Sunday,6,1
-2019-08-24,"5/2A Goderich Street SOLD SOLD, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Saturday,5,1
-2019-08-22,"19/2A Goderich Street, EAST PERTH WA 6004",364000,Apartment,1,3,1,122,Thursday,3,0
-2019-08-22,"31/16 Kings Park Road, WEST PERTH WA 6005",560000,Apartment,1,2,1,122,Thursday,3,0
-2019-08-21,"8/18 Wellington Street, EAST PERTH WA 6004",360000,Apartment,2,2,3,122,Wednesday,2,0
-2019-08-21,"17/17 Wickham, EAST PERTH WA 6004",410000,Off the Plan,2,3,2,122,Wednesday,2,0
-2019-08-21,"3/2 Bremer Promenade, EAST PERTH WA 6004",375000,Apartment,1,2,1,122,Wednesday,2,0
-2019-08-21,"2/226 Beaufort Street, PERTH WA 6000",336000,Apartment,1,2,2,122,Wednesday,2,0
-2019-08-21,"13 Marlborough Street, PERTH WA 6000",400000,House,2,3,1,122,Wednesday,2,0
-2019-08-20,"113/181 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,3,1,122,Tuesday,1,0
-2019-08-20,"72/418 Murray Street, PERTH WA 6000",315000,Apartment,3,1,2,122,Tuesday,1,0
-2019-08-20,"310 Stirling Street, PERTH WA 6000",704500,House,1,2,1,122,Tuesday,1,0
-2019-08-19,"37/378 Beaufort St, PERTH WA 6000",445000,Apartment,1,1,1,122,Monday,0,0
-2019-08-18,"294 Bulwer Street, PERTH WA 6000",400000,House,1,1,1,122,Sunday,6,1
-2019-08-16,"2503/63 Adelaide Terrace, EAST PERTH WA 6004",1080000,Apartment,2,2,1,122,Friday,4,0
-2019-08-16,"51/123 Wellington Street, EAST PERTH WA 6004",332000,Apartment,1,2,0,122,Friday,4,0
-2019-08-15,"8/190 Hay Street, EAST PERTH WA 6004",250000,Apartment,1,2,1,122,Thursday,3,0
-2019-08-15,"9/189 Adelaide Terrace, EAST PERTH WA 6004",230000,Studio,2,2,1,122,Thursday,3,0
-2019-08-14,"24/7-9 Bennett Street, EAST PERTH WA 6004",349000,Apartment,2,3,2,122,Wednesday,2,0
-2019-08-14,"24/12 Wright Street, HIGHGATE WA 6003",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-08-14,"Unit 45/378 Beaufort Street, PERTH WA 6000",300000,House,2,2,1,122,Wednesday,2,0
-2019-08-13,"12/18 Wellington Street, EAST PERTH WA 6004",362000,Apartment,2,3,2,122,Tuesday,1,0
-2019-08-13,"35/100 Terrace Road, EAST PERTH WA 6004",675000,Apartment,1,2,1,122,Tuesday,1,0
-2019-08-12,"26/500 Beaufort St, HIGHGATE WA 6003",420000,Apartment,1,2,0,122,Monday,0,0
-2019-08-12,"8/48 Havelock Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Monday,0,0
-2019-08-09,"24/20 Royal Street, EAST PERTH WA 6004",855000,Apartment,1,2,1,122,Friday,4,0
-2019-08-09,"56/11 Regal Place, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Friday,4,0
-2019-08-09,"77 Lindsay Street, PERTH WA 6000",400000,House,2,2,1,122,Friday,4,0
-2019-08-08,"5/69 Murray Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Thursday,3,0
-2019-08-07,"45/569 Wellington Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Wednesday,2,0
-2019-08-06,"17/62 Bronte Street, EAST PERTH WA 6004",305000,Apartment,1,3,1,122,Tuesday,1,0
-2019-08-06,"137/101 Murray Street, PERTH WA 6000",377000,Apartment,1,3,0,122,Tuesday,1,0
-2019-08-06,"36/28 Robinson Ave, PERTH WA 6000",359000,Apartment,2,3,1,122,Tuesday,1,0
-2019-08-06,"15/580 Hay Street, PERTH WA 6000",440000,Apartment,3,2,3,122,Tuesday,1,0
-2019-08-06,"12/4 Bulwer Street, PERTH WA 6000",400000,Apartment,1,2,0,122,Tuesday,1,0
-2019-08-05,"109/2 Moreau Parade, EAST PERTH WA 6004",213750,Apartment,2,2,1,122,Monday,0,0
-2019-08-05,"7/111 Colin Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Monday,0,0
-2019-08-04,"9/70 Mount Street, WEST PERTH WA 6005",400000,House,1,4,1,122,Sunday,6,1
-2019-08-03,"39 Ruth  Street, PERTH WA 6000",800000,House,2,2,1,122,Saturday,5,1
-2019-08-02,"2/42 Bronte Street, EAST PERTH WA 6004",385000,Apartment,2,3,2,122,Friday,4,0
-2019-08-02,"6/196 Bulwer Street, PERTH WA 6000",302500,Apartment,4,3,3,122,Friday,4,0
-2019-08-02,"53/996 Hay Street, PERTH WA 6000",332000,Apartment,2,2,1,122,Friday,4,0
-2019-08-02,"511/659 Murray Street, WEST PERTH WA 6005",535000,Apartment,2,2,2,122,Friday,4,0
-2019-08-01,"2/2 Bremer Promenade, EAST PERTH WA 6004",400000,Apartment,2,2,2,122,Thursday,3,0
-2019-08-01,"3 Orchard Way, EAST PERTH WA 6004",400000,House,1,3,2,122,Thursday,3,0
-2019-08-01,"15/69 Milligan  Street, PERTH WA 6000",390000,Apartment,2,1,1,122,Thursday,3,0
-2019-07-31,"16 Victory Terrace, EAST PERTH WA 6004",949000,House,2,1,2,122,Wednesday,2,0
-2019-07-31,"15 Primrose Street, PERTH WA 6000",620000,House,2,4,1,122,Wednesday,2,0
-2019-07-31,"56 Bulwer Street, PERTH WA 6000",690000,House,1,4,1,122,Wednesday,2,0
-2019-07-29,"107/35 Bronte Street, EAST PERTH WA 6004",540000,Apartment,1,1,1,122,Monday,0,0
-2019-07-29,"1103/35 Bronte Street, EAST PERTH WA 6004",699000,Apartment,2,2,2,122,Monday,0,0
-2019-07-29,"70/141 Fitzgerald Street, WEST PERTH WA 6005",400000,Apartment,2,3,2,122,Monday,0,0
-2019-07-28,"54/177 Stirling Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Sunday,6,1
-2019-07-27,"1603/659 Murray Street, WEST PERTH WA 6005",405000,Apartment,2,5,2,122,Saturday,5,1
-2019-07-25,"100 Zebina Street, EAST PERTH WA 6004",400000,House,2,5,2,122,Thursday,3,0
-2019-07-24,"10 Pisconeri, PERTH WA 6000",400000,House,1,2,1,122,Wednesday,2,0
-2019-07-23,"510/2 St Georges Terrace, PERTH WA 6000",400000,Apartment,6,2,3,122,Tuesday,1,0
-2019-07-22,"223/189 Adelaide Terrace, EAST PERTH WA 6004",730000,Apartment,6,2,2,122,Monday,0,0
-2019-07-22,"188/471 Hay Street, PERTH WA 6000",900000,Apartment,2,1,1,122,Monday,0,0
-2019-07-21,"25/229 Adelaide Terrace, PERTH WA 6000",400000,Apartment,1,2,1,122,Sunday,6,1
-2019-07-20,"17 Palmerston Street, NORTHBRIDGE WA 6003",1353333,House,2,2,2,122,Saturday,5,1
-2019-07-20,"17 Palmerston Street, NORTHBRIDGE WA 6003",400000,House,1,2,1,122,Saturday,5,1
-2019-07-19,"1309/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Friday,4,0
-2019-07-19,"17/19 Little Shenton Lane, NORTHBRIDGE WA 6003",423000,Apartment,1,2,1,122,Friday,4,0
-2019-07-19,"1803/105 Stirling Street, PERTH WA 6000",575000,Apartment,1,2,1,122,Friday,4,0
-2019-07-18,"2405/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,1,3,1,122,Thursday,3,0
-2019-07-18,"73/4 Bulwer Street, PERTH WA 6000",200000,Apartment,2,2,1,122,Thursday,3,0
-2019-07-17,"4/46 Smith Street, HIGHGATE WA 6003",400000,Apartment,1,1,1,122,Wednesday,2,0
-2019-07-15,"16/130 Terrace Road, PERTH WA 6000",342500,Apartment,1,1,1,122,Monday,0,0
-2019-07-15,"73/4 Delhi Street, WEST PERTH WA 6005",320000,Apartment,1,2,0,122,Monday,0,0
-2019-07-13,"12/18 Plain St, EAST PERTH WA 6004",530000,Apartment,1,3,1,122,Saturday,5,1
-2019-07-12,"625/201 Hay Street, EAST PERTH WA 6004",240000,Apartment,1,2,0,122,Friday,4,0
-2019-07-12,"71B Goderich Street, EAST PERTH WA 6004",535000,Townhouse,2,4,1,122,Friday,4,0
-2019-07-12,"43/191 James Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,1,122,Friday,4,0
-2019-07-11,"13/35 Wellington Street, EAST PERTH WA 6004",275000,Apartment,2,2,1,122,Thursday,3,0
-2019-07-10,"107/305 Murray Street, PERTH WA 6000",400000,House,2,2,2,122,Wednesday,2,0
-2019-07-09,"52/188 Adelaide Terrace, EAST PERTH WA 6004",385000,Apartment,2,3,1,122,Tuesday,1,0
-2019-07-09,"28/55 Wellington Street, EAST PERTH WA 6004",395000,Apartment,2,2,1,122,Tuesday,1,0
-2019-07-09,"3/42 Terrace Road, EAST PERTH WA 6004",610000,Apartment,2,3,1,122,Tuesday,1,0
-2019-07-09,"12-14 Florence, WEST PERTH WA 6005",400000,House,1,2,1,122,Tuesday,1,0
-2019-07-08,"1008/659 Murray Street, WEST PERTH WA 6005",500000,Apartment,2,3,1,122,Monday,0,0
-2019-07-08,"588 Newcastle Street, WEST PERTH WA 6005",400000,Apartment,2,2,2,122,Monday,0,0
-2019-07-07,"8/588 Newcastle Street, WEST PERTH WA 6005",400000,Townhouse,2,1,1,122,Sunday,6,1
-2019-07-06,"55/123 Wellington Street, EAST PERTH WA 6004",400000,House,3,5,2,122,Saturday,5,1
-2019-07-05,"8/33 Windsor Street, PERTH WA 6000",330000,Apartment,2,3,2,122,Friday,4,0
-2019-07-04,"902/35-37 Bronte Street, EAST PERTH WA 6004",1199000,Off the Plan,1,2,1,122,Thursday,3,0
-2019-07-04,"202/35 Bronte Street, EAST PERTH WA 6004",499000,Apartment,3,2,4,122,Thursday,3,0
-2019-07-04,"2/11 Altona Street, WEST PERTH WA 6005",1000000,Apartment,2,3,2,122,Thursday,3,0
-2019-07-03,"9/28 Waterloo Crescent, EAST PERTH WA 6004",575000,Apartment,2,3,1,122,Wednesday,2,0
-2019-07-03,"55/34 East Parade, EAST PERTH WA 6004",430000,Apartment,2,2,1,122,Wednesday,2,0
-2019-07-03,"37 Trafalgar Road, EAST PERTH WA 6004",1460000,House,2,2,2,122,Wednesday,2,0
-2019-07-03,"6C/29 Trafalgar Road, EAST PERTH WA 6004",1400000,Apartment,2,5,1,122,Wednesday,2,0
-2019-07-02,"72/149-151 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,1,2,122,Tuesday,1,0
-2019-07-02,"12/131 Harold Street, HIGHGATE WA 6003",455000,Apartment,2,2,1,122,Tuesday,1,0
-2019-06-30,"48/42-52 Terrace Road, EAST PERTH WA 6004",855000,Apartment,1,2,8,122,Sunday,6,1
-2019-06-28,"61/269 Hay Street, EAST PERTH WA 6004",449000,Apartment,1,1,1,122,Friday,4,0
-2019-06-28,"113/148 Adelaide Terrace, EAST PERTH WA 6004",760000,Apartment,2,2,1,122,Friday,4,0
-2019-06-28,"49/48 Havelock Street, WEST PERTH WA 6005",420000,Apartment,2,3,2,122,Friday,4,0
-2019-06-28,"106 Outram Street, WEST PERTH WA 6005",400000,House,1,3,1,122,Friday,4,0
-2019-06-27,"6/45 Adelaide Terrace, EAST PERTH WA 6004",240000,Apartment,1,3,0,122,Thursday,3,0
-2019-06-27,"78/189 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,2,1,122,Thursday,3,0
-2019-06-26,"3/20 Royal Street, EAST PERTH WA 6004",1010000,Apartment,2,2,0,122,Wednesday,2,0
-2019-06-26,"56/20 Royal Street, EAST PERTH WA 6004",316800,Apartment,2,2,2,122,Wednesday,2,0
-2019-06-26,"94/2 Sherwood Court, PERTH WA 6000",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-06-26,"19/141 Fitzgerald Street, WEST PERTH WA 6005",398000,Apartment,2,2,1,122,Wednesday,2,0
-2019-06-24,"10/145 Newcastle Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Monday,0,0
-2019-06-23,"80/132 Terrace Road, PERTH WA 6000",400000,Apartment,1,2,1,122,Sunday,6,1
-2019-06-22,"7/33 Mary Street, HIGHGATE WA 6003",400000,Apartment,2,1,1,122,Saturday,5,1
-2019-06-21,"14 Boans Lane, EAST PERTH WA 6004",720000,Townhouse,2,4,1,122,Friday,4,0
-2019-06-21,"59/103 Harold Street, HIGHGATE WA 6003",410000,Apartment,1,3,1,122,Friday,4,0
-2019-06-21,"43/996 Hay Street, PERTH WA 6000",347000,Apartment,1,2,1,122,Friday,4,0
-2019-06-20,"809/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,3,2,2,122,Thursday,3,0
-2019-06-20,"1503/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,2,2,122,Thursday,3,0
-2019-06-20,"23,105/23,105 Wellington St, EAST PERTH WA 6004",400000,Apartment,2,3,0,122,Thursday,3,0
-2019-06-20,"22/250 Beaufort Street, PERTH WA 6000",284000,Apartment,2,2,0,122,Thursday,3,0
-2019-06-19,"20 Old Belvidere Promenade, EAST PERTH WA 6004",1330000,House,1,2,1,122,Wednesday,2,0
-2019-06-19,"5/20 Royal Street, EAST PERTH WA 6004",400000,Apartment,2,2,2,122,Wednesday,2,0
-2019-06-18,"1702/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,1,2,1,122,Tuesday,1,0
-2019-06-18,"1903/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,1,1,1,122,Tuesday,1,0
-2019-06-18,"161/15 Aberdeen Street, PERTH WA 6000",329000,Apartment,2,1,0,122,Tuesday,1,0
-2019-06-18,"32/9 Delhi Street, WEST PERTH WA 6005",400000,Apartment,2,1,1,122,Tuesday,1,0
-2019-06-17,"206/106 Terrace Road, EAST PERTH WA 6004",290000,Apartment,1,2,0,122,Monday,0,0
-2019-06-17,"6/30 Bronte Street, EAST PERTH WA 6004",375000,Apartment,1,2,0,122,Monday,0,0
-2019-06-17,"1603/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,1,2,0,122,Monday,0,0
-2019-06-17,"14/148 Adelaide Tce, EAST PERTH WA 6004",400000,Apartment,2,2,0,122,Monday,0,0
-2019-06-17,"1604/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,2,1,0,122,Monday,0,0
-2019-06-17,"1704/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,1,3,1,122,Monday,0,0
-2019-06-17,"2105/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,2,2,1,122,Monday,0,0
-2019-06-17,"1001/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,1,2,1,122,Monday,0,0
-2019-06-17,"2207/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,2,2,2,122,Monday,0,0
-2019-06-17,"54/89 Aberdeen Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,2,122,Monday,0,0
-2019-06-17,"51/15-19 Carr Street, WEST PERTH WA 6005",452500,Apartment,2,2,1,122,Monday,0,0
-2019-06-17,"111/128 Carr Street, WEST PERTH WA 6005",169000,Apartment,2,2,0,122,Monday,0,0
-2019-06-14,"10/2403 The Towers Elizabeth Quay Barrack Street, PERTH WA 6000",2576000,Apartment,1,1,1,122,Friday,4,0
-2019-06-14,"2B/63 Mount Street, WEST PERTH WA 6005",400000,Apartment,1,1,1,122,Friday,4,0
-2019-06-13,"16/11 Bennett Street, EAST PERTH WA 6004",400000,Apartment,2,2,1,122,Thursday,3,0
-2019-06-13,"1803/63 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,3,1,122,Thursday,3,0
-2019-06-13,"4/11 Outram Street, WEST PERTH WA 6005",400000,Apartment,1,1,0,122,Thursday,3,0
-2019-06-12,"22/34 East Parade, EAST PERTH WA 6004",499000,Apartment,1,1,0,122,Wednesday,2,0
-2019-06-12,"2/2 Outram Street, WEST PERTH WA 6005",410000,Apartment,2,3,1,122,Wednesday,2,0
-2019-06-11,"34/122 Terrace Road, PERTH WA 6000",180000,Studio,2,1,1,122,Tuesday,1,0
-2019-06-11,"7/124 Terrace Road, PERTH WA 6000",180000,Studio,1,1,1,122,Tuesday,1,0
-2019-06-10,"13/29 Hill Street, PERTH WA 6000",225000,Apartment,1,1,0,122,Monday,0,0
-2019-06-10,"11/1020 Wellington Street, WEST PERTH WA 6005",405000,Apartment,2,2,2,122,Monday,0,0
-2019-06-10,"11/7 Delhi Street, WEST PERTH WA 6005",410000,Apartment,1,4,1,122,Monday,0,0
-2019-06-09,"55/20 Royal Street, EAST PERTH WA 6004",282000,Apartment,1,1,1,122,Sunday,6,1
-2019-06-09,"54/20 Royal Street, EAST PERTH WA 6004",170000,Apartment,1,2,1,122,Sunday,6,1
-2019-06-08,"2501/237 Adelaide Terrace, PERTH WA 6000",1160000,Apartment,2,3,1,122,Saturday,5,1
-2019-06-07,"2/69 Murray Street, PERTH WA 6000",370000,Apartment,2,3,3,122,Friday,4,0
-2019-06-06,"46/131 Harold Street, HIGHGATE WA 6003",400000,House,1,1,1,122,Thursday,3,0
-2019-06-05,"76/375 Hay Street, PERTH WA 6000",320000,Apartment,1,2,1,122,Wednesday,2,0
-2019-06-05,"1403/105 Stirling Street, PERTH WA 6000",499000,Off the Plan,1,3,1,122,Wednesday,2,0
-2019-06-04,"4 Bramall Street, EAST PERTH WA 6004",675000,House,2,3,1,122,Tuesday,1,0
-2019-06-04,"108/35 Bronte Street, EAST PERTH WA 6004",440000,Apartment,1,2,1,122,Tuesday,1,0
-2019-06-03,"72/48 Mount Street, WEST PERTH WA 6005",480000,Apartment,1,4,1,122,Monday,0,0
-2019-05-31,"C2/88 Royal Street, EAST PERTH WA 6004",370000,Apartment,1,4,0,122,Friday,4,0
-2019-05-31,"6/14 Waterloo Crescent, EAST PERTH WA 6004",520000,Apartment,2,2,1,122,Friday,4,0
-2019-05-31,"3/33 Mary Street, HIGHGATE WA 6003",400000,Apartment,2,2,1,122,Friday,4,0
-2019-05-31,"101/996 Hay Street, PERTH WA 6000",379000,Apartment,2,2,2,122,Friday,4,0
-2019-05-31,"24 Myrtle Street, PERTH WA 6000",400000,House,2,2,2,122,Friday,4,0
-2019-05-30,"11/128 Adelaide Terrace, EAST PERTH WA 6004",430000,Apartment,2,2,1,122,Thursday,3,0
-2019-05-30,"1/33 Royal Street, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Thursday,3,0
-2019-05-28,"79 West Parade, PERTH WA 6000",900000,House,2,3,1,122,Tuesday,1,0
-2019-05-27,"8 Flagstaff Lane, EAST PERTH WA 6004",1320000,House,2,1,1,122,Monday,0,0
-2019-05-27,"21/273 Beaufort Street, PERTH WA 6000",400000,Apartment,2,3,2,122,Monday,0,0
-2019-05-25,"388 Newcastle Street, WEST PERTH WA 6005",388000,Apartment,1,2,0,122,Saturday,5,1
-2019-05-25,"10/2 Colin Street, WEST PERTH WA 6005",400000,Apartment,2,1,3,122,Saturday,5,1
-2019-05-24,"19/148 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Friday,4,0
-2019-05-24,"186/143 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,1,2,122,Friday,4,0
-2019-05-24,"806/12 Victoria Avenue, PERTH WA 6000",183000,Apartment,2,3,1,122,Friday,4,0
-2019-05-24,"6/59 Mount Street, WEST PERTH WA 6005",400000,Apartment,1,3,1,122,Friday,4,0
-2019-05-22,"16/18 Wellington Street, EAST PERTH WA 6004",290000,Apartment,2,2,1,122,Wednesday,2,0
-2019-05-22,"119/181 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-05-22,"20/1178 Hay Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Wednesday,2,0
-2019-05-21,"108/45 Adelaide Terrace, EAST PERTH WA 6004",185000,Apartment,2,3,2,122,Tuesday,1,0
-2019-05-21,"5/580 Hay Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Tuesday,1,0
-2019-05-21,"21/611 Murray Street, WEST PERTH WA 6005",400000,Apartment,1,1,1,122,Tuesday,1,0
-2019-05-20,"60/269 Hay Street, EAST PERTH WA 6004",435000,Apartment,1,4,1,122,Monday,0,0
-2019-05-20,"44/280 Lord Street, PERTH WA 6000",515000,Apartment,2,1,2,122,Monday,0,0
-2019-05-19,"14/98 Lake Street, NORTHBRIDGE WA 6003",400000,Apartment,2,3,1,122,Sunday,6,1
-2019-05-17,"205/8 Adelaide Terrace, EAST PERTH WA 6004",345000,Apartment,1,2,0,122,Friday,4,0
-2019-05-16,"6/102 Goderich Street, EAST PERTH WA 6004",400000,Apartment,3,2,3,122,Thursday,3,0
-2019-05-16,"121/369 Hay Street, PERTH WA 6000",520000,Apartment,1,2,0,122,Thursday,3,0
-2019-05-16,"2/154 Newcastle Street, PERTH WA 6000",400000,Apartment,2,2,2,122,Thursday,3,0
-2019-05-15,"208/130A Mounts Bay Road, PERTH WA 6000",175000,Apartment,2,1,2,122,Wednesday,2,0
-2019-05-15,"1/14 Bellevue Terrace, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Wednesday,2,0
-2019-05-13,"114/305 MURRAY STREET, PERTH WA 6000",220000,Apartment,1,3,1,122,Monday,0,0
-2019-05-13,"232 Lake Street, PERTH WA 6000",400000,House,1,2,1,122,Monday,0,0
-2019-05-11,"55/98 Terrace Road, EAST PERTH WA 6004",730000,Apartment,1,2,1,122,Saturday,5,1
-2019-05-10,"10/10 Pendal Lane  SOLD-SOLD, NORTHBRIDGE WA 6003",475000,Apartment,2,3,1,122,Friday,4,0
-2019-05-09,"228 Brisbane Street SOLD, NORTHBRIDGE WA 6003",400000,Semi-Detached,2,3,2,122,Thursday,3,0
-2019-05-07,"230 Brisbane Street   SOLD, NORTHBRIDGE WA 6003",400000,Semi-Detached,2,2,1,122,Tuesday,1,0
-2019-05-07,"1002/659 Murray Street, WEST PERTH WA 6005",360000,Apartment,1,1,1,122,Tuesday,1,0
-2019-05-06,"1510/659 Murray Street, WEST PERTH WA 6005",540000,Apartment,1,4,2,122,Monday,0,0
-2019-05-04,"55/369 Hay Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Saturday,5,1
-2019-05-03,"30/18 Plain Street, EAST PERTH WA 6004",400000,Apartment,2,1,1,122,Friday,4,0
-2019-05-03,"54/996 Hay Street, PERTH WA 6000",330000,Apartment,1,2,1,122,Friday,4,0
-2019-05-03,"20A Windsor Street, PERTH WA 6000",695000,House,2,2,2,122,Friday,4,0
-2019-05-03,"46/141 Fitzgerald Street, WEST PERTH WA 6005",400000,Apartment,1,4,1,122,Friday,4,0
-2019-05-02,"27/103 Francis Street, NORTHBRIDGE WA 6003",400000,Apartment,1,1,1,122,Thursday,3,0
-2019-05-02,"23/76 Newcastle Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Thursday,3,0
-2019-05-01,"10/35 Haig Park Circle, EAST PERTH WA 6004",1100000,Apartment,1,1,1,122,Wednesday,2,0
-2019-05-01,"46/66 Cleaver Street, WEST PERTH WA 6005",155000,Apartment,4,1,4,122,Wednesday,2,0
-2019-05-01,"23/1331 Hay Street, WEST PERTH WA 6005",300000,Apartment,1,2,1,122,Wednesday,2,0
-2019-05-01,"17/37 Florence Street, WEST PERTH WA 6005",400000,Apartment,2,3,1,122,Wednesday,2,0
-2019-05-01,"16/141 Fitzgerald Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-04-30,"5 Vanguard Terrace, EAST PERTH WA 6004",1715000,House,1,2,0,122,Tuesday,1,0
-2019-04-30,"4/120 Terrace Road, PERTH WA 6000",220100,Apartment,1,2,1,122,Tuesday,1,0
-2019-04-30,"16/177 Stirling Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Tuesday,1,0
-2019-04-30,"16/29 Hill Street, PERTH WA 6000",400000,Apartment,2,2,2,122,Tuesday,1,0
-2019-04-30,"722/305 Murray Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Tuesday,1,0
-2019-04-28,"66/418-428 Murray Street, PERTH WA 6000",400000,Apartment,2,1,1,122,Sunday,6,1
-2019-04-26,"94/580 Hay Street, PERTH WA 6000",530000,Apartment,2,2,1,122,Friday,4,0
-2019-04-26,"28A Windsor Street, PERTH WA 6000",400000,Townhouse,2,2,1,122,Friday,4,0
-2019-04-26,"77/139-141 Fitzgerald Street, WEST PERTH WA 6005",300000,Apartment,1,2,0,122,Friday,4,0
-2019-04-24,"3/26 Saunders Street, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-04-23,"19/918 Hay Street, PERTH WA 6000",510000,Apartment,2,2,1,122,Tuesday,1,0
-2019-04-23,"301/105 Stirling Street, PERTH WA 6000",400000,Apartment,1,1,1,122,Tuesday,1,0
-2019-04-23,"34/126 Mounts Bay Road, PERTH WA 6000",400000,Apartment,2,3,1,122,Tuesday,1,0
-2019-04-21,"1702/659 Murray Street, WEST PERTH WA 6005",380000,Apartment,1,1,1,122,Sunday,6,1
-2019-04-18,"121/131 Harold St, HIGHGATE WA 6003",400000,Apartment,2,2,1,122,Thursday,3,0
-2019-04-18,"6/134 Mounts Bay Road, PERTH WA 6000",368000,Apartment,1,3,1,122,Thursday,3,0
-2019-04-17,"1111/659 Murray Street, WEST PERTH WA 6005",530000,Apartment,2,2,3,122,Wednesday,2,0
-2019-04-17,"36/147 Charles Street, WEST PERTH WA 6005",220000,Apartment,1,1,1,122,Wednesday,2,0
-2019-04-16,"59/118 Adelaide Terrace, EAST PERTH WA 6004",410000,Apartment,2,1,1,122,Tuesday,1,0
-2019-04-16,"13/118 Adelaide Terrace, EAST PERTH WA 6004",303000,Apartment,2,4,3,122,Tuesday,1,0
-2019-04-16,"4/59 Mount Street, WEST PERTH WA 6005",400000,Apartment,1,2,2,122,Tuesday,1,0
-2019-04-15,"99/131 Adelaide Terrace, EAST PERTH WA 6004",305000,Apartment,1,1,1,122,Monday,0,0
-2019-04-15,"48/288 Lord Street, HIGHGATE WA 6003",385000,Apartment,1,2,1,122,Monday,0,0
-2019-04-15,"21 Cantle Street, HIGHGATE WA 6003",650000,House,2,1,2,122,Monday,0,0
-2019-04-12,"30/2 Goderich Street, EAST PERTH WA 6004",375000,Apartment,2,2,1,122,Friday,4,0
-2019-04-12,"45/60 Forrest Avenue, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Friday,4,0
-2019-04-12,"15/474 Murray Street, PERTH WA 6000",360000,Apartment,1,2,1,122,Friday,4,0
-2019-04-12,"12 Janet Street, WEST PERTH WA 6005",980000,House,1,4,0,122,Friday,4,0
-2019-04-11,"37/189 Adelaide Terrace, EAST PERTH WA 6004",400000,Off the Plan,1,1,1,122,Thursday,3,0
-2019-04-10,"1403/659 Murray Street, WEST PERTH WA 6005",400000,Apartment,2,1,1,122,Wednesday,2,0
-2019-04-09,"66/138 Adelaide Terrace, EAST PERTH WA 6004",345000,Apartment,2,2,1,122,Tuesday,1,0
-2019-04-09,"22/255 Adelaide Terrace, PERTH WA 6000",290000,Apartment,2,2,1,122,Tuesday,1,0
-2019-04-08,"18/121 Hill Street, EAST PERTH WA 6004",300000,Apartment,1,2,1,122,Monday,0,0
-2019-04-08,"5/32 Eastbrook Terrace, EAST PERTH WA 6004",510000,Apartment,1,2,1,122,Monday,0,0
-2019-04-07,"1/9 Delhi Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Sunday,6,1
-2019-04-06,"59 Mary Street, HIGHGATE WA 6003",400000,Townhouse,2,3,1,122,Saturday,5,1
-2019-04-06,"8/26 Carr Street, WEST PERTH WA 6005",400000,Townhouse,2,2,2,122,Saturday,5,1
-2019-04-05,"34/131 Adelaide Terrace, EAST PERTH WA 6004",295000,Apartment,1,2,0,122,Friday,4,0
-2019-04-05,"205/108 Bennett Street, EAST PERTH WA 6004",425000,Apartment,1,1,1,122,Friday,4,0
-2019-04-05,"1301/659 Murray Street, WEST PERTH WA 6005",525000,Apartment,1,2,2,122,Friday,4,0
-2019-04-04,"34/59 Brewer Street, PERTH WA 6000",390000,Apartment,2,2,1,122,Thursday,3,0
-2019-04-03,"104/2 Sherwood Court, PERTH WA 6000",460000,Apartment,1,2,2,122,Wednesday,2,0
-2019-04-03,"Unit 88/418-428 Murray St, PERTH WA 6000",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-04-03,"30/28 Robinson Avenue, PERTH WA 6000",400000,Apartment,1,3,1,122,Wednesday,2,0
-2019-04-02,"34/134 Aberdeen Street, NORTHBRIDGE WA 6003",472000,Apartment,2,2,2,122,Tuesday,1,0
-2019-04-01,"2/315 Bulwer St, PERTH WA 6000",399999,Apartment,2,1,1,122,Monday,0,0
-2019-04-01,"105/580 Hay Street, PERTH WA 6000",425000,Apartment,2,4,2,122,Monday,0,0
-2019-03-29,"38/99-105 Wellington Street, EAST PERTH WA 6004",330000,Apartment,3,3,2,122,Friday,4,0
-2019-03-29,"169/181 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,1,1,122,Friday,4,0
-2019-03-28,"22/103 Francis Street, NORTHBRIDGE WA 6003",400000,House,1,2,1,122,Thursday,3,0
-2019-03-27,"22/48-50 Outram Street, WEST PERTH WA 6005",400000,Apartment,4,1,4,122,Wednesday,2,0
-2019-03-26,"5/10 Eastbrook Terrace, EAST PERTH WA 6004",1100000,Apartment,2,2,3,122,Tuesday,1,0
-2019-03-26,"9/4 Delhi Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Tuesday,1,0
-2019-03-24,"7/54 Cheriton Street, PERTH WA 6000",400000,Apartment,2,2,3,122,Sunday,6,1
-2019-03-24,"2801/237 Adelaide Terrace, PERTH WA 6000",400000,Apartment,1,1,0,122,Sunday,6,1
-2019-03-22,"116/90 Terrace Road, EAST PERTH WA 6004",1700000,Apartment,2,2,2,122,Friday,4,0
-2019-03-21,"89/101 Murray Street, PERTH WA 6000",295000,Apartment,2,1,1,122,Thursday,3,0
-2019-03-20,"61/580 Hay Street, PERTH WA 6000",400000,Apartment,1,2,0,122,Wednesday,2,0
-2019-03-18,"201/130A Mounts Bay Road, PERTH WA 6000",175000,Apartment,1,1,1,122,Monday,0,0
-2019-03-18,"Level 9, 34/580 Hay Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Monday,0,0
-2019-03-18,"16/10 Pendal Lane, PERTH WA 6000",400000,Apartment,1,2,2,122,Monday,0,0
-2019-03-15,"11/45 Malcolm Street, WEST PERTH WA 6005",180000,Studio,1,2,0,122,Friday,4,0
-2019-03-15,"68/38 Kings Park Road, WEST PERTH WA 6005",400000,Apartment,2,3,1,122,Friday,4,0
-2019-03-14,"509/36 Mount Street, WEST PERTH WA 6005",400000,Apartment,1,1,1,122,Thursday,3,0
-2019-03-14,"76/1178 Hay Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Thursday,3,0
-2019-03-13,"39/144 Lincoln Street, HIGHGATE WA 6003",185000,Apartment,1,2,1,122,Wednesday,2,0
-2019-03-12,"17/32 Fielder Street, EAST PERTH WA 6004",440000,Apartment,1,1,1,122,Tuesday,1,0
-2019-03-12,"807/9 Victoria Avenue, PERTH WA 6000",295000,Apartment,2,3,2,122,Tuesday,1,0
-2019-03-11,"61/418 Murray Street, PERTH WA 6000",300000,Apartment,1,2,1,122,Monday,0,0
-2019-03-08,"22/11 Regal Place, EAST PERTH WA 6004",230000,Apartment,2,2,1,122,Friday,4,0
-2019-03-08,"11/17 Emerald Terrace, WEST PERTH WA 6005",400000,Apartment,2,3,2,122,Friday,4,0
-2019-03-07,"7A/70 Terrace Road, EAST PERTH WA 6004",1300000,Apartment,1,2,1,122,Thursday,3,0
-2019-03-07,"191/143 Adelaide Terrace, EAST PERTH WA 6004",280000,Apartment,2,2,2,122,Thursday,3,0
-2019-03-07,"47/22 Nile Street, EAST PERTH WA 6004",273000,Apartment,2,3,0,122,Thursday,3,0
-2019-03-07,"43/20 Royal Street, EAST PERTH WA 6004",525000,Apartment,2,3,1,122,Thursday,3,0
-2019-03-07,"1902/659 Murray Street, WEST PERTH WA 6005",390000,Apartment,2,5,1,122,Thursday,3,0
-2019-03-07,"30/2 Mayfair Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Thursday,3,0
-2019-03-06,"201 HAY STREET, EAST PERTH WA 6004",400000,Apartment,1,4,1,122,Wednesday,2,0
-2019-03-06,"24/2 Mayfair Street, WEST PERTH WA 6005",410000,Apartment,2,3,2,122,Wednesday,2,0
-2019-03-06,"2/191 Vincent Street, WEST PERTH WA 6005",400000,Townhouse,2,1,2,122,Wednesday,2,0
-2019-03-06,"23/4 Delhi Street, WEST PERTH WA 6005",400000,Apartment,1,1,0,122,Wednesday,2,0
-2019-03-06,"12/17 Emerald Terrace, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Wednesday,2,0
-2019-03-03,"89/189 Adelaide Terrace, EAST PERTH WA 6004",830000,Apartment,4,1,4,122,Sunday,6,1
-2019-03-01,"60/181 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,3,2,2,122,Friday,4,0
-2019-03-01,"10 Mary Street, HIGHGATE WA 6003",865000,House,1,2,0,122,Friday,4,0
-2019-03-01,"55/375 Hay Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Friday,4,0
-2019-03-01,"7/12 Bellevue Terrace, WEST PERTH WA 6005",6250000,Apartment,2,2,2,122,Friday,4,0
-2019-02-28,"6/147 Palmerston Street, PERTH WA 6000",400000,House,1,2,0,122,Thursday,3,0
-2019-02-28,"Unit 3/45 Malcolm Street, WEST PERTH WA 6005",175000,Apartment,2,2,1,122,Thursday,3,0
-2019-02-26,"38/175 Hay Street, EAST PERTH WA 6004",400000,House,2,2,1,122,Tuesday,1,0
-2019-02-26,"111/269 James Street, NORTHBRIDGE WA 6003",517000,Apartment,2,2,2,122,Tuesday,1,0
-2019-02-25,"221/45 Adelaide Terrace, EAST PERTH WA 6004",155500,Apartment,1,1,1,122,Monday,0,0
-2019-02-25,"24/122 Mounts Bay Road, PERTH WA 6000",472500,Apartment,1,2,1,122,Monday,0,0
-2019-02-22,"37/269 James Street, NORTHBRIDGE WA 6003",465000,Apartment,2,2,1,122,Friday,4,0
-2019-02-22,"2006/659 Murray Street, WEST PERTH WA 6005",620000,Apartment,2,2,1,122,Friday,4,0
-2019-02-21,"30/34 East Parade, EAST PERTH WA 6004",450000,Apartment,2,3,2,122,Thursday,3,0
-2019-02-21,"7/60 Smith Street, HIGHGATE WA 6003",270000,Townhouse,1,2,1,122,Thursday,3,0
-2019-02-21,"90/269 James Street, NORTHBRIDGE WA 6003",400000,Apartment,2,2,1,122,Thursday,3,0
-2019-02-21,"2/127 Lake Street, PERTH WA 6000",400000,Townhouse,2,3,1,122,Thursday,3,0
-2019-02-20,"72/43 Wickham Street, EAST PERTH WA 6004",400000,Apartment,2,1,1,122,Wednesday,2,0
-2019-02-20,"116/15 Aberdeen Street, PERTH WA 6000",203000,Apartment,2,3,1,122,Wednesday,2,0
-2019-02-19,"14/149-151 Adelaide Terrace, EAST PERTH WA 6004",430000,Apartment,2,2,1,122,Tuesday,1,0
-2019-02-19,"27/180 Stirling Street, PERTH WA 6000",400000,Apartment,2,1,1,122,Tuesday,1,0
-2019-02-18,"21/7-9 Bennett Street, EAST PERTH WA 6004",400000,Apartment,2,2,2,122,Monday,0,0
-2019-02-18,"28/5 Delhi Street, WEST PERTH WA 6005",490000,Apartment,1,1,1,122,Monday,0,0
-2019-02-16,"806/659 Murray Street, WEST PERTH WA 6005",540000,Apartment,2,2,2,122,Saturday,5,1
-2019-02-15,"54/269 James Street, NORTHBRIDGE WA 6003",480000,Apartment,2,2,1,122,Friday,4,0
-2019-02-14,"75 Smith Street, HIGHGATE WA 6003",859000,House,1,4,1,122,Thursday,3,0
-2019-02-14,"12/290-292 Stirling Street, PERTH WA 6000",170000,Apartment,2,2,1,122,Thursday,3,0
-2019-02-14,"191/369 Hay street, PERTH WA 6000",400000,Apartment,1,1,0,122,Thursday,3,0
-2019-02-14,"1110/659 Murray Street, WEST PERTH WA 6005",502000,Off the Plan,1,1,1,122,Thursday,3,0
-2019-02-13,"27/290 Stirling Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Wednesday,2,0
-2019-02-12,"54/269 James Street, NORTHBRIDGE WA 6003",400000,Apartment,3,2,4,122,Tuesday,1,0
-2019-02-12,"504/305 Murray Street, PERTH WA 6000",232000,Apartment,2,2,1,122,Tuesday,1,0
-2019-02-09,"1/33 Mary Street, HIGHGATE WA 6003",400000,Apartment,1,2,0,122,Saturday,5,1
-2019-02-07,"76/996 Hay Street, PERTH WA 6000",382500,Apartment,1,4,1,122,Thursday,3,0
-2019-02-07,"10 Cantle Street, PERTH WA 6000",400000,House,2,2,1,122,Thursday,3,0
-2019-02-06,"33/22 Nile Street, EAST PERTH WA 6004",400000,Apartment,1,2,0,122,Wednesday,2,0
-2019-02-06,"Lot 18, Wright Street, HIGHGATE WA 6003",400000,House,2,3,2,122,Wednesday,2,0
-2019-02-06,"33/150 Stirling Street, PERTH WA 6000",290000,Apartment,2,2,1,122,Wednesday,2,0
-2019-02-05,"34/188 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,3,2,4,122,Tuesday,1,0
-2019-02-05,"411/251-257 Hay Street, EAST PERTH WA 6004",400000,Apartment,2,2,1,122,Tuesday,1,0
-2019-02-04,"18/132 Terrace Road, PERTH WA 6000",400000,Apartment,1,4,2,122,Monday,0,0
-2019-02-02,"13/117 Lake Street, PERTH WA 6000",400000,Townhouse,2,2,1,122,Saturday,5,1
-2019-02-02,"109/173 Mounts Bay Road, PERTH WA 6000",400000,Apartment,2,2,1,122,Saturday,5,1
-2019-02-01,"25/150 Stirling Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Friday,4,0
-2019-01-31,"11/71 Mount Street, WEST PERTH WA 6005",400000,Apartment,2,1,2,122,Thursday,3,0
-2019-01-30,"3/52-56 Goderich Street, EAST PERTH WA 6004",415000,Apartment,3,1,2,122,Wednesday,2,0
-2019-01-30,"402/18 Rheola Street, WEST PERTH WA 6005",390000,Apartment,2,2,1,122,Wednesday,2,0
-2019-01-29,"5/62 Bronte Street, EAST PERTH WA 6004",340000,Apartment,2,1,1,122,Tuesday,1,0
-2019-01-29,"1003/108 Terrace Road, EAST PERTH WA 6004",780000,Apartment,2,2,1,122,Tuesday,1,0
-2019-01-28,"4 Florence Street, WEST PERTH WA 6005",400000,House,1,1,0,122,Monday,0,0
-2019-01-25,"3/11 Bennett Street, EAST PERTH WA 6004",430000,Apartment,1,4,1,122,Friday,4,0
-2019-01-25,"39/131 Adelaide Terrace, EAST PERTH WA 6004",405000,Apartment,1,2,0,122,Friday,4,0
-2019-01-25,"23/20 Pendal Lane, PERTH WA 6000",380000,Apartment,1,2,1,122,Friday,4,0
-2019-01-25,"7C/811 Hay Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Friday,4,0
-2019-01-24,"9/340 Stirling Street, HIGHGATE WA 6003",177000,Apartment,1,1,1,122,Thursday,3,0
-2019-01-24,"224 Bulwer Street, PERTH WA 6000",400000,House,3,1,2,122,Thursday,3,0
-2019-01-24,"1/26 Carr Street, WEST PERTH WA 6005",405000,House,2,3,2,122,Thursday,3,0
-2019-01-23,"37/189 Adelaide Terrace, EAST PERTH WA 6004",590000,Off the Plan,1,2,1,122,Wednesday,2,0
-2019-01-23,"51/128 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,1,1,122,Wednesday,2,0
-2019-01-23,"117A Summers Street, PERTH WA 6000",950000,House,1,1,1,122,Wednesday,2,0
-2019-01-21,"504/35-37 Bronte Street, EAST PERTH WA 6004",760000,Off the Plan,1,1,1,122,Monday,0,0
-2019-01-21,"22/102 Goderich Street, EAST PERTH WA 6004",295000,Apartment,2,2,2,122,Monday,0,0
-2019-01-21,"29/48 Wellington Street, EAST PERTH WA 6004",400000,Apartment,2,3,2,122,Monday,0,0
-2019-01-20,"13/300 Stirling Street, PERTH WA 6000",210000,Apartment,1,3,1,122,Sunday,6,1
-2019-01-20,"6/26 Carr St, WEST PERTH WA 6005",400000,Townhouse,1,3,1,122,Sunday,6,1
-2019-01-18,"21/20 Royal Street, EAST PERTH WA 6004",835000,Apartment,1,2,0,122,Friday,4,0
-2019-01-18,"41/2 Goderich Street, EAST PERTH WA 6004",406000,Apartment,1,3,0,122,Friday,4,0
-2019-01-18,"9/87 Bulwer Street, PERTH WA 6000",315000,House,2,5,2,122,Friday,4,0
-2019-01-18,"Unit 47/227 Vincent Street, WEST PERTH WA 6005",159000,Apartment,2,2,2,122,Friday,4,0
-2019-01-17,"22/45 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Thursday,3,0
-2019-01-17,"118 Carr Street, WEST PERTH WA 6005",660000,Semi-Detached,2,2,1,122,Thursday,3,0
-2019-01-15,"1/132 Royal Street, EAST PERTH WA 6004",990000,Townhouse,2,2,1,122,Tuesday,1,0
-2019-01-15,"1/82 Royal Street, EAST PERTH WA 6004",675000,Apartment,2,1,0,122,Tuesday,1,0
-2019-01-15,"4C Stuart Street, PERTH WA 6000",400000,Townhouse,1,4,1,122,Tuesday,1,0
-2019-01-15,"41/273 Beaufort Street, PERTH WA 6000",400000,Apartment,1,3,1,122,Tuesday,1,0
-2019-01-15,"74/141 Fitzgerald Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Tuesday,1,0
-2019-01-14,"514 & 516 William Street, HIGHGATE WA 6003",400000,House,2,1,2,122,Monday,0,0
-2019-01-14,"3/147 Charles Street, WEST PERTH WA 6005",231000,Apartment,1,2,1,122,Monday,0,0
-2019-01-13,"13/500 Beaufort Street, HIGHGATE WA 6003",400000,Townhouse,2,2,1,122,Sunday,6,1
-2019-01-11,"52/123 Wellington Street, EAST PERTH WA 6004",300000,Apartment,1,1,1,122,Friday,4,0
-2019-01-11,"68/78 Terrace Road, EAST PERTH WA 6004",720000,Apartment,1,3,1,122,Friday,4,0
-2019-01-11,"5/229 Adelaide Terrace, PERTH WA 6000",310000,Apartment,1,2,1,122,Friday,4,0
-2019-01-11,"486 Newcastle Street, WEST PERTH WA 6005",400000,House,1,2,1,122,Friday,4,0
-2019-01-10,"Unit 8/300 Stirling Street, PERTH WA 6000",276500,Apartment,2,3,0,122,Thursday,3,0
-2019-01-09,"24/288 Lord Street, HIGHGATE WA 6003",400000,Apartment,1,2,2,122,Wednesday,2,0
-2019-01-09,"11/290 Stirling  Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Wednesday,2,0
-2019-01-07,"213/126-128 Mounts Bay Rd, PERTH WA 6000",400000,Apartment,2,2,2,122,Monday,0,0
-2019-01-06,"27/7-9 Bennett Street, EAST PERTH WA 6004",400000,Apartment,2,2,3,122,Sunday,6,1
-2019-01-04,"30/33 Mounts Bay Road, PERTH WA 6000",400000,Apartment,3,2,2,122,Friday,4,0
-2019-01-04,"18/16 Kings Park Road, WEST PERTH WA 6005",540000,Apartment,2,1,1,122,Friday,4,0
-2019-01-03,"123/131 Harold Street, HIGHGATE WA 6003",430000,Apartment,2,3,2,122,Thursday,3,0
-2018-12-28,"18/1 Douro Place, WEST PERTH WA 6005",400000,Apartment,2,1,1,122,Friday,4,0
-2018-12-27,"117/90 Terrace Road, EAST PERTH WA 6004",3250000,Apartment,1,3,1,122,Thursday,3,0
-2018-12-27,"57/181 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,1,2,1,122,Thursday,3,0
-2018-12-24,"1203/105 Stirling Street, PERTH WA 6000",560000,Off the Plan,1,2,2,122,Monday,0,0
-2018-12-24,"908/105 Stirling Street, PERTH WA 6000",599000,Off the Plan,2,1,0,122,Monday,0,0
-2018-12-24,"8/15 Aberdeen Street, PERTH WA 6000",234500,Apartment,5,1,2,122,Monday,0,0
-2018-12-21,"17/55 Wellington Street, EAST PERTH WA 6004",340000,Apartment,1,1,1,122,Friday,4,0
-2018-12-21,"49/131 Adelaide Terrace, EAST PERTH WA 6004",295000,Apartment,2,2,1,122,Friday,4,0
-2018-12-20,"87/189 Adelaide Terrace, EAST PERTH WA 6004",850000,Apartment,2,2,1,122,Thursday,3,0
-2018-12-20,"29 - 49 Lindsay Street, PERTH WA 6000",4876200,House,2,2,1,122,Thursday,3,0
-2018-12-20,"29 - 49 Lindsay Street, PERTH WA 6000",4867200,House,1,2,0,122,Thursday,3,0
-2018-12-20,"2H/811 Hay Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Thursday,3,0
-2018-12-20,"60/99 Palmerston Street, PERTH WA 6000",400000,Apartment,1,2,1,122,Thursday,3,0
-2018-12-19,"6/128 Brown Street, EAST PERTH WA 6004",400000,Apartment,1,1,2,122,Wednesday,2,0
-2018-12-19,"23/269 James Street, NORTHBRIDGE WA 6003",455000,Apartment,2,3,1,122,Wednesday,2,0
-2018-12-19,"10/122 Terrace Road, PERTH WA 6000",185000,Apartment,2,3,1,122,Wednesday,2,0
-2018-12-18,"63/66 Cleaver Street, WEST PERTH WA 6005",150000,Apartment,2,3,0,122,Tuesday,1,0
-2018-12-17,"201/35 Bronte Street, EAST PERTH WA 6004",288400,Off the Plan,1,2,1,122,Monday,0,0
-2018-12-17,"23/102 Goderich Street, EAST PERTH WA 6004",300000,Apartment,1,1,1,122,Monday,0,0
-2018-12-17,"63/269 James Street, NORTHBRIDGE WA 6003",485000,Apartment,1,2,2,122,Monday,0,0
-2018-12-16,"8/1 Coolgardie Street, WEST PERTH WA 6005",400000,Apartment,1,3,2,122,Sunday,6,1
-2018-12-15,"6/918 Hay Street, PERTH WA 6000",400000,Apartment,2,3,1,122,Saturday,5,1
-2018-12-14,"1110/8 Adelaide Tce, EAST PERTH WA 6004",400000,Apartment,2,4,1,122,Friday,4,0
-2018-12-14,"207/45 Malcolm Street, WEST PERTH WA 6005",200500,Studio,1,2,1,122,Friday,4,0
-2018-12-13,"350B Lord Street, HIGHGATE WA 6003",516000,House,1,2,1,122,Thursday,3,0
-2018-12-12,"208/35 Bronte Street, EAST PERTH WA 6004",445000,Apartment,1,2,2,122,Wednesday,2,0
-2018-12-12,"133/181 Adelaide Terrace, EAST PERTH WA 6004",400000,Apartment,2,4,2,122,Wednesday,2,0
-2018-12-12,"115A Summers Street, PERTH WA 6000",770000,House,3,1,2,122,Wednesday,2,0
-2018-12-12,"47 Victoria Street, WEST PERTH WA 6005",400000,House,2,1,2,122,Wednesday,2,0
-2018-12-11,"14/60 Smith Street, HIGHGATE WA 6003",300000,Apartment,3,2,1,122,Tuesday,1,0
-2018-12-11,"50/99 Palmerston Street, PERTH WA 6000",337500,Apartment,1,1,1,122,Tuesday,1,0
-2018-12-11,"402/18 Rheola, WEST PERTH WA 6005",390000,Apartment,2,2,2,122,Tuesday,1,0
-2018-12-11,"177C Fitzgerald Street, WEST PERTH WA 6005",645000,Townhouse,2,2,0,122,Tuesday,1,0
-2018-12-10,"16 Victory Terrace, EAST PERTH WA 6004",870000,House,2,2,1,122,Monday,0,0
-2018-12-10,"18 Old Belvidere Promenade, EAST PERTH WA 6004",1400800,House,1,2,1,122,Monday,0,0
-2018-12-10,"4/315 Bulwer Street, PERTH WA 6000",400000,Apartment,1,2,0,122,Monday,0,0
-2018-12-10,"17/21 Altona Street, WEST PERTH WA 6005",400000,Apartment,2,2,1,122,Monday,0,0
-2018-12-10,"16/2 Colin Street, WEST PERTH WA 6005",400000,Apartment,1,2,1,122,Monday,0,0
-2018-12-09,"117 Brown Street, EAST PERTH WA 6004",400000,House,2,2,1,122,Sunday,6,1
-2018-12-06,"37/122 Terrace Road, PERTH WA 6000",175000,Apartment,2,2,1,122,Thursday,3,0
-2018-12-05,"6/190 Hay Street, EAST PERTH WA 6004",258000,Apartment,2,2,1,122,Wednesday,2,0
-2018-12-05,"66/250 Beaufort Street, PERTH WA 6000",409000,Apartment,2,2,1,122,Wednesday,2,0
-2018-12-05,"726/305 Murray Street, PERTH WA 6000",400000,Apartment,2,2,1,122,Wednesday,2,0
+price,address,date_sold,bedroom,bathroom,carport,dwelling
+1020000,61 Lindsay Street,2020-08-18,3,1,0,House
+7490000,25 Moir Street,2020-08-10,3,1,1,House
+260000,8/133 Lincoln Street,2020-07-28,2,1,1,Apartment
+320000,14/130 Terrace Road,2020-07-10,2,1,0,Apartment
+449000,33/67 Brewer Street,2020-07-09,2,2,1,Apartment
+385000,83/250 Beaufort Street,2020-07-06,2,2,2,Apartment
+1000000,203 Lake Street,2020-07-01,4,3,2,House
+310000,1D/811 Hay Street,2020-06-28,2,1,0,Apartment
+452800,5/478 William Street,2020-06-22,3,2,2,Apartment
+249000,3/375 Hay Street,2020-06-20,1,1,0,Apartment
+810000,10 Church Street,2020-06-17,3,2,1,House
+775000,2a Randell Street,2020-06-17,4,3,2,House
+450000,120/580 Hay Street,2020-06-11,1,1,1,Apartment
+965000,40 Bulwer Street,2020-06-04,4,1,2,House
+809450,"Lot 1103, Burleigh D Burleigh ",2020-06-01,4,2,2,House
+315000,8/418-428 Murray Street,2020-05-21,2,1,1,Unit
+306000,50/378 Beaufort St,2020-05-20,1,1,1,Apartment
+1250000,1-5/55 Gladstone Street,2020-05-13,1,1,1,House
+275000,4/101 Murray Street,2020-05-13,1,1,1,Apartment
+620000,29/101 Murray Street,2020-05-10,3,2,2,Apartment
+760000,16 Robinson Avenue,2020-05-08,3,2,2,House
+290000,11/75 Glendower Street,2020-05-06,2,1,1,Unit
+320000,4/418-428 Murray Street,2020-04-28,2,1,1,Apartment
+735000,14/45-47 Stuart Street,2020-04-26,3,2,2,Townhouse
+650000,94/132 Terrace Road,2020-04-17,2,2,2,Apartment
+415000,6/207 Bulwer Street,2020-04-15,2,1,1,Apartment
+1000000,166 Lake Street,2020-04-10,3,2,1,House
+319000,49/229 Adelaide Terrace,2020-04-08,1,1,1,Unit
+600000,60/580 Hay Street,2020-03-31,2,2,2,Apartment
+585000,4/82 King Street,2020-03-30,2,2,1,Apartment
+290000,62/101 Murray St,2020-03-27,1,1,1,Apartment
+425000,106/580 Hay Street,2020-03-27,1,1,1,Apartment
+810000,58/580 Hay Street,2020-03-27,3,2,2,Apartment
+575000,19/65 Palmerston St,2020-03-24,3,2,2,Townhouse
+335000,16/448 Murray Street,2020-03-24,2,1,1,Apartment
+365000,30/59 Brewer Street,2020-03-23,2,2,1,Unit
+800000,212 Brisbane Street,2020-03-19,3,1,0,House
+715000,30 Randell Street,2020-03-15,2,1,0,House
+480000,9/82 King Street,2020-03-14,1,2,0,Apartment
+415000,44/250 Beaufort Street,2020-03-10,2,2,0,Apartment
+615000,27 Lane Street,2020-03-09,2,1,0,House
+1299000,23/137-143 Lake Street,2020-03-09,3,2,2,Apartment
+220000,202/126 Mounts Bay Road,2020-03-08,1,1,0,Apartment
+485000,2/305 Bulwer Street,2020-03-08,2,1,1,Townhouse
+550000,4/54 Cheriton Street,2020-03-05,2,2,2,Apartment
+605000,81/580 Hay Street,2020-03-04,2,2,2,Apartment
+393000,2418/380 Murray Street,2020-03-04,1,1,0,Apartment
+355000,Unit 1/10 Wright Street,2020-03-03,2,1,0,Townhouse
+880000,11A Bulwer Avenue,2020-03-01,3,2,2,House
+751500,24 Stuart Street,2020-02-28,2,1,1,House
+455000,11/2 Braid Street,2020-02-27,2,2,2,Apartment
+453000,23/22 St Georges Terrace,2020-02-23,2,2,1,Apartment
+285000,29/76 Newcastle Street,2020-02-22,1,1,1,Apartment
+365000,14/122 Mounts Bay Road,2020-02-19,2,2,1,Apartment
+435000,66/69 Milligan Street,2020-02-18,2,2,1,Apartment
+405000,26/69 Milligan Street,2020-02-18,2,2,1,Apartment
+365000,47/418 Murray Street,2020-02-18,2,1,1,Apartment
+765000,5/18 Robinson Avenue,2020-02-18,3,2,2,Townhouse
+240000,207/112 Mounts Bay Road,2020-02-13,1,1,1,Apartment
+700000,612/11 Barrack Square,2020-02-12,1,1,1,Apartment
+620000,43 West Parade,2020-02-11,2,1,1,Duplex
+770000,217 Brisbane Street,2020-02-11,2,1,1,House
+345000,16/250 Beaufort Street,2020-02-10,2,1,1,Apartment
+880000,10 Robinson Avenue,2020-02-10,2,2,2,House
+350000,16/315 Bulwer Street,2020-02-03,1,1,1,Townhouse
+590000,30A Windsor Street,2020-02-02,2,2,2,House
+420000,35/152 Fitzgerald Street,2020-01-31,2,2,1,Apartment
+299000,6/150 Stirling St,2020-01-28,1,1,1,Apartment
+390000,16/255 Adelaide Terrace,2020-01-24,2,2,1,Apartment
+775000,66B Robinson Avenue,2020-01-24,3,1,2,House
+359000,2/10 Smith Street,2020-01-23,1,1,1,Apartment
+355000,6/122 Mounts Bay Road,2020-01-23,2,2,1,Apartment
+525000,48/580 Hay Street,2020-01-22,2,2,2,Apartment
+414000,806/380 Murray Street,2020-01-21,1,1,0,Apartment
+225000,5/120 Terrace Rd,2020-01-20,1,1,1,Apartment
+620000,226 Brisbane Street,2020-01-18,2,1,1,House
+215000,4E/811 Hay Street,2020-01-17,1,1,0,Apartment
+460000,68/154 Newcastle Street,2020-01-13,2,2,1,Apartment
+820000,3/69 Murray Street,2020-01-13,3,2,2,Apartment
+277000,95/250 Beaufort Street,2020-01-12,1,1,1,Apartment
+440000,181/369 Hay  Street,2020-01-10,2,2,2,Apartment
+385000,2/478 William Street,2020-01-07,2,2,2,Unit
+420000,2/296 Newcastle Street,2020-01-06,2,2,1,Apartment
+535000,1906/105 Stirling Street,2020-01-06,2,2,2,Apartment
+280000,511/126 Mounts Bay Road,2019-12-27,1,1,1,Apartment
+275000,V808/9 Victoria Avenue,2019-12-22,1,1,1,Apartment
+710000,32 Wade Street,2019-12-21,3,1,1,House
+180000,807/12 Victoria Avenue,2019-12-20,1,1,0,Apartment
+630000,14/34 Palmerston Street,2019-12-16,2,2,1,Townhouse
+255000,10B/811 Hay Street,2019-12-15,1,1,0,Apartment
+182000,55/76 Newcastle Street,2019-12-13,1,1,1,Apartment
+515000,21/128 Mounts Bay Road,2019-12-13,3,2,2,Apartment
+401000,516/380 Murray Street,2019-12-13,1,1,0,Apartment
+343889,25/448 Murray Street,2019-12-13,2,1,1,Apartment
+220000,108/126 Mounts Bay Road,2019-12-12,1,1,0,Apartment
+280000,11/33 Newcastle Street,2019-12-12,1,1,1,Apartment
+372000,40/87 Bulwer Street,2019-12-10,2,2,1,Apartment
+190000,34/124 Terrace Road,2019-12-10,1,1,0,Unit
+190000,9/21 Dangan Street,2019-12-05,1,1,1,Apartment
+1070000,231 Lake Street,2019-12-04,4,1,1,House
+311000,59/418 Murray Street,2019-11-29,2,1,1,Apartment
+370000,33/375 Hay Street,2019-11-28,2,2,1,Apartment
+455000,9/76 Newcastle Street,2019-11-27,2,2,1,Apartment
+189000,13/154 Newcastle Street,2019-11-27,1,1,1,Apartment
+1410000,2502/237 Adelaide Terrace,2019-11-26,3,2,2,Apartment
+625188,"Lot 9, 45 Forbes Road",2019-11-23,3,2,2,Townhouse
+295800,22/226 Beaufort Street,2019-11-20,1,1,1,Apartment
+499000,58/369 Hay Street,2019-11-19,3,2,2,Apartment
+419000,54/369 Hay Street,2019-11-18,2,2,1,Apartment
+240000,2A/811 HAY STREET,2019-11-18,1,1,0,Apartment
+729500,22/128 Mounts Bay Road,2019-11-16,3,2,2,Apartment
+560000,9/569 Wellington Street,2019-11-15,2,2,1,Apartment
+285000,110/15 Aberdeen St,2019-11-15,1,1,1,Apartment
+630000,105/22 St Georges Terrace,2019-11-14,2,2,1,Apartment
+680000,58 Bulwer Street,2019-11-13,2,1,2,House
+520000,1506/105 Stirling Street,2019-11-13,2,2,2,Apartment
+600000,63/128 Mounts Bay Road,2019-11-13,3,2,2,Apartment
+700000,2/168 Mounts Bay Road,2019-11-07,3,2,2,Apartment
+400000,40/154 Newcastle St,2019-11-06,2,2,1,Apartment
+225000,14/120 Terrace Road,2019-11-06,1,1,1,Unit
+660000,21 Brookman Street,2019-11-05,3,1,1,House
+645000,15/34 Palmerston Street,2019-11-05,2,2,1,Apartment
+772000,11/45 Stuart Street,2019-11-04,3,2,2,Townhouse
+300000,107/15 Aberdeen Street,2019-11-04,1,1,1,Apartment
+418000,14/117 Brisbane Street,2019-11-03,3,1,2,Apartment
+270000,52/133 Lincoln Street,2019-11-01,2,1,1,Apartment
+267000,M8/811 Hay Street,2019-10-30,1,1,0,Apartment
+850000,5 Pisconeri Street,2019-10-29,3,2,2,House
+720000,64/128 Mounts Bay Road,2019-10-24,3,2,2,Apartment
+510000,62/22 St Georges Terrace,2019-10-23,2,2,1,Apartment
+580000,39 West Parade,2019-10-23,2,1,1,House
+245000,9/101 Murray Street,2019-10-18,1,1,1,Apartment
+845000,16 Hope Street,2019-10-18,3,1,1,House
+293000,54/101 Murray Street,2019-10-15,1,1,1,House
+850000,48B Bulwer Street,2019-10-15,3,2,2,House
+175000,9/133 Lincoln Street,2019-10-14,1,1,0,Unit
+482388,6/478 William Street,2019-10-14,3,2,2,Apartment
+465000,1205/237 Adelaide Terrace,2019-10-13,2,2,1,Apartment
+360000,53/154 Newcastle Street,2019-10-11,2,2,1,Apartment
+625000,14/137-142 Lake Street,2019-10-10,2,2,1,Apartment
+680000,117 Summers Street,2019-10-09,3,1,2,House
+275000,19/8 James Street,2019-10-09,2,1,1,Apartment
+555000,35/229 Adelaide Terrace,2019-10-09,2,2,2,Apartment
+602000,1514/380 Murray Street,2019-10-07,2,1,0,Apartment
+397000,33/280 Lord Street,2019-10-05,2,2,2,Apartment
+541000,1502/600 Wellington Street,2019-10-03,1,1,1,Apartment
+401000,1503/600 Wellington Street,2019-10-03,1,1,0,Apartment
+705000,112 Bulwer Street,2019-10-03,2,1,0,House
+493000,3003/600 Wellington Street,2019-10-02,1,1,1,Apartment
+515000,57/580 Hay Street,2019-10-02,3,2,1,Apartment
+988000,3001/600 Wellington Street,2019-10-01,3,2,2,Apartment
+445000,54/76 Newcastle St,2019-09-27,2,2,2,Apartment
+549000,5/117 Lake Street,2019-09-26,2,2,1,Townhouse
+395000,802/237 Adelaide Terrace,2019-09-18,2,2,1,Apartment
+205000,3/122 Terrace Road,2019-09-18,1,1,1,Apartment
+275000,701/9 Victoria Avenue,2019-09-14,1,1,1,Apartment
+415000,7/296 Newcastle Street,2019-09-14,2,2,1,Apartment
+345000,49/122 Mounts Bay Road,2019-09-13,2,2,1,Apartment
+520000,1305/105 Stirling Street,2019-09-10,2,2,2,Apartment
+424000,"Lot 77, 1304/78 Stirling Street ",2019-09-10,1,1,1,Apartment
+930000,34 Chapman Street,2019-09-10,3,2,2,House
+416000,"Lot 68, 1204/78 Stirling Street ",2019-09-09,1,1,1,Apartment
+165000,603/12 Victoria Avenue,2019-09-05,1,1,0,Apartment
+340000,66/996 Hay Street,2019-09-05,2,1,1,Apartment
+394000,24/10 Pendal Lane,2019-09-04,2,2,2,Apartment
+255000,22/132 Mounts Bay Road,2019-09-04,2,1,1,Apartment
+250000,2/118 Mounts Bay Road,2019-09-03,1,1,1,Apartment
+500000,18/369 Hay Street,2019-09-02,3,2,2,Apartment
+520000,29/65 Milligan Street,2019-09-02,2,2,2,Apartment
+434000,7/137-142 Lake Street,2019-08-31,1,1,1,Apartment
+260000,14J/811 Hay Street,2019-08-31,1,1,0,Apartment
+329000,75/996 Hay Street,2019-08-30,2,1,1,Apartment
+410000,6/296 Newcastle  Street,2019-08-30,2,2,1,Apartment
+550000,28/65 Milligan Street,2019-08-28,2,2,2,Apartment
+560000,"Lot 35, 807/78 Stirling Street",2019-08-28,2,2,1,Apartment
+554000,"Lot 25, 706/78 Stirling Street",2019-08-28,2,2,1,Apartment
+400000,18/59 Brewer Street,2019-08-28,2,2,1,Apartment
+290000,27/133 Lincoln Street,2019-08-27,2,1,1,House
+800000,88/132 Terrace Road,2019-08-27,3,2,2,Apartment
+366000,160/369 Hay Street,2019-08-27,2,2,1,Apartment
+606000,3/199 Lincoln Street,2019-08-27,3,2,2,Townhouse
+425000,21/139-142 Lake Street,2019-08-27,1,1,1,Apartment
+635000,18/139-142 Lake Street,2019-08-27,2,2,1,Apartment
+407000,Apt 1703/600 Wellington Street,2019-08-21,1,1,0,Apartment
+765000,13 Marlborough Street,2019-08-21,3,2,3,House
+734000,294 Bulwer Street,2019-08-18,2,1,1,House
+230300,14/15 Aberdeen Street,2019-08-16,2,1,1,Apartment
+821000,1/63 Palmerston Street,2019-08-16,3,3,2,House
+400000,1401/237 Adelaide Terrace,2019-08-15,2,2,1,Apartment
+750000,234 Lake Street,2019-08-13,2,1,1,House
+406888,140/369 Hay Street,2019-08-13,2,2,1,Apartment
+699000,5/69 Murray Street,2019-08-13,3,1,1,Apartment
+390000,32/250 Beaufort Street,2019-08-10,2,1,1,Apartment
+740000,77 Lindsay Street,2019-08-09,2,1,0,House
+492000,Apt 2705/600 Wellington Street,2019-08-08,1,1,1,Apartment
+737000,Apt 2706/600 Wellington Street,2019-08-08,2,2,1,Apartment
+575000,45/569 Wellington Street,2019-08-07,2,1,1,Apartment
+185000,12/4 Bulwer Street,2019-08-06,2,1,0,Apartment
+417000,905/380 Murray Street,2019-08-05,1,1,0,Apartment
+749000,53/255 Adelaide Terrace,2019-08-04,2,2,2,Apartment
+302500,6/196 Bulwer Street,2019-08-02,2,1,0,Apartment
+285000,54/177 Stirling Street,2019-08-02,1,1,1,Apartment
+295000,5/10 Smith Street,2019-08-02,1,1,0,Apartment
+2250000,Apartment/11 Barrack Square,2019-07-31,3,3,2,Apartment
+295000,102/101 Murray Street,2019-07-29,1,1,1,Apartment
+300000,Unit 45/378 Beaufort Street,2019-07-26,1,1,1,House
+390000,15/69 Milligan  Street,2019-07-25,2,2,1,Apartment
+800000,39 Ruth  Street,2019-07-24,3,1,0,House
+315000,510/2 St Georges Terrace,2019-07-23,1,1,1,Apartment
+990000,10 Pisconeri Street,2019-07-22,4,2,2,House
+620000,15 Primrose Street,2019-07-18,3,2,2,House
+315000,25/229 Adelaide Terrace,2019-07-16,1,1,1,Apartment
+704500,310 Stirling Street,2019-07-16,3,1,0,House
+470000,34/67 Brewer Street,2019-07-13,2,2,1,Apartment
+336000,2/226 Beaufort Street,2019-07-10,1,1,1,Apartment
+315000,72/418 Murray Street,2019-07-10,2,1,1,Apartment
+575000,1803/105 Stirling Street,2019-07-05,2,2,2,Apartment
+440000,15/580 Hay Street,2019-06-28,2,2,1,Apartment
+440000,94/2 Sherwood Court,2019-06-26,2,1,0,Apartment
+359000,36/28 Robinson Ave,2019-06-25,2,1,1,Apartment
+500000,10/145 Newcastle Street,2019-06-25,3,2,0,Apartment
+700000,80/132 Terrace Road,2019-06-23,3,2,2,Apartment
+377000,137/101 Murray Street,2019-06-19,2,2,1,Apartment
+329000,161/15 Aberdeen Street,2019-06-18,2,1,1,Apartment
+310000,23/375 Hay Street,2019-06-17,1,1,1,Apartment
+332000,53/996 Hay Street,2019-06-17,2,1,1,Apartment
+280000,307/126-128 Mounts Bay Road,2019-06-14,1,1,1,Apartment
+330000,8/33 Windsor Street,2019-06-14,2,2,1,Apartment
+445000,37/378 Beaufort St,2019-06-13,2,2,1,Apartment
+461000,1416/380 Murray Street,2019-06-11,1,1,0,Apartment
+1160000,2501/237 Adelaide Terrace,2019-06-08,3,2,2,Apartment
+399000,117/996 Hay  street,2019-06-07,2,1,0,Apartment
+342500,16/130 Terrace Road,2019-06-06,2,1,1,Apartment
+499000,1403/105 Stirling Street,2019-06-05,2,2,1,Apartment
+320000,76/375 Hay Street,2019-06-04,1,1,1,Apartment
+284000,22/250 Beaufort Street,2019-05-29,1,1,1,Unit
+900000,79 West Parade,2019-05-28,4,2,2,House
+440000,21/273 Beaufort Street,2019-05-27,2,2,1,Apartment
+295000,807/9 Victoria Avenue,2019-05-21,1,1,1,Apartment
+400000,5/580 Hay Street,2019-05-21,2,2,1,Apartment
+183000,806/12 Victoria Avenue,2019-05-20,1,1,0,Apartment
+225000,13/29 Hill Street,2019-05-19,1,1,0,Apartment
+180000,7/124 Terrace Road,2019-05-19,1,1,0,House
+180000,34/122 Terrace Road,2019-05-19,1,1,0,Unit
+690000,56 Bulwer Street,2019-05-18,2,1,2,House
+370000,2/69 Murray Street,2019-05-14,1,1,1,Apartment
+435000,301/105 Stirling Street,2019-05-14,2,2,1,Apartment
+400000,302/2 St Georges Terrace,2019-05-13,2,2,1,Apartment
+379000,101/996 Hay Street,2019-05-10,2,1,1,Apartment
+380000,110/996 Hay Street,2019-05-09,2,1,1,Apartment
+502000,55/369 Hay Street,2019-05-03,3,2,2,Apartment
+270000,23/76 Newcastle Street,2019-05-02,1,1,1,House
+220100,4/120 Terrace Road,2019-04-30,1,1,1,Unit
+295000,16/29 Hill Street,2019-04-30,1,1,1,Apartment
+415000,16/177 Stirling Street,2019-04-30,2,2,1,Apartment
+220000,114/305 MURRAY STREET,2019-04-29,1,1,0,Apartment
+350000,66/418-428 Murray Street,2019-04-28,2,1,1,Unit
+771000,28A Windsor Street,2019-04-26,2,2,2,Townhouse
+1088000,232 Lake Street,2019-04-25,3,2,2,House
+350000,2/154 Newcastle Street,2019-04-16,2,2,1,Apartment
+515000,44/280 Lord Street,2019-04-08,3,2,2,Apartment
+650000,"Lot 32, 32/138 Mounts Bay Road",2019-04-04,2,2,2,House
+380000,30/28 Robinson Avenue,2019-04-03,3,1,2,Apartment
+252500,722/305 Murray Street,2019-04-02,1,1,0,Apartment
+520000,121/369 Hay Street,2019-03-29,3,2,2,Apartment
+530000,94/580 Hay Street,2019-03-29,3,2,1,Apartment
+368000,6/134 Mounts Bay Road,2019-03-26,2,1,1,Apartment
+385000,7/54 Cheriton Street,2019-03-24,1,1,1,Unit
+593000,61/580 Hay Street,2019-03-20,2,2,3,Apartment
+362500,13A/28 Robinson Avenue,2019-03-20,2,1,1,Apartment
+398000,16/10 Pendal Lane,2019-03-18,2,2,1,Apartment
+534000,34/580 Hay Street,2019-03-18,2,2,0,Apartment
+360000,15/474 Murray Street,2019-03-16,1,1,1,Apartment
+217500,34/126 Mounts Bay Road,2019-03-14,1,1,0,Apartment
+460000,104/2 Sherwood Court,2019-03-14,2,1,0,Apartment
+290000,22/255 Adelaide Terrace,2019-03-05,1,1,0,Apartment
+820000,6/147 Palmerston Street,2019-02-28,3,3,2,House
+300000,Unit 88/418-428 Murray St,2019-02-26,2,1,0,Apartment
+472500,24/122 Mounts Bay Road,2019-02-25,2,2,1,Apartment
+620000,2/127 Lake Street,2019-02-22,2,2,1,Townhouse
+410000,27/180 Stirling Street,2019-02-19,2,2,1,Apartment
+425000,105/580 Hay Street,2019-02-18,1,1,1,Apartment
+399999,2/315 Bulwer St,2019-02-18,2,1,2,Apartment
+175000,201/130A Mounts Bay Road,2019-02-15,1,1,0,Apartment
+185000,12/290-292 Stirling Street,2019-02-14,1,1,0,Unit
+167500,27/290 Stirling Street,2019-02-13,1,1,1,Apartment
+1230000,10 Cantle Street,2019-02-08,4,3,4,House
+295000,89/101 Murray Street,2019-02-07,1,1,1,Apartment
+402000,25/150 Stirling Street,2019-02-04,2,2,1,Apartment
+675000,18/132 Terrace Road,2019-02-04,2,2,2,Apartment
+510000,13/117 Lake Street,2019-02-02,2,2,1,Townhouse
+1770000,109/173 Mounts Bay Road,2019-02-02,4,3,0,Apartment
+382500,76/996 Hay Street,2019-01-30,2,1,1,Apartment
+265000,7C/811 Hay Street,2019-01-29,1,1,0,Apartment
+690000,224 Bulwer Street,2019-01-24,2,1,0,House
+232000,504/305 Murray Street,2019-01-23,1,1,0,Apartment
+465000,41/273 Beaufort Street,2019-01-15,2,2,1,Apartment
+210000,13/300 Stirling Street,2019-01-14,1,1,1,Unit
+276500,Unit 8/300 Stirling Street,2019-01-14,3,1,1,Unit
+290000,33/150 Stirling Street,2019-01-11,1,1,1,Apartment
+177000,11/290 Stirling  Street,2019-01-09,1,1,1,Unit
+400000,55/375 Hay Street,2019-01-03,2,2,1,Apartment
+175000,208/130A Mounts Bay Road,2019-01-03,1,1,0,Apartment
+560000,1203/105 Stirling Street,2018-12-24,2,2,1,Apartment
+599000,908/105 Stirling Street,2018-12-24,2,2,2,Apartment
+462000,60/99 Palmerston Street,2018-12-21,3,2,2,Apartment
+185000,10/122 Terrace Road,2018-12-17,1,1,1,Unit
+500000,6/918 Hay Street,2018-12-15,2,2,1,Apartment
+500000,108/75-99 Palmerston Street,2018-12-13,3,2,1,Apartment
+500000,91/75-99 Palmerston Street,2018-12-13,3,2,1,Apartment
+451000,121/75-99 Palmerston Street,2018-12-11,3,2,1,Apartment
+380000,23/20 Pendal Lane,2018-12-10,2,2,1,Apartment
+385000,4/315 Bulwer Street,2018-12-10,2,1,2,Apartment
+175000,37/122 Terrace Road,2018-12-07,1,1,0,Unit
+409000,66/250 Beaufort Street,2018-12-05,2,2,1,Apartment
+670000,4C Stuart Street,2018-12-03,3,1,1,Townhouse
+413000,40/76 Newcastle ,2018-12-02,2,2,2,Apartment
+295000,107/15 Aberdeen Street,2018-12-01,1,1,1,Unit
+3000000,2801/237 Adelaide Terrace,2018-11-30,4,4,4,Apartment
+203000,116/15 Aberdeen Street,2018-11-29,1,1,1,Apartment
+405000,Apt 1304 / 600 Wellington Street,2018-11-28,1,1,0,Apartment
+590000,89 Lindsay Street,2018-11-26,3,1,0,House
+430000,24/75-99 Palmerston Street,2018-11-26,3,2,1,Apartment
+447500,39/75-99 Palmerston Street,2018-11-26,3,2,1,Apartment
+315000,9/87 Bulwer Street,2018-11-26,1,1,1,House
+400000,213/126-128 Mounts Bay Rd,2018-11-22,2,1,1,Apartment
+950000,117A Summers Street,2018-11-16,4,3,2,House
+315000,12/60 Newcastle Street,2018-11-15,1,1,1,Apartment
+234500,8/15 Aberdeen Street,2018-11-13,2,1,1,Apartment
+910000,24 Myrtle Street,2018-11-12,3,1,0,House
+540000,9 Myrtle Street,2018-11-12,3,1,0,House
+770000,115A Summers Street,2018-11-11,3,2,2,House
+339000,726/305 Murray Street,2018-11-08,1,1,0,Apartment
+849000,114 Bulwer Street,2018-11-01,4,2,0,House
+337500,50/99 Palmerston Street,2018-10-31,1,1,1,Apartment
+359000,9/474 Murray Street,2018-10-31,1,1,1,Apartment
+765000,1 Baker Avenue,2018-10-30,3,1,2,House
+498000,Apt 2905 / 600 Wellington Street,2018-10-30,1,1,1,Apartment
+560000,194/369 Hay Street,2018-10-29,3,2,2,Apartment
+395000,29/59 Brewer Street,2018-10-29,2,2,1,Apartment
+275000,V705/9 Victoria Avenue,2018-10-25,1,1,1,Apartment
+290000,3i/811 Hay Street,2018-10-24,2,1,0,Apartment
+800000,223 Lake Street,2018-10-24,2,1,1,House
+310000,5/229 Adelaide Terrace,2018-10-24,1,1,1,Apartment
+388000,5/69 Milligan Street,2018-10-23,2,2,1,Apartment
+268500,311/112 Mounts Bay Road,2018-10-23,2,1,0,Apartment
+390000,707/237 Adelaide Terrace,2018-10-18,1,1,1,Apartment
+300000,61/418 Murray Street,2018-10-17,2,1,1,Apartment
+320000,48/273 Hay Street,2018-10-10,2,1,1,Apartment
+380000,22/152 Fitzgerald Street,2018-10-09,2,1,1,Apartment
+1100000,8/82 King Street,2018-10-06,2,2,1,Apartment
+715000,209 Brisbane Street,2018-10-06,2,1,0,House
+320000,17/110 Mounts Bay Road,2018-10-05,2,1,1,Apartment
+680000,232 Lake Street,2018-10-03,2,2,1,House
+338000,33/229 Adelaide Terrace,2018-09-30,1,1,1,Apartment
+315000,39/838 Hay Street,2018-09-30,1,1,0,Apartment
+505000,31/262 Lord Street,2018-09-25,3,2,2,Apartment
+177500,608/130A Mounts Bay Road,2018-09-25,1,1,0,Apartment
+300000,"8, 151-155 Brisbane Street",2018-09-21,1,1,1,Apartment
+343000,42/996 Hay Street,2018-09-19,2,1,1,Apartment
+250000,1/29 Hill Street,2018-09-19,1,1,0,Apartment
+306000,60/133 Lincoln Street,2018-09-18,2,1,1,Apartment
+325000,10/996 Hay Street,2018-09-17,2,1,1,Apartment
+738000,2203/237 Adelaide Terrace,2018-09-14,3,2,2,Apartment
+365000,6/110 Mounts Bay Road,2018-09-06,2,1,1,Apartment
+745000,148 Brisbane  Street,2018-09-06,2,1,0,House
+560000,45/34 Palmerston Street,2018-09-06,2,2,1,Townhouse
+430000,7/369 Hay Street,2018-09-04,2,2,1,Apartment
+350000,177/369 Hay Street,2018-08-31,1,1,1,Apartment
+442700,26/65 Milligan St,2018-08-30,2,2,1,Apartment
+295000,25/255 Adelaide Terrace,2018-08-30,1,1,0,Apartment
+818000,60 Palmerston Street,2018-08-29,2,1,0,House
+805000,10/132 Terrace Road,2018-08-29,3,2,2,Apartment
+395000,24/20 Pendal Lane,2018-08-27,2,2,1,Apartment
+288000,626/305 Murray Street,2018-08-24,1,1,0,Apartment
+430000,4/204 Lake Street,2018-08-24,2,1,1,Apartment
+810000,9 Edith Street,2018-08-22,2,3,1,House
+228000,Apt 414/305 Murray Street,2018-08-21,1,1,0,Apartment
+260000,2H/811 Hay Street,2018-08-17,1,1,0,Apartment
+245000,43/4 Bulwer Street,2018-08-11,2,1,1,Apartment
+215000,30/33 Mounts Bay Road,2018-08-11,1,1,0,Apartment
+540000,6/22 St Georges Terrace,2018-08-10,2,2,1,Apartment
+560000,30/65 Milligan St,2018-08-09,2,2,2,Apartment
+445000,27/10 Pendal Lane,2018-08-09,2,2,2,Apartment
+399000,36/59 Brewer Street,2018-08-07,2,2,1,Apartment
+560000,138/138 Barrack Street,2018-08-04,3,2,1,Apartment
+455000,4/305 Bulwer Street,2018-08-01,2,1,1,Townhouse
+400000,4/375 Hay Street,2018-07-31,2,2,1,Apartment
+280000,73/418 Murray Street,2018-07-30,2,1,1,Apartment
+250000,M8/811 Hay Street,2018-07-30,1,1,0,Apartment
+1055000,144A Bulwer Street,2018-07-27,3,2,1,House
+270000,18-60 Newcastle Street,2018-07-27,1,1,0,Unit
+620000,8/19 Lindsay Street,2018-07-21,2,2,1,Apartment
+343000,13/110 Mounts Bay Road,2018-07-19,2,1,1,Apartment
+420000,53 'Ecco' 262 Lord Street,2018-07-19,2,2,1,Apartment
+600000,3/22 Knebworth Avenue,2018-07-18,3,1,1,Townhouse
+240000,1/75 Glendower Street,2018-07-18,1,1,0,Apartment
+680000,9/65 Palmerston Street,2018-07-17,3,2,2,Apartment
+240000,95/33 Mounts Bay Road,2018-07-17,1,1,0,Apartment
+500000,G306/2 St Georges Terrace,2018-07-16,2,2,1,Apartment
+490000,102/105 Stirling Street,2018-07-16,2,2,1,Apartment
+395000,7/69 Milligan Street,2018-07-15,2,2,1,Apartment
+260000,30/838-842 Hay Street,2018-07-15,1,1,0,Apartment
+569000,150/369 Hay Street,2018-07-11,3,2,2,Apartment
+505000,15/258-264 Newcastle Street,2018-07-10,2,2,2,Apartment
+415000,304/2 St Georges Terrace,2018-07-07,2,2,1,Apartment
+330000,37/838-842 Hay Street,2018-07-07,1,1,0,Apartment
+363000,39/569 Wellington Street,2018-07-03,1,1,0,Apartment
+370000,13/229 Adelaide Terrace,2018-06-27,1,1,1,Apartment
+650000,128/22 St Georges Terrace,2018-06-26,2,2,1,Apartment
+475000,16/273 Beaufort Street,2018-06-25,2,2,1,Apartment
+735000,1901/105-111 Stirling Street,2018-06-21,2,2,2,Apartment
+475000,6/273 Beaufort Street,2018-06-20,2,2,1,Apartment
+742500,1701/105 Stirling Street,2018-06-19,2,2,2,Off The Plan
+268000,61/15 Aberdeen Street,2018-06-18,1,1,1,Apartment
+214000,31/33 Mounts Bay Road,2018-06-18,1,1,0,Apartment
+440000,1302/237 Adelaide Terrace,2018-06-15,2,2,1,Apartment
+365000,13/128 Mounts Bay Road,2018-06-11,2,2,1,Apartment
+755000,34 Randell Street,2018-06-08,2,1,2,Townhouse
+260000,11B/811 Hay Street,2018-06-07,1,1,0,Apartment
+590000,10 Wade Street,2018-06-06,3,2,1,House
+740000,186 Brisbane Street,2018-05-31,2,1,2,House
+538000,Address Available On Request,2018-05-30,2,2,1,Apartment
+535000,G601/2 St Georges Terrace,2018-05-28,2,2,1,Apartment
+765000,5 Primrose Street,2018-05-28,4,2,2,House
+480000,29 'Equus' 580 Hay Street,2018-05-28,2,2,1,Apartment
+810000,14 Lacey Street,2018-05-25,3,1,2,House
+509000,38/152 Fitzgerald Street,2018-05-22,2,2,1,Apartment
+815000,11/19 Lindsay Street,2018-05-22,2,2,2,Apartment
+320000,83/369 Hay Street,2018-05-20,1,1,1,Apartment
+440000,19/8 Victoria Avenue,2018-05-18,2,2,1,Apartment
+238000,74/15 Aberdeen Street,2018-05-14,1,1,1,Apartment
+610000,10/127 Lake Street,2018-05-11,3,2,1,Townhouse
+255000,36/122 Terrace Road,2018-05-11,1,1,1,House
+430000,9/252 Bulwer Street,2018-05-06,2,1,1,House
+445000,72/69 Milligan Street,2018-05-05,2,2,1,Apartment
+229000,54/33 Mounts Bay Road,2018-05-05,1,1,0,Apartment
+860000,96 Palmerston Street,2018-05-03,3,1,0,House
+360000,39/996 Hay Street,2018-05-03,2,1,1,Apartment
+590000,40/369 Hay Street,2018-04-27,3,2,2,Apartment
+440000,98/69 Milligan Street,2018-04-24,2,2,1,Apartment
+500000,137/996 Hay Street,2018-04-24,3,2,2,Apartment
+430000,82/154 Newcastle Street,2018-04-24,2,2,1,Apartment
+345000,11/273 Beaufort Street,2018-04-21,1,1,1,Apartment
+635000,10 Little Parry Street,2018-04-20,2,2,2,House
+175000,602/12 Victoria Avenue,2018-04-20,1,1,0,Apartment
+1400000,187 Lake Street,2018-04-17,4,2,1,House
+449000,66/375 Hay Street,2018-04-16,2,2,1,Apartment
+895000,96/132 Terrace Road,2018-04-15,3,2,2,Apartment
+460000,148/369 Hay Street,2018-04-12,2,2,1,Apartment
+475000,1106/105-111 Stirling Street,2018-04-12,1,1,1,Apartment
+245000,208/305 MURRAY STREET,2018-04-06,1,1,0,Apartment
+250000,12J/811 Hay Street,2018-04-04,1,1,0,Apartment
+155000,206/12 Victoria Avenue,2018-04-03,1,1,0,Apartment
+650000,9 Lincoln Street,2018-03-28,2,1,1,House
+730000,131 Lake Street,2018-03-27,2,1,0,House
+448500,8/20 Pendal Lane,2018-03-24,2,2,2,Apartment
+360000,108/418 Murray Street,2018-03-23,2,1,1,Apartment
+349000,15/8 Victoria Avenue,2018-03-22,1,1,1,Apartment
+319000,20/101 Murray Street,2018-03-22,1,1,1,Apartment
+369000,"Lot 29, 29/120-122 Lake Street",2018-03-19,2,1,1,Unit
+320000,41/262 Lord Street,2018-03-19,1,1,1,Apartment
+312500,4/132 Mounts Bay Road,2018-03-17,2,1,1,Apartment
+1020000,1805/105-111 Stirling Street,2018-03-09,3,2,2,Apartment
+830000,13 Brookman Street,2018-03-08,4,1,0,House
+252000,3/34 Bulwer Street,2018-03-07,2,1,1,Unit
+315500,34/418 Murray Street,2018-03-02,2,1,1,Apartment
+1175000,29/918 Hay Street,2018-02-26,3,2,2,Apartment
+505000,114/580 Hay Street,2018-02-23,1,1,2,Apartment
+626000,"Lot 55, 4 Wade Street",2018-02-21,4,2,2,House
+470000,3/71 Brewer Street,2018-02-21,2,2,1,Apartment
+593750,1103/105-111 Stirling Street,2018-02-21,2,2,1,Apartment
+410000,510/105-111 Stirling Street,2018-02-21,1,1,1,Apartment
+475000,21/71 Brewer Street,2018-02-20,2,2,1,Apartment
+327500,24/15 Aberdeen St,2018-02-19,1,1,1,Apartment
+343000,22/280 Lord Street,2018-02-19,1,1,1,Apartment
+180000,806/12 Victoria Avenue,2018-02-14,1,1,0,Apartment
+480000,49/369 Hay Street,2018-02-14,2,2,1,Apartment
+328000,118/138 Barrack Street,2018-02-13,1,1,1,Unit
+320000,26/122 Terrace Road,2018-02-12,1,1,1,Apartment
+740000,2001/105-111 Stirling Street,2018-02-09,2,2,2,Apartment
+490000,1407/237 Adelaide Terrace,2018-02-08,2,2,1,Apartment
+1250000,58/255 Adelaide Terrace,2018-02-08,3,2,2,Apartment
+330000,22/8 James Street,2018-02-08,2,1,1,House
+540000,29/14 Money Street,2018-02-07,2,2,1,Apartment
+217000,904/12 Victoria Avenue,2018-02-06,1,1,0,Apartment
+500000,13/145 Newcastle Street,2018-02-06,3,2,1,Apartment
+545000,5/138 Mounts Bay Road,2018-02-05,2,2,1,Apartment
+725000,2 Edith Street,2018-02-05,2,1,2,Townhouse
+340000,29/114 Terrace Road,2018-02-02,2,1,0,Apartment
+840000,123 Lincoln Street,2018-02-01,2,1,1,House
+260000,29/122 Terrace Road,2018-01-30,1,1,0,Apartment
+450000,2/3 Greenway Street,2018-01-25,2,1,0,Townhouse
+250000,19/29 Hill Street,2018-01-24,1,1,0,Apartment
+519000,124/138 Barrack Street,2018-01-24,3,2,1,Apartment
+475000,27/76 Newcastle Street,2018-01-23,2,2,1,Apartment
+182500,803/12 Victoria Avenue,2018-01-22,1,1,0,Apartment
+430000,41/69 Milligan Street,2018-01-18,2,2,1,Apartment
+905000,136B Glendower Street,2018-01-18,3,2,2,House
+213000,25-308 Stirling Street,2018-01-17,1,1,0,Unit
+350000,25/8 James Street,2018-01-13,2,1,1,Apartment
+812500,12 Lane Street,2018-01-13,3,1,0,House
+353000,54/378 Beaufort Street,2018-01-12,1,1,1,Apartment
+360000,40/150 Stirling Street,2018-01-12,1,1,2,Apartment
+888000,19 Knebworth Avenue,2018-01-11,4,2,1,House
+240888,61/4 Bulwer Street,2018-01-10,2,1,1,Apartment
+635000,24 Ruth Street,2018-01-08,3,1,0,House
+395000,58/128 Mounts Bay Road,2018-01-06,2,2,1,Apartment
+227000,2/21 Dangan Street,2018-01-05,1,1,1,Unit
+405000,17/418 Murray Street,2017-12-24,2,1,1,Apartment
+320000,72/154 Newcastle Street,2017-12-16,1,1,1,Unit
+2050000,28 Church Street,2017-12-12,2,3,2,House
+490000,7/226 Beaufort Street,2017-12-12,2,2,1,Apartment
+320000,64/418 Murray Street,2017-12-12,2,1,1,Apartment
+2400000,123/132 Terrace Road,2017-12-11,3,4,3,Apartment
+252500,521/305 Murray Street,2017-12-09,1,1,0,Apartment
+275000,38/418 Murray Street,2017-12-06,2,1,1,Apartment
+515000,501/2 St Georges Terrace,2017-12-04,2,2,1,Apartment
+540000,5/918 Hay Street,2017-12-04,2,1,1,Apartment
+910000,314A Bulwer Street,2017-12-03,4,3,2,House
+565000,18/14 Money Street,2017-12-01,2,2,1,Apartment
+835000,39 Knebworth Avenue,2017-11-30,3,2,2,House
+660000,1005/105 Stirling Street,2017-11-28,2,2,2,Apartment
+520000,25/474 Murray Street,2017-11-27,2,2,1,Apartment
+815000,98/580 Hay Street,2017-11-27,2,2,2,Apartment
+990500,1502/105-111 Stirling Street,2017-11-24,3,2,2,Apartment
+327000,6/126 Terrace Road,2017-11-23,2,1,0,Apartment
+292500,802/305 Murray Street,2017-11-20,1,1,0,Apartment
+300000,63/418-428 Murray St,2017-11-18,2,1,1,Unit
+1030000,5/168 Mounts Bay Road,2017-11-18,3,2,4,Apartment
+190000,507/130A Mounts Bay Road,2017-11-17,1,1,0,Apartment
+665000,73/33 Newcastle Street,2017-11-15,2,2,1,Apartment
+825000,8 Church Street,2017-11-15,3,2,1,Townhouse
+316000,73/418 Murray Street,2017-11-14,2,1,1,Apartment
+1030000,214 Bulwer Street,2017-11-14,4,2,2,House
+1550000,24 Church Street,2017-11-14,3,3,3,House
+350000,96/101 Murray Street,2017-11-13,1,1,1,Apartment
+650000,77 Lindsay Street,2017-11-13,2,1,0,House
+295000,1003/12 Victoria Avenue,2017-11-08,2,1,1,Apartment
+470000,33/474 Murray Street,2017-11-06,2,2,1,Apartment
+330000,119/138 Barrack Street,2017-11-02,1,1,1,Apartment
+410000,704/105-111 Stirling Street,2017-11-02,1,1,1,Apartment
+425000,801/237 Adelaide Terrace,2017-11-02,1,1,1,Apartment
+181800,102/12 Victoria Avenue,2017-10-30,1,1,0,Apartment
+752000,11/580 Hay Street,2017-10-30,3,2,2,Unit
+439000,13/273 Beaufort Street,2017-10-29,1,1,1,Apartment
+500000,179/369 Hay Street,2017-10-27,2,2,2,Apartment
+710000,12/18 Robinson Avenue,2017-10-27,3,2,2,Townhouse
+575000,202/105-111 Stirling Street,2017-10-27,2,2,1,Apartment
+430000,57/128 Mounts Bay Road,2017-10-26,2,2,1,Apartment
+825000,19 Lane Street,2017-10-25,3,1,0,House
+600000,74/132 Terrace Road,2017-10-21,2,2,2,Apartment
+720000,1603/105-111 stir,2017-10-20,2,2,2,Apartment
+800000,4/39 Monger Street,2017-10-19,3,3,1,Townhouse
+215000,504/12 Victoria Avenue,2017-10-18,1,1,0,Apartment
+725000,1503/105-111 Stirling Street,2017-10-17,2,2,2,Apartment
+300000,4/101 Murray Street,2017-10-09,1,1,1,Apartment
+265000,403/305 Murray Street,2017-10-06,1,1,0,Apartment
+645000,49/262 Lord Street,2017-09-29,2,2,2,Apartment
+365000,22/211 Beaufort Street,2017-09-25,1,1,1,Apartment
+1130000,132 Palmerston Street SOLD,2017-09-23,5,1,1,House
+760000,191 Lake  Street,2017-09-21,3,1,0,House
+650000,73 Lindsay Street,2017-09-18,2,1,0,House
+280000,14A/811 Hay Street,2017-09-18,1,1,0,Apartment
+215000,17/132 Mounts Bay Road,2017-09-18,1,1,0,Apartment
+210000,7/308 Stirling Street,2017-09-18,1,1,0,Unit
+725000,1703/105-111 Stirling Street,2017-09-18,2,2,2,Apartment
+420000,10/250 Beaufort Street,2017-09-14,2,2,1,Apartment
+700000,1301/105-111 Stirling Street,2017-09-10,2,2,1,Apartment
+1020000,1802/105-111 Stirling Street,2017-09-09,3,2,2,Apartment
+650000,41/128 Mounts Bay Road,2017-09-08,3,2,2,Apartment
+475000,33/474 Murray Street,2017-09-07,2,2,1,Apartment
+360000,99/418 Murray Street,2017-09-06,2,1,1,Apartment
+360000,29/569 Wellington Street,2017-09-05,1,1,0,Apartment
+1130000,132 Palmerston Street,2017-09-04,5,1,1,House
+455000,38/375 Hay Street,2017-08-31,2,2,1,Apartment
+625000,3/101 Palmerston Street,2017-08-30,3,1,1,Townhouse
+410000,16/838 Hay Street,2017-08-30,1,1,0,Apartment
+908888,23 Gladstone Street,2017-08-26,2,1,0,House
+352500,13/87 Bulwer Street,2017-08-26,1,1,1,House
+485000,39/10 Pendal Lane,2017-08-24,2,2,2,Apartment
+710000,8/22 St Georges Terrace,2017-08-24,3,2,2,Apartment
+550000,75 West Parade,2017-08-21,1,1,0,House
+560000,3/250 Bulwer Street,2017-08-20,2,2,2,Apartment
+295000,11G/811 Hay Street,2017-08-18,1,1,0,Apartment
+835000,57 Lindsay Street,2017-08-18,4,2,1,House
+784000,2/111 Summers Street,2017-08-17,4,2,2,House
+473500,11/22 St Georges Terrace,2017-08-15,2,2,1,Apartment
+395000,15/124 Mounts Bay Road,2017-08-12,2,2,1,House
+315000,48/101 Murray Street,2017-08-11,1,1,1,Apartment
+300000,3/265 Stirling Street,2017-08-08,1,1,0,Apartment
+170000,605/130a Mounts Bay Road,2017-08-08,1,1,0,Apartment
+405000,35/273 Beaufort Street,2017-08-03,1,1,1,Apartment
+220500,14/154 Newcastle Street,2017-08-01,1,1,1,Apartment
+385000,148/15 Aberdeen Street,2017-08-01,2,1,1,Apartment
+270000,405/12 Victoria Avenue,2017-07-31,2,1,0,Apartment
+965000,14 Brookman Street,2017-07-31,4,2,2,Duplex
+240500,M13/811 Hay Street,2017-07-26,1,1,0,Apartment
+266000,5/15 Aberdeen Street,2017-07-26,2,1,1,Apartment
+389000,108/418-428 Murray Street,2017-07-18,2,1,1,Apartment
+220500,Unit 36/132 Mounts Bay Road,2017-07-17,1,1,0,Unit
+700000,2/18 Robinson Avenue,2017-07-13,3,2,2,House
+420000,1/20 Pendal Lane,2017-07-12,2,2,1,Apartment
+2576000,10/2403 The Towers Elizabeth Quay Barrack Street,2017-07-11,3,2,2,Apartment
+195000,101/12 Victoria Ave,2017-07-10,1,1,0,Apartment
+170000,113/33 Mounts Bay Road,2017-07-10,1,1,0,Apartment
+720000,3/18 Robinson Avenue,2017-07-10,3,2,2,Townhouse
+780000,48A Bulwer Street,2017-07-07,3,2,2,House
+695000,62/132 Terrace Road,2017-07-07,2,2,2,Apartment
+900000,8 Orange Street,2017-07-04,3,1,1,House
+420000,1/20 Pendal Lane,2017-07-02,2,2,1,Apartment
+640000,148 Lake Street,2017-06-30,3,2,2,Townhouse
+805000,144 Bulwer Street,2017-06-30,3,2,2,House
+560000,10/117 Lake Street,2017-06-28,2,2,1,House
+850000,15 Randell Place,2017-06-28,3,2,2,House
+435000,78/101 Murray Street,2017-06-26,2,2,1,Apartment
+440000,14/76 Newcastle Street,2017-06-26,2,2,2,Apartment
+535500,61/128 Mounts Bay Road,2017-06-24,3,2,2,Apartment
+220000,1/290 Stirling Street,2017-06-22,1,1,1,Apartment
+290500,105/15 Aberdeen Street,2017-06-21,2,1,1,Apartment
+215000,35/33 Mounts Bay Road,2017-06-21,1,1,0,Apartment
+367500,10/8 Victoria Avenue,2017-06-21,1,1,1,Apartment
+165000,107/12 Victoria Avenue,2017-06-19,1,1,0,Apartment
+315000,14/101 Murray Street,2017-06-15,1,1,1,Apartment
+484500,25/369 Hay Street,2017-06-13,2,2,1,Apartment
+807000,25/82 King Street,2017-06-12,2,2,1,Apartment
+355000,12/28 Robinson Avenue,2017-06-10,1,1,1,Apartment
+525000,37/59 Brewer Street,2017-06-07,2,2,2,Apartment
+820000,6/580 Hay Street,2017-06-07,3,2,2,Apartment
+205000,508/130 Mounts Bay Road,2017-06-07,1,1,0,House
+435000,22/10 Pendal Lane,2017-06-06,2,2,1,Unit
+550000,59/369 Hay Street,2017-06-06,3,2,2,Apartment
+445000,26/273 Beaufort Street,2017-06-03,1,1,0,Apartment
+1295000,8 Somerville Street,2017-06-01,3,1,4,House
+1550000,30/82 King Street,2017-05-25,6,4,2,Apartment
+535000,7/149 Vincent Street (in Cielo Lane),2017-05-19,3,1,2,Townhouse
+247000,34/4 Bulwer Street,2017-05-17,2,1,1,Apartment
+1150000,3 Orange Avenue,2017-05-15,4,2,2,House
+860000,103/580 Hay Street,2017-05-11,2,2,2,Apartment
+580000,62/580 Hay Street,2017-05-10,2,2,2,Apartment
+369000,25/152 Fitzgerald Street,2017-05-10,1,1,1,Apartment
+350000,6/19 Lindsay St,2017-05-10,1,1,1,Apartment
+400000,101/22 St Georges Terrace,2017-05-09,1,1,1,Apartment
+270000,227/305 Murray Street,2017-05-08,1,1,0,Apartment
+517000,30/22 St Georges Terrace,2017-05-05,2,2,1,Apartment
+355000,53/418 Murray Street,2017-05-05,2,1,1,Apartment
+370000,59/996 Hay Street,2017-05-05,2,1,1,Apartment
+405000,23/120 Lake Street,2017-05-04,2,1,1,Apartment
+506000,7/2 Braid Street,2017-05-04,2,1,1,Apartment
+1310000,9-11 Robinson Avenue,2017-05-04,4,4,0,Unit
+740000,6 Stuart Street,2017-05-02,2,1,1,House
+942000,9 Brookman Street,2017-05-01,4,2,1,House
+565000,24/65 Milligan Street,2017-04-28,2,2,2,Apartment
+258000,1C/811 Hay Street,2017-04-21,1,1,0,Apartment
+615000,25/34 Palmerston Street,2017-04-13,2,2,1,Apartment
+669000,93/22 St Georges Tce,2017-04-12,2,2,1,Apartment
+695000,10/65 Palmerston Street,2017-04-10,3,2,2,House
+672500,4/63 Palmerston Street,2017-04-07,4,2,2,House
+330000,31/154 Newcastle Street,2017-04-03,1,1,1,Unit
+700000,44 Marlborough Street,2017-04-03,4,2,1,Townhouse
+1350000,174 Lake Street,2017-03-31,3,2,0,House
+510000,502/237 Adelaide Tce,2017-03-30,2,2,1,Apartment
+540000,18/273 Beaufort Street,2017-03-30,2,1,1,Apartment
+340000,25/15 Aberdeen Street,2017-03-27,1,1,1,Apartment
+800000,13 Brookman Street,2017-03-24,4,1,0,House
+750000,12/65 Palmerston Street,2017-03-22,3,2,2,Apartment
+560000,17/117 Lake Street,2017-03-22,2,2,1,House
+539000,53/280 Lord Street,2017-03-21,2,2,2,Apartment
+830000,48B Bulwer Street,2017-03-20,3,2,2,Townhouse
+760000,16 Edith Street,2017-03-19,3,2,1,Townhouse
+470000,3/305 Bulwer Street,2017-03-15,2,1,1,Townhouse
+320000,5/154 Newcastle Street,2017-03-15,1,1,1,Apartment
+690000,5 Primrose Street,2017-03-15,3,2,2,House
+425000,2/17 Gladstone Street,2017-03-13,2,1,0,Unit
+600000,1/142 Palmerston Street,2017-03-11,2,2,1,House
+280000,42/15 Aberdeen Street,2017-03-10,2,1,1,Apartment
+270500,5B/811 Hay Street,2017-03-10,1,1,0,Apartment
+390000,78/250 Beaufort Street,2017-03-09,2,1,1,Apartment
+560000,9/117 Lake Street,2017-03-09,2,2,1,Townhouse
+330000,12A/5 Smith Street,2017-03-08,2,1,1,Unit
+520000,9/65 Milligan Street,2017-03-02,2,2,1,Apartment
+545000,1001/237 Adelaide Terrace,2017-02-27,2,2,1,Apartment
+1350000,10 Braid Street,2017-02-27,3,2,2,House
+220000,5/12 Wright Street,2017-02-24,1,1,0,Apartment
+555000,81/369 Hay Street,2017-02-24,3,2,0,Apartment
+213900,56/76 Newcastle Street,2017-02-23,1,1,1,House
+350000,78/369 Hay Street,2017-02-22,1,1,1,Apartment
+1600000,12/168 Mounts Bay Road,2017-02-20,4,3,2,Apartment
+215000,22/33 Mounts Bay Road,2017-02-18,1,1,0,Apartment
+390000,46/250 Beaufort Street,2017-02-16,2,1,1,Apartment
+370000,8I/811 Hay Street,2017-02-15,2,1,0,Apartment
+639000,32/280 Lord Street,2017-02-10,3,2,0,Apartment
+380000,24/226 Beaufort Street,2017-02-07,1,1,1,Apartment
+800000,23 Ruth Street,2017-02-07,3,1,1,House
+850000,293 Bulwer Street,2017-02-04,3,2,0,House
+1530000,39 Glendower Street,2017-02-03,3,3,2,House
+249000,112/15 Aberdeen Street,2017-01-30,2,1,1,Apartment
+805000,15 Lacey Street,2017-01-30,4,2,0,House
+395000,9/128 Mounts Bay Road,2017-01-24,2,2,1,Apartment
+405000,47/418 Murray Street,2017-01-23,2,1,1,Apartment
+867500,6/45 Stuart Street,2017-01-19,3,2,2,Townhouse
+705000,18/45 Stuart Street,2017-01-18,3,2,2,Townhouse
+890000,20/122 Mounts Bay Road,2017-01-15,3,2,2,Apartment
+415000,5/33 Windsor Street,2017-01-13,2,2,1,Apartment
+385000,85/418 Murray Street,2017-01-12,2,1,1,Apartment
+525000,186/471 Hay Street,2017-01-10,2,2,1,Apartment
+400000,3/15 Aberdeen Street,2017-01-10,2,1,1,Apartment
+560000,12/2 Braid Street,2017-01-10,2,2,2,Apartment
+545000,43/22 St George's Terrace,2017-01-07,2,2,1,Apartment
+550000,24/82 King Street,2017-01-04,2,2,0,Apartment
+410000,42/120 Lake Street,2017-01-02,2,1,1,Apartment
+315000,919/305 Murray Street,2016-12-28,1,1,0,Apartment
+552000,30A Windsor Street,2016-12-27,2,2,2,House
+405000,56/15 Aberdeen Street,2016-12-21,2,1,1,Apartment
+382200,26/118 Mounts Bay Road,2016-12-19,2,1,1,Apartment
+315000,611/112 Mounts Bay Road,2016-12-19,2,1,2,Apartment
+560000,90/580 Hay Street,2016-12-16,2,2,1,Apartment
+240000,1019/305 Murray Street,2016-12-16,1,1,0,Apartment
+570000,2G Brisbane Terrace,2016-12-12,2,1,1,Townhouse
+384000,32/122 Mounts Bay Road,2016-12-09,2,2,1,Apartment
+1325000,120 Palmerston Street,2016-12-08,4,2,2,House
+400000,124/22 St Georges Tce,2016-12-08,1,1,1,Apartment
+453000,40/154 Newcastle Street,2016-12-06,2,2,1,Apartment
+1060000,25 Myrtle Street,2016-12-06,3,2,2,House
+400000,15/122 Mounts Bay Road,2016-12-06,2,2,1,Apartment
+510000,3/115 Brisbane Street,2016-12-03,3,1,1,Townhouse
+750000,51/171 St Georges Terrace,2016-12-01,3,2,1,Apartment
+226250,808/12 Victoria Avenue,2016-11-25,1,1,0,Apartment
+340000,6i/811 Hay Street,2016-11-21,2,1,0,Apartment
+739000,32 Lacey Street,2016-11-21,4,1,4,House
+415000,5/207 Bulwer  Street,2016-11-16,2,1,1,Apartment
+860000,29 Edith Street,2016-11-13,3,2,2,Townhouse
+438000,58/375 Hay Street,2016-11-11,2,2,1,Apartment
+349000,144/250 Beaufort Street,2016-11-09,1,1,1,Apartment
+450000,92/369 Hay Street,2016-11-08,2,2,1,Apartment
+450000,93/69 Milligan Street,2016-11-08,2,2,1,Apartment
+1825000,206/173 Mounts Bay Rd,2016-11-08,3,2,3,Apartment
+275000,802/305 Murray Street,2016-11-07,1,1,0,Apartment
+317500,69/262 Lord,2016-11-04,1,1,1,Apartment
+685000,2/210 Stirling Street,2016-11-01,3,2,2,Apartment
+1335000,55/132 Terrace Road,2016-11-01,3,2,2,Apartment
+494500,26/369 Hay Street,2016-11-01,2,2,1,Apartment
+380000,606/380 Murray Street,2016-10-31,1,1,0,Apartment
+530000,42/22 St Georges Terrace,2016-10-31,2,2,1,Apartment
+420000,25/69 Milligan Street,2016-10-27,2,2,1,Apartment
+395000,114/101 Murray St,2016-10-26,1,1,1,Apartment
+480000,1207/105-111 Stirling Street,2016-10-25,1,1,1,Apartment
+590000,201/105-111 Stirling Street,2016-10-25,2,2,1,Apartment
+319000,16/114 Terrace Road,2016-10-24,1,1,1,Apartment
+420000,"Lot 55, 805/380 Murray Street",2016-10-21,1,1,1,Apartment
+1140000,61/132 Terrace Road,2016-10-21,3,2,2,Apartment
+184000,30/451 Murray Street,2016-10-18,1,1,0,Apartment
+659000,1/17 Gladstone Street,2016-10-17,2,2,2,Apartment
+401000,"Lot 13, 517/380 Murray Street",2016-10-13,1,1,0,Apartment
+381000,"Lot 292, 2118/380 Murray Street",2016-10-13,1,1,0,Apartment
+710000,195 Lake Street,2016-10-11,3,1,0,House
+280000,10C/811 Hay Street,2016-10-10,1,1,0,Apartment
+202000,706/12 Victoria Avenue,2016-10-09,1,1,0,Apartment
+419000,9/33 Windsor Street,2016-10-08,2,2,1,Apartment
+473000,24/150 Stirling Street,2016-10-06,2,2,1,Apartment
+250000,"Unit 9H, 811 Hay Street",2016-10-04,1,1,0,Apartment
+550000,6/76 Newcastle Street,2016-10-04,2,2,1,Apartment
+518000,23/255 Adelaide Terrace,2016-10-02,2,2,1,Apartment
+575000,48/132 Terrace Road,2016-09-27,1,1,2,Apartment
+375000,50/378 Beaufort Street,2016-09-22,1,1,1,Apartment
+400000,72/418-428 Murray Street,2016-09-22,2,1,1,Apartment
+539000,152 Fitzgerald Street,2016-09-21,2,2,1,Apartment
+550000,6/65 Palmerston Street,2016-09-20,2,2,1,Apartment
+900000,10 Knebworth Avenue,2016-09-18,3,2,2,House
+425000,1/3 Greenway Street,2016-09-16,1,1,1,Townhouse
+575000,92/2 Sherwood Court,2016-09-14,2,1,0,Apartment
+386000,39/150 Stirling Street,2016-09-12,1,1,1,Apartment
+380000,21/152 Fitzgerald Street,2016-09-09,1,1,1,Apartment
+650000,28/14 Money Street,2016-09-08,2,2,1,Apartment
+485000,7A/117 Brisbane Street,2016-09-06,2,1,1,Apartment
+205000,207/130A Mounts Bay Road,2016-09-06,1,1,1,Apartment
+850000,10 McCarthy Street,2016-09-06,2,2,2,Townhouse
+1020000,35/132 Terrace Road,2016-09-05,3,2,2,Apartment
+510000,26/474 Murray Street,2016-09-05,2,2,1,Apartment
+800000,66b Robinson Avenue,2016-09-03,3,1,2,House
+610000,3/43 Bulwer  Street,2016-09-02,2,2,2,House
+1210000,79 Glendower Street,2016-09-02,3,3,1,House
+660000,22/132 Terrace Road,2016-08-31,2,2,2,Apartment
+765000,47/229 Adelaide Terrace,2016-08-30,2,2,2,Apartment
+255000,21/298-300 Stirling Street,2016-08-26,1,1,1,Apartment
+579000,1304/380 Murray Street,2016-08-25,0,0,0,Apartment
+400000,49/15 Aberdeen Street,2016-08-24,2,1,1,Apartment
+230000,601/12 Victoria Avenue,2016-08-23,1,1,0,Apartment
+460000,6/33 Newcastle Street,2016-08-22,2,1,1,Apartment
+730000,234 Lake Street,2016-08-21,2,1,1,House
+335000,21/154 Newcastle Street,2016-08-20,1,1,1,Apartment
+639000,"Lot 228, 1801/380 Murray Street",2016-08-18,2,1,1,Apartment
+552000,33/171 St Georges Terrace,2016-08-18,2,2,0,Apartment
+450000,26/59 Brewer Street,2016-08-16,2,2,1,Apartment
+355000,13D/811 Hay Street,2016-08-16,2,1,0,House
+395000,33/996 Hay Street,2016-08-15,2,1,1,Apartment
+765000,89/132 Terrace Road,2016-08-14,2,2,2,Apartment
+182500,807/12 Victoria Avenue,2016-08-13,1,1,0,Apartment
+430000,401/237 Adelaide Terrace,2016-08-10,1,1,1,Apartment
+345000,3/569 Wellington Street,2016-08-10,1,1,0,Apartment
+235000,10/290 Stirling Street,2016-08-09,1,1,1,Unit
+680000,1504/237 Adelaide Tce,2016-08-07,2,2,1,Apartment
+519000,"Lot 54, 804/380 Murray Street",2016-08-05,2,1,1,Apartment
+443000,"Lot 121, 1117/380 Murray Street",2016-08-05,1,1,1,Apartment
+425000,"Lot 102, 1016/380 Murray Street",2016-08-03,2,1,1,Apartment
+570000,52/33 Newcastle Street,2016-08-03,2,2,1,Apartment
+375000,23/8 James Street,2016-07-30,2,1,1,Apartment
+515000,93/171 St Georges Terrace,2016-07-28,2,2,1,Apartment
+730000,8/69 Murray Street,2016-07-27,4,1,1,Townhouse
+690000,6/34 Palmerston Street,2016-07-27,2,2,1,House
+403000,56/996 Hay Street,2016-07-27,2,1,1,Apartment
+348000,48/177 Stirling Street,2016-07-26,1,1,1,Apartment
+370000,6/60 Newcastle Street,2016-07-26,1,1,1,Apartment
+1830000,137 - 143 Lake Street,2016-07-25,8,4,0,House
+521000,"Lot 141, 1301/380 Murray Street",2016-07-25,2,2,1,Apartment
+571000,"Lot 154, 1314/380 Murray Street",2016-07-25,2,1,1,Apartment
+338000,45/101 Murray Street,2016-07-25,1,1,1,Apartment
+700000,41 Monger,2016-07-22,3,1,1,House
+792500,1/82 King Street,2016-07-22,3,2,1,Apartment
+400000,29/996 Hay Street,2016-07-22,2,1,1,Apartment
+528000,166/471 Hay Street,2016-07-22,2,2,1,Apartment
+1000000,308 Bulwer Street,2016-07-20,3,2,2,House
+313000,"Lot 50, 718/390 Murray Street",2016-07-19,0,0,0,Apartment
+317000,"Lot 68, 818/380 Murray Street",2016-07-19,0,0,0,Apartment
+370000,3/33 Windsor Street,2016-07-18,1,1,1,Apartment
+535000,501/2 St Georges Terrace,2016-07-18,2,2,1,Apartment
+660000,87 West Parade,2016-07-18,2,1,0,House
+418000,16/128 Mounts Bay Road,2016-07-17,2,2,1,Apartment
+560000,4/478 William Street,2016-07-12,3,2,2,Apartment
+570000,2/19 Lindsay Street,2016-07-12,2,2,1,Apartment
+190000,308/12 Victoria Avenue,2016-07-09,1,1,0,Apartment
+415000,"Lot 44, 712/380 Murray Street",2016-07-08,1,1,0,Apartment
+535000,27/145 Newcastle Street,2016-07-06,3,2,1,Apartment
+815000,97 West Parade,2016-07-01,2,1,1,House
+494500,26/369 Hay Street,2016-06-30,2,2,1,Apartment
+350000,98/996 Hay Street,2016-06-29,2,1,1,Apartment
+190000,3/101 Murray Street,2016-06-29,1,1,0,Apartment
+710000,193 Lake Street,2016-06-29,3,1,0,House
+548000,"Lot 118, 1114/380 Murray Street",2016-06-28,2,1,1,Apartment
+385000,10/474 Murray Street,2016-06-27,1,1,1,Apartment
+440000,31/69 Milligan Street,2016-06-25,2,2,1,Apartment
+223500,34/4 Bulwer,2016-06-24,2,1,0,Apartment
+475000,"Lot 25, 611/380 Murray Street",2016-06-24,2,1,1,Apartment
+567000,"Lot 126, 1204/380 Murray Street",2016-06-24,2,1,1,Apartment
+317000,"Lot 65, 815/380 Murray Street",2016-06-24,1,1,0,Apartment
+300000,1/38 Bulwer Street,2016-06-22,2,1,1,Apartment
+360000,22/280 Lord Street,2016-06-22,1,1,0,Apartment
+620000,74/22 St Georges Tce,2016-06-21,2,2,1,Apartment
+528000,"Lot 69, 901/380 Murray Street",2016-06-21,2,1,2,Apartment
+530000,"Lot 100, 1014/380 Murray Street",2016-06-21,2,1,1,Apartment
+420000,"Lot 63, 813/380 Murray Street",2016-06-21,1,1,1,Apartment
+436000,"Lot 89, 1003/380 Murray Street",2016-06-21,1,1,1,Apartment
+385000,"Lot 48, 716/380 Murray Street",2016-06-21,1,1,1,Apartment
+380000,"Lot 27, 613/380 Murray Street",2016-06-21,1,1,1,Apartment
+790000,87/580 Hay Street,2016-06-20,2,2,2,Apartment
+407000,26/116 Mounts Bay Road,2016-06-19,2,1,2,Apartment
+190000,906/12 Victoria Avenue,2016-06-18,1,1,0,Apartment
+385000,"Lot 49, 717/380 Murray Street",2016-06-18,1,1,0,Apartment
+550000,28/255 Adelaide Terrace,2016-06-14,2,2,1,Apartment
+556000,"Lot 105, 1101/380 Murray Street",2016-06-09,2,1,2,Apartment
+618000,"Lot 28, 614/380 Murr",2016-06-09,2,1,2,Apartment
+430000,"Lot 103, 1017/380 Murray Street",2016-06-09,1,1,1,Apartment
+380000,110/15 Aberdeen Street,2016-06-09,1,1,1,Apartment
+425000,40/996 Hay Street,2016-06-09,2,1,1,Apartment
+328000,51/154 Newcastle Street,2016-06-09,1,1,1,Apartment
+375000,505/9 Victoria Avenue,2016-06-07,1,1,1,Apartment
+762000,96/580 Hay Street,2016-06-06,2,2,2,Apartment
+385000,Unit 7m / 811 Hay Street,2016-06-03,2,1,0,Apartment
+900000,29/134 Mounts Bay Road,2016-06-01,4,2,2,Apartment
+345000,806/9 Victoria Ave,2016-06-01,1,1,0,Apartment
+430000,11/118 Mounts Bay Road,2016-05-26,2,1,1,Apartment
+496000,98/369 Hay Street,2016-05-25,2,2,1,Apartment
+338000,8/838 Hay Street,2016-05-25,1,1,0,Apartment
+621885,33 West Parade,2016-05-23,2,1,1,House
+420000,4/300 Fitzgerald Street,2016-05-23,1,1,1,Apartment
+625000,32/229 Adelaide Terrace,2016-05-20,2,2,2,Apartment
+445000,2/154 Newcastle Street,2016-05-19,2,2,1,Apartment
+703000,1/255 Adelaide Terrace,2016-05-18,3,2,2,Apartment
+457500,19/378 Beaufort Street,2016-05-16,2,2,1,Apartment
+556000,"Lot 1104, 108/380 Murray Street",2016-05-15,0,0,0,Apartment
+449000,"Lot 138, 1216/380 Murray Street",2016-05-13,0,0,0,Apartment
+665000,28/65 Palmerston  Street,2016-05-13,3,2,0,House
+620000,30/132 Terrace Road,2016-05-12,2,2,2,House
+500000,"Lot 18, 604/380 Murray Street",2016-05-12,0,0,0,Apartment
+566000,31/474 Murray Street,2016-05-12,2,2,1,Apartment
+420000,79/132 Terrace Road,2016-05-10,1,1,1,Apartment
+1065000,6 Dangan Street,2016-05-08,4,2,2,House
+490000,8/246 Bulwer Street,2016-05-05,2,2,1,Apartment
+537000,"Lot 1001, 87/390 Murray Street",2016-05-02,0,0,0,Apartment
+525000,15/150 Stirling Street,2016-05-01,2,2,2,Apartment
+358000,20/28 Robinson Avenue,2016-05-01,1,1,0,Apartment
+1090000,1 Orange Avenue,2016-04-30,3,1,0,House
+360000,14/199-199 Bulwer Street,2016-04-29,1,1,1,Apartment
+405000,23/569 Wellington Street,2016-04-28,1,1,0,Apartment
+480000,18/65 Milligan Street,2016-04-27,2,2,1,Apartment
+835000,9 Moir Street,2016-04-19,3,1,0,House
+375000,"Lot 9, 509/380 Murray Street",2016-04-19,0,0,0,Apartment
+528000,"Lot 72, 904/380 Murray Street",2016-04-19,0,0,0,Apartment
+529000,1/18 Brisbane Street,2016-04-18,2,2,2,House
+415000,23/20 Pendal Lane,2016-04-14,2,2,1,Apartment
+506000,"Lot 1, 501/390 Murray Street",2016-04-13,0,0,0,Apartment
+632000,81 Lindsay Street,2016-04-12,2,1,0,House
+425000,"Lot 85, 917/390 Murray Street",2016-04-10,0,0,0,Apartment
+425000,"Lot 84, 916/390 Murray Street",2016-04-08,0,0,0,Apartment
+380000,10I/811 Hay Street,2016-04-07,2,1,0,Apartment
+230000,708/12 Victoria Avenue,2016-04-04,1,1,0,Apartment
+420000,"Lot 67, 817/390 Murray Street",2016-04-04,0,0,0,Apartment
+449000,"Lot 160, 1102/390 Murray Street",2016-04-01,0,0,0,Apartment
+295000,"Lot 11, 515/390 Murray Street",2016-04-01,0,0,0,Apartment
+420000,"Lot 66, 816/390 Murray Street",2016-04-01,0,0,0,Apartment
+760000,7 Lacey Street,2016-04-01,2,2,0,House
+885000,80/132 Terrace Road,2016-03-29,3,2,2,Apartment
+493000,"Lot 61, 811/380 Murray Street",2016-03-29,0,0,0,Apartment
+421000,"Lot 35, 703/390 Murray Street",2016-03-26,1,1,0,Apartment
+455000,"Lot 71, 903/390 Murray Street",2016-03-26,1,1,0,Apartment
+455000,"Lot 124, 1202/390 Murray Street",2016-03-26,1,1,0,Apartment
+455000,"Lot 125, 1203/390 Murray Street",2016-03-26,1,1,0,House
+338000,1002/305 Murray Street,2016-03-23,1,1,1,Apartment
+250950,14/154 Newcastle Street,2016-03-23,1,1,1,Apartment
+530000,47/34 Palmerston Street,2016-03-23,2,2,1,Apartment
+725000,120/22 St Georges Terrace,2016-03-23,2,2,1,Apartment
+380000,51/375 Hay Street,2016-03-22,1,1,1,Apartment
+760000,13/45-47 Stuart Street,2016-03-21,3,2,2,Townhouse
+375000,"Lot 8, 508/380 Murray Street",2016-03-19,0,0,0,Apartment
+520000,16/226 Beaufort Street,2016-03-18,2,2,1,Apartment
+309000,"Lot 32, 618/390 Murray Street",2016-03-17,1,1,0,Apartment
+309000,"Lot 29, 615/380 Murray Street",2016-03-17,0,0,0,Apartment
+519000,"Lot 51, 801/390 Murray Street",2016-03-15,0,0,0,Apartment
+385000,Unit 7/5 Smith Street,2016-03-13,2,1,1,Apartment
+410000,70/418 Murray Street,2016-03-10,2,1,1,Apartment
+194000,407/12 Victoria Avenue,2016-03-09,1,1,0,Apartment
+459000,41/28 Robinson Avenue,2016-03-03,2,1,1,Apartment
+450000,70/996 Hay Street,2016-03-03,2,1,1,House
+225000,17/305 Murray Street,2016-03-02,1,1,0,House
+539000,14/87 Bulwer Street,2016-03-01,2,2,1,Apartment
+580000,1/199 Lincoln Street,2016-02-29,3,2,1,Townhouse
+850000,16/82 King Street,2016-02-28,2,2,1,Apartment
+532000,14/87 Bulwer Street,2016-02-27,2,2,1,Apartment
+720000,105 Glendower Street,2016-02-24,2,1,1,House
+473000,"Lot 178, 1502/380 Murray Street",2016-02-24,0,0,0,Apartment
+495000,36/474 Murray Street,2016-02-19,2,2,1,Apartment
+382500,12D/811 Hay Street,2016-02-17,2,1,0,Apartment
+200000,602/12 Victoria Avenue,2016-02-17,1,1,0,Apartment
+590000,"Lot 162, 1404/390 Murray Street",2016-02-13,0,0,0,Apartment
+235000,204/130a Mounts Bay Road,2016-02-03,1,1,1,Apartment
+482000,5/280 Lord Street,2016-01-30,2,2,0,Apartment
+405000,34/255 Adelaide Terrace,2016-01-28,1,1,0,Apartment
+612000,25/65 Milligan Street,2016-01-27,2,2,2,Apartment
+365000,53/101 Murray Street,2016-01-25,1,1,1,Apartment
+475000,23/59 Brewer Street,2016-01-24,2,2,1,Apartment
+572500,18 Marlborough Street,2016-01-24,3,1,2,House
+700000,4/63 Palmerston Street,2016-01-23,3,2,1,Townhouse
+400000,13/60 Newcastle Street,2016-01-22,1,1,1,Apartment
+348000,21/101 Murray St,2016-01-22,1,1,1,Apartment
+600000,121/138 Barrack Street,2016-01-15,2,2,1,Apartment
+395000,11/280 Lord Street,2016-01-11,1,1,0,Apartment
+425000,126/250 Beaufort Street,2016-01-04,2,1,1,Apartment
+285000,11/305 Murray Street,2015-12-30,1,1,0,Apartment
+980000,200 Lake Street,2015-12-23,4,3,0,House
+313000,208/112 Mounts Bay Road,2015-12-21,1,1,1,Apartment
+244500,13/154 Newcastle Street,2015-12-18,1,1,1,Apartment
+297500,28/15 Aberdeen Street,2015-12-18,2,1,1,Apartment
+539000,4/918 Hay Street,2015-12-16,2,1,1,Apartment
+460000,4/375 Hay Street,2015-12-15,2,2,1,Apartment
+2200000,G01/173 Mounts Bay Road,2015-12-15,3,2,3,Apartment
+440000,5/116 Mounts Bay Road,2015-12-12,2,1,1,Apartment
+536000,5/58 Newcastle Street,2015-12-11,2,2,2,Apartment
+437500,105/418 Murray Street,2015-12-09,2,1,1,Apartment
+460000,46/229 Adelaide Terrace,2015-12-09,1,1,1,Apartment
+288000,9/19 Lindsay Street,2015-12-09,1,1,0,Apartment
+740000,7/101 Palmerston Street,2015-12-05,3,1,1,House
+273000,145/15 Aberdeen Street,2015-12-04,1,1,1,Apartment
+857000,11 Orange Avenue,2015-12-01,2,1,2,House
+385500,2/75 Glendower Street,2015-12-01,2,1,1,Apartment
+625000,30/65 Milligan Street,2015-11-27,2,2,2,Apartment
+485000,68/69 Milligan Street,2015-11-25,2,2,1,Apartment
+450000,410/2 St Georges Terrace,2015-11-20,1,1,1,Apartment
+577000,84/369 Hay Street,2015-11-20,3,2,2,Apartment
+505000,50/369 Hay Street,2015-11-17,2,2,1,Apartment
+312000,6G/811 Hay Street,2015-11-16,1,1,0,Apartment
+440000,121/215 Stirling Street,2015-11-16,2,1,1,Apartment
+760000,17 Myrtle Street,2015-11-15,3,1,0,House
+490000,81/154 Newcastle Street,2015-11-13,2,2,1,Apartment
+780000,105/132 Terrace Road,2015-11-12,2,2,2,Apartment
+255000,14/290 Stirling Street,2015-11-12,1,1,0,Unit
+759000,44/229 Adelaide Terrace,2015-11-10,2,2,2,Apartment
+599000,33/177 Stirling Street,2015-11-06,2,2,2,Apartment
+239000,3/290 Stirling Street,2015-11-02,1,1,1,Unit
+500000,22/65 Milligan Street,2015-11-02,2,1,1,Apartment
+465000,7/996 Hay Street,2015-10-26,2,1,1,Apartment
+2300000,207/173 Mounts Bay Road,2015-10-23,3,2,3,Apartment
+660000,12 Brisbane Terrace,2015-10-23,2,1,0,House
+710000,99 Glendower Street,2015-10-22,2,1,0,House
+330000,1004/305 Murray Street,2015-10-21,1,1,0,Apartment
+478000,50/229 Adelaide Terrace,2015-10-19,1,1,1,Apartment
+470000,84/250 Beaufort Street,2015-10-16,2,2,2,Apartment
+890000,11 Moir Street,2015-10-15,3,2,1,House
+390000,17/8 James Street,2015-10-15,2,1,1,Apartment
+260000,15D/811 Hay Street,2015-10-12,1,1,0,Apartment
+980000,158 Brisbane Street,2015-10-10,4,1,0,House
+385000,12/101 Murray St,2015-10-08,1,1,1,Apartment
+385000,612/112 Mounts Bay Road,2015-10-08,2,1,2,Apartment
+350000,16/101 Murray Street,2015-10-07,1,1,1,Apartment
+290000,17/124 Terrace Road,2015-10-06,1,1,1,Apartment
+400000,812/305 Murray Street,2015-10-06,2,1,1,Apartment
+490000,31/375 Hay Street,2015-10-01,2,2,1,Apartment
+527500,54/69 Milligan Street,2015-09-26,2,2,1,Apartment
+485000,14/59 Brewer Street,2015-09-25,2,2,1,Apartment
+399000,43/177 Stirling Street,2015-09-25,1,1,1,Apartment
+745000,49 Forbes Road,2015-09-24,2,2,2,House
+371500,6/315 Bulwer Street,2015-09-20,1,1,1,Apartment
+855000,90 Palmerston Street,2015-09-17,3,1,0,House
+420250,44/120 Lake Street,2015-09-17,2,1,1,Unit
+715000,20 Edith Street,2015-09-16,3,2,1,House
+530000,10/177 Stirling Street,2015-09-15,2,2,1,Apartment
+533000,21/22 St Georges Terrace,2015-09-15,2,2,0,Apartment
+415000,113/418 Murray Street,2015-09-11,2,1,1,Apartment
+925000,33 Knebworth Avenue,2015-09-08,3,2,2,House
+1623000,180 Palmerston Street,2015-09-08,4,3,2,House
+437000,26/120 Lake Street,2015-09-05,2,1,1,Apartment
+395000,13/130 Terrace Road,2015-09-05,2,1,1,Apartment
