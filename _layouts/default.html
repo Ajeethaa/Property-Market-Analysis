@@ -17,19 +17,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
-  <style>
-body {
-  background-image: url("https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
-}
-</style>
-  
   <body>
-      
-    <div id="header">
+      <div id="header">
         <nav>
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          {% if site.show_downloads %}
-            {% endif %}
+          
         </nav>
       </div><!-- end header -->
 
@@ -47,6 +39,9 @@ body {
         {{ content }}
 
       </section>
+
     </div>
-      </body>
+
+    
+  </body>
 </html>
